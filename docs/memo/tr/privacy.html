@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gizlilik Politikası - Memo</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2, h3 { color: #2c3e50; }
+        hr { border: 0; border-top: 1px solid #eee; margin: 40px 0; }
+        code { background: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
+        ul, ol { padding-left: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>Gizlilik Politikası - Memo</h1>
+    <p><strong>Son Güncelleme:</strong> 11 Temmuz 2026</p>
+
+    <h2>Giriş</h2>
+    <p>Memo ("biz", "uygulamamız", "AppGur") gizliliğinize saygı duyar. Bu gizlilik politikası, Memo (Kelime Öğrenme ve Dil Pratiği) uygulamasının hangi verileri topladığını, bu verileri nasıl kullandığını ve koruduğunu açıklar.</p>
+
+    <h2>Toplanan Veriler ve Kullanım Amaçları</h2>
+    
+    <h3>Kişisel Bilgiler ve Hesap Verileri (Google Sign-In)</h3>
+    <p>Uygulamamız, lig (sıralama) sistemi ve ilerlemenizin buluta yedeklenebilmesi için isteğe bağlı olarak <strong>Google ile Giriş Yap (Firebase Authentication)</strong> özelliğini kullanır. Bu giriş yöntemini kullandığınızda şu veriler alınır ve saklanır:</p>
+    <ul>
+        <li>Sadece kullanıcı adınız (Lig sıralamalarında diğer kullanıcılara gösterilir)</li>
+        <li>E-posta Adresiniz (Yalnızca kimlik doğrulama için kullanılır, üçüncü şahıslarla paylaşılmaz)</li>
+        <li>Kullanıcı ID (UID) ve Profil Fotoğrafınız</li>
+        <li>Oyun içi kazandığınız XP, puan ve seviye (Cloud Firestore üzerinde yedeklenir)</li>
+    </ul>
+    <p>Uygulamayı giriş yapmadan <strong>çevrimdışı (Misafir modunda)</strong> kullanırsanız, hiçbir kişisel bilginiz toplanmaz ve verileriniz sadece kendi cihazınızda (yerel depolama/Hive) kalır.</p>
+
+    <h3>Uygulama Kullanım Verileri (Analitik)</h3>
+    <p>Uygulamanın geliştirilmesi için <strong>Firebase Analytics</strong> ve <strong>Firebase Crashlytics</strong> aracılığıyla anonim kullanım istatistikleri toplarız:</p>
+    <ul>
+        <li>Uygulama açılma sayısı ve özellik kullanım istatistikleri</li>
+        <li>Cihaz türü (model, işletim sistemi)</li>
+        <li>Kilitlenme ve hata raporları (Crashlytics)</li>
+    </ul>
+    <p>Bu veriler <strong>anonim</strong> olup, hataları düzeltmemiz ve kullanıcı deneyimini iyileştirmemiz için kullanılır.</p>
+
+    <h3>Reklam Verileri (Önemli Politika)</h3>
+    <p>Uygulamamız, ücretsiz hizmet sunabilmek için <strong>Google AdMob</strong> üzerinden reklam (özellikle ödüllü reklamlar) gösterimi yapmaktadır. AdMob, size reklam gösterebilmek için şu verileri toplayabilir:</p>
+    <ul>
+        <li>Cihaz bilgileri (model, işletim sistemi versiyonu)</li>
+        <li>IP adresi (yaklaşık konum ve bölgesel reklamlar için)</li>
+        <li>Reklam etkileşim verileri</li>
+        <li>Reklam tanımlayıcıları (Android Advertising ID)</li>
+    </ul>
+    <p>AdMob'un veri toplama ve kullanım politikaları hakkında daha fazla bilgi almak için:</p>
+    <ul>
+        <li><a href="https://policies.google.com/privacy" target="_blank">Google Gizlilik Politikası</a></li>
+        <li><a href="https://support.google.com/admob/answer/6128543" target="_blank">AdMob Veri Kullanımı</a></li>
+    </ul>
+
+    <h3>Kişiselleştirilmiş Reklamlar</h3>
+    <p>Kullanıcılar cihazlarındaki Google ayarlarından kişiselleştirilmiş reklamları diledikleri zaman devre dışı bırakabilir:</p>
+    <ul>
+        <li><strong>Android:</strong> Ayarlar → Google → Reklamlar → Reklam kişiselleştirmesini kapat adımlarını izleyebilirsiniz.</li>
+    </ul>
+
+    <h2>Üçüncü Taraf Hizmetler</h2>
+    <p>Uygulamamız şu Google hizmetlerini barındırır ve bu hizmetler kendi gizlilik politikalarına tabidir:</p>
+    <ol>
+        <li><strong>Google Firebase (Analytics, Crashlytics, Auth, Firestore)</strong> - <a href="https://firebase.google.com/support/privacy" target="_blank">Firebase Gizlilik Politikası</a></li>
+        <li><strong>Google AdMob</strong> - <a href="https://support.google.com/admob/answer/6128543" target="_blank">AdMob Gizlilik Politikası</a></li>
+    </ol>
+
+    <h2>Çocukların Gizliliği</h2>
+    <p>Memo, genel yaş kitlesine hitap eden bir eğitim uygulamasıdır. Özellikle 13 yaş altı çocuklardan ebeveyn izni olmadan kişisel veri (isim, e-posta) toplamayı amaçlamaz. Çocuğunuzun bilgimiz dışında veri paylaştığını düşünüyorsanız lütfen bizimle iletişime geçin.</p>
+
+    <h2>Veri Güvenliği ve Saklama</h2>
+    <ul>
+        <li>İlerleme verileriniz, hesabınız aktif olduğu sürece Firestore üzerinde güvenle saklanır.</li>
+        <li>Toplanan tüm veriler endüstri standardı güvenlik önlemleriyle (şifreli ağ bağlantıları vb.) korunur.</li>
+    </ul>
+
+    <h2>Verilerin Silinmesi ve Kullanıcı Hakları (KVKK/GDPR)</h2>
+    <p>Kanunlar kapsamında verilerinize erişim, düzeltme ve silme hakkınız bulunmaktadır. Verilerinizi silmek için:</p>
+    <ol>
+        <li>Uygulamayı silebilirsiniz (Çevrimdışı/Misafir verileri tamamen cihazınızdan silinir).</li>
+        <li>Lig sistemine giriş yaptıysanız, verilerinizin Firestore (Bulut) sunucularından tamamen silinmesi için geliştirici e-posta adresimiz üzerinden talepte bulunabilirsiniz.</li>
+    </ol>
+
+    <h2>İletişim</h2>
+    <p>Bu gizlilik politikası hakkında sorularınız, veri silme talepleriniz veya önerileriniz için aşağıdaki kanallardan bize ulaşabilirsiniz:</p>
+    <p><strong>Geliştirici E-posta:</strong> [Geliştirici Email Adresinizi Buraya Yazın]</p>
+    <p><strong>Web Sitesi:</strong> <a href="https://appgur.com">appgur.com</a></p>
+
+    <hr>
+    <p><em>Bu gizlilik politikası, AppGur tarafından Memo mobil uygulaması için hazırlanmıştır.</em></p>
+
+</body>
+</html>
