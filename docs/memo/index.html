@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Memo - Eğlenceli İngilizce Kelime Öğrenimi</title>
+    <!-- Google Fonts: Eğlenceli ve okunaklı bir font olan Nunito -->
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        :root {
+            /* Duolingo Tarzı Canlı Renk Paleti */
+            --primary: #58cc02;          /* Ana Yeşil */
+            --primary-shadow: #58a700;   /* Yeşil Gölge */
+            --primary-hover: #46a302;
+            
+            --bg-color: #ffffff;
+            --bg-alt: #f7f7f7;           /* Hafif gri arka plan */
+            
+            --text-main: #3c3c3c;
+            --text-muted: #777777;
+            --border-color: #e5e5e5;
+            
+            /* Vurgu Renkleri */
+            --accent-blue: #1cb0f6;
+            --accent-blue-shadow: #1899d6;
+            --accent-orange: #ff9600;
+            --accent-red: #ff4b4b;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Nunito', sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            overflow-x: hidden;
+        }
+
+        /* Navigasyon - Temiz ve Sabit */
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 5%;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 100;
+            background-color: var(--bg-color);
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 2rem;
+            font-weight: 800;
+            color: var(--primary);
+            text-decoration: none;
+            letter-spacing: -1px;
+        }
+
+        .logo img {
+            width: 45px;
+            height: auto;
+        }
+
+        /* Eğlenceli Buton Stilleri */
+        .btn {
+            display: inline-block;
+            background-color: var(--primary);
+            color: white;
+            font-weight: 800;
+            font-size: 1.1rem;
+            padding: 14px 28px;
+            border-radius: 16px;
+            text-decoration: none;
+            border: none;
+            cursor: pointer;
+            box-shadow: 0 4px 0 var(--primary-shadow);
+            transition: transform 0.1s, box-shadow 0.1s;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .btn:active {
+            transform: translateY(4px);
+            box-shadow: 0 0 0 var(--primary-shadow);
+        }
+
+        .btn-blue {
+            background-color: var(--accent-blue);
+            box-shadow: 0 4px 0 var(--accent-blue-shadow);
+        }
+        
+        .btn-blue:active {
+            box-shadow: 0 0 0 var(--accent-blue-shadow);
+        }
+        
+        .btn i {
+            margin-right: 8px;
+            font-size: 1.2rem;
+        }
+
+        /* Hero (Ana Bölüm) */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            padding: 8rem 5% 4rem;
+            gap: 4rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .hero-content {
+            flex: 1;
+        }
+
+        .hero-content h1 {
+            font-size: clamp(2.5rem, 4vw, 4rem);
+            font-weight: 900;
+            color: var(--text-main);
+            line-height: 1.2;
+            margin-bottom: 1.5rem;
+        }
+
+        .hero-content p {
+            font-size: 1.3rem;
+            color: var(--text-muted);
+            margin-bottom: 2.5rem;
+            font-weight: 600;
+            line-height: 1.6;
+        }
+
+        .store-buttons {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .hero-image {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            position: relative;
+        }
+
+        .parrot-mascot {
+            width: 100%;
+            max-width: 400px;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-15px); }
+            100% { transform: translateY(0px); }
+        }
+
+        /* Özellikler */
+        .features {
+            background-color: var(--bg-alt);
+            padding: 5rem 5%;
+            border-top: 2px solid var(--border-color);
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .section-title {
+            text-align: center;
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--text-main);
+            margin-bottom: 3rem;
+        }
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .feature-card {
+            background: white;
+            border: 2px solid var(--border-color);
+            border-radius: 24px;
+            padding: 2.5rem 2rem;
+            text-align: center;
+            transition: transform 0.2s;
+            box-shadow: 0 4px 0 var(--border-color);
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .feature-icon {
+            width: 80px;
+            height: 80px;
+            margin: 0 auto 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.5rem;
+            border-radius: 20px;
+            color: white;
+        }
+
+        .bg-green { background-color: var(--primary); }
+        .bg-blue { background-color: var(--accent-blue); }
+        .bg-orange { background-color: var(--accent-orange); }
+
+        .feature-card h3 {
+            font-size: 1.5rem;
+            font-weight: 800;
+            margin-bottom: 1rem;
+            color: var(--text-main);
+        }
+
+        .feature-card p {
+            color: var(--text-muted);
+            font-weight: 600;
+            font-size: 1.1rem;
+            line-height: 1.5;
+        }
+
+        /* Ekran Görüntüleri Galerisi */
+        .screenshots {
+            padding: 5rem 5%;
+        }
+
+        .screenshot-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .screenshot-item {
+            border-radius: 24px;
+            overflow: hidden;
+            border: 4px solid var(--border-color);
+            box-shadow: 0 8px 0 var(--border-color);
+            background: white;
+            transition: transform 0.2s;
+        }
+
+        .screenshot-item:hover {
+            transform: translateY(-5px);
+        }
+
+        .screenshot-item img {
+            width: 100%;
+            display: block;
+            object-fit: cover;
+        }
+
+        /* Footer */
+        footer {
+            background-color: var(--bg-alt);
+            padding: 3rem 5%;
+            text-align: center;
+            border-top: 2px solid var(--border-color);
+        }
+
+        .footer-logo {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            font-size: 1.5rem;
+            font-weight: 800;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+        
+        .footer-logo img {
+            width: 30px;
+            filter: grayscale(100%);
+            opacity: 0.5;
+        }
+
+        /* Responsive Tasarım */
+        @media (max-width: 768px) {
+            .hero {
+                flex-direction: column;
+                text-align: center;
+                padding-top: 8rem;
+                gap: 2rem;
+            }
+
+            .store-buttons {
+                justify-content: center;
+            }
+
+            .parrot-mascot {
+                max-width: 250px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="#" class="logo">
+            <img src="images/memo_parrot.png" alt="Memo Mascot">
+            Memo
+        </a>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>İngilizce kelime öğrenmenin en eğlenceli ve ücretsiz yolu!</h1>
+            <p>Sıkıcı kelime listelerine son. Eğlenceli mini oyunlar, akıllı kelime kartları ve günlük serilerle 3000 kelimeyi kalıcı olarak öğrenin.</p>
+            
+            <div class="store-buttons">
+                <a target="_blank" href="https://apps.apple.com/us/app/memo-i-ngilizce-%C3%B6%C4%9Fren/id6789945748" class="btn">
+                    <i class="fa-brands fa-apple"></i> App Store
+                </a>
+                <a target="_blank" href="https://play.google.com/store/apps/details?id=com.appgur.memo&hl=tr" class="btn btn-blue">
+                    <i class="fa-brands fa-google-play"></i> Google Play
+                </a>
+            </div>
+        </div>
+        
+        <div class="hero-image">
+            <img src="images/memo_parrot.png" alt="Memo Parrot Mascot" class="parrot-mascot">
+        </div>
+    </section>
+
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">Neden Memo'yu Seveceksiniz?</h2>
+            
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <div class="feature-icon bg-green">
+                        <i class="fa-solid fa-layer-group"></i>
+                    </div>
+                    <h3>Akıllı Kelime Kartları</h3>
+                    <p>Aralıklı Tekrar (Spaced Repetition) sistemi ile öğrendiğiniz kelimeleri tam unutmak üzereyken tekrar karşınıza çıkararak %100 kalıcılık sağlar.</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon bg-blue">
+                        <i class="fa-solid fa-map-location-dot"></i>
+                    </div>
+                    <h3>Oyunlaştırılmış Harita</h3>
+                    <p>Sıradan listeler yerine seviyelerden oluşan bir haritada ilerleyin. Mini oyunlar, sesli testler ve yazma görevleriyle sıkılmadan öğrenin.</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon bg-orange">
+                        <i class="fa-solid fa-fire"></i>
+                    </div>
+                    <h3>Günlük Seri ve Quizler</h3>
+                    <p>Her gün sadece birkaç dakikanızı ayırın. "Seri Alevlendi!" bildirimini kaçırmamak için her gün çalışarak öğrenmeyi alışkanlık haline getirin.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="screenshots">
+        <div class="container">
+            <h2 class="section-title">Uygulamadan Kareler</h2>
+            <div class="screenshot-grid">
+                <!-- Klasördeki gerçek SS isimleri kullanıldı -->
+                <div class="screenshot-item">
+                    <img src="images/Screenshot_20260711_165915.jpg" alt="Memo App Screen 1">
+                </div>
+                <div class="screenshot-item">
+                    <img src="images/Screenshot_20260711_165036.jpg" alt="Memo App Screen 2">
+                </div>
+                <div class="screenshot-item">
+                    <img src="images/Screenshot_20260711_165202.jpg" alt="Memo App Screen 3">
+                </div>
+                <div class="screenshot-item">
+                    <img src="images/Screenshot_20260711_165847.jpg" alt="Memo App Screen 4">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-logo">
+            <img src="images/memo_parrot.png" alt="Memo Logo">
+            Memo
+        </div>
+        <p style="color: var(--text-muted); font-weight: 600;">&copy; 2026 Memo Learn English. Tüm hakları saklıdır.</p>
+    </footer>
+
+</body>
+</html>
