@@ -1,0 +1,140 @@
+{
+  "id": "st_online_the_lost_key",
+  "level": 3,
+  "category": "daily-life",
+  "cefr": "A2",
+  "title": {
+    "en": "The Lost Key",
+    "tr": "Kayıp Anahtar"
+  },
+  "summary": {
+    "tr": "Anna evin anahtarını kaybeder ve onu ararken küçük bir sürprizle karşılaşır.",
+    "en": "Anna loses her house key and finds a small surprise while looking for it."
+  },
+  "tags": [
+    "daily-life",
+    "mystery"
+  ],
+  "estimatedSeconds": 55,
+  "targetWordIds": [
+    "key",
+    "door",
+    "find",
+    "bag",
+    "open",
+    "help",
+    "money",
+    "wait"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "Anna came home late and could not open the door.",
+      "tr": "Anna eve geç geldi ve kapıyı açamadı."
+    },
+    {
+      "id": "s2",
+      "en": "The key was not in her bag.",
+      "tr": "Anahtar çantasında değildi."
+    },
+    {
+      "id": "s3",
+      "en": "She looked in her pockets, but she could not find it.",
+      "tr": "Ceplerine baktı ama onu bulamadı."
+    },
+    {
+      "id": "s4",
+      "en": "Her neighbour saw her and asked, \"Do you need help?\"",
+      "tr": "Komşusu onu gördü ve \"Yardıma ihtiyacın var mı?\" diye sordu."
+    },
+    {
+      "id": "s5",
+      "en": "Anna said she had to wait for her sister.",
+      "tr": "Anna kız kardeşini beklemesi gerektiğini söyledi."
+    },
+    {
+      "id": "s6",
+      "en": "The neighbour made tea and they talked for an hour.",
+      "tr": "Komşu çay yaptı ve bir saat sohbet ettiler."
+    },
+    {
+      "id": "s7",
+      "en": "When her sister arrived, Anna found the key in her coat with some money.",
+      "tr": "Kız kardeşi geldiğinde Anna anahtarı biraz parayla birlikte montunda buldu."
+    },
+    {
+      "id": "s8",
+      "en": "Now she always puts the key in the same pocket.",
+      "tr": "Artık anahtarı hep aynı cebe koyuyor."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Why could Anna not go inside?",
+        "tr": "Anna neden içeri giremedi?"
+      },
+      "options": [
+        {
+          "en": "She did not have the key",
+          "tr": "Anahtarı yoktu"
+        },
+        {
+          "en": "The door was broken",
+          "tr": "Kapı bozuktu"
+        },
+        {
+          "en": "She was at the wrong house",
+          "tr": "Yanlış evdeydi"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s2",
+      "explanation": {
+        "tr": "Anahtar çantasında değildi, bu yüzden kapıyı açamadı."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The neighbour helped Anna while she waited.",
+        "tr": "Komşusu beklerken Anna'ya yardım etti."
+      },
+      "answerBool": true,
+      "sentenceRef": "s6",
+      "explanation": {
+        "tr": "Komşu çay yaptı ve birlikte sohbet ettiler."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Where was the key at the end?",
+        "tr": "Anahtar sonunda neredeydi?"
+      },
+      "options": [
+        {
+          "en": "In her coat",
+          "tr": "Montunda"
+        },
+        {
+          "en": "In the kitchen",
+          "tr": "Mutfakta"
+        },
+        {
+          "en": "At her sister's house",
+          "tr": "Kız kardeşinin evinde"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s7",
+      "explanation": {
+        "tr": "Anahtarı biraz parayla birlikte montunda buldu."
+      }
+    }
+  ]
+}

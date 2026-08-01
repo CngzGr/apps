@@ -1,0 +1,172 @@
+{
+  "id": "st_online_the_night_bus",
+  "level": 5,
+  "category": "travel",
+  "cefr": "B1",
+  "title": {
+    "en": "The Night Bus",
+    "tr": "Gece Otobüsü"
+  },
+  "summary": {
+    "tr": "Yanlış otobüse binen bir yolcu, şehri hiç beklemediği bir şekilde tanır.",
+    "en": "A passenger takes the wrong bus and gets to know the city in an unexpected way."
+  },
+  "tags": [
+    "travel",
+    "city"
+  ],
+  "estimatedSeconds": 70,
+  "targetWordIds": [
+    "bus",
+    "ticket",
+    "driver",
+    "station",
+    "road",
+    "window",
+    "arrive",
+    "worry"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "Mert bought a ticket for the last bus of the night.",
+      "tr": "Mert gecenin son otobüsü için bilet aldı."
+    },
+    {
+      "id": "s2",
+      "en": "He was tired, so he sat by the window and closed his eyes.",
+      "tr": "Yorgundu, bu yüzden pencere kenarına oturdu ve gözlerini kapattı."
+    },
+    {
+      "id": "s3",
+      "en": "When he woke up, the road outside looked completely different.",
+      "tr": "Uyandığında dışarıdaki yol tamamen farklı görünüyordu."
+    },
+    {
+      "id": "s4",
+      "en": "He had taken the wrong bus at the station.",
+      "tr": "İstasyonda yanlış otobüse binmişti."
+    },
+    {
+      "id": "s5",
+      "en": "The driver smiled and told him not to worry.",
+      "tr": "Şoför gülümsedi ve endişelenmemesini söyledi."
+    },
+    {
+      "id": "s6",
+      "en": "\"This bus goes around the whole city,\" he said.",
+      "tr": "\"Bu otobüs bütün şehri dolaşır,\" dedi."
+    },
+    {
+      "id": "s7",
+      "en": "Mert watched the empty streets and the quiet bridges for an hour.",
+      "tr": "Mert bir saat boyunca boş sokakları ve sessiz köprüleri izledi."
+    },
+    {
+      "id": "s8",
+      "en": "He arrived home much later than he planned, but he was not angry.",
+      "tr": "Eve planladığından çok daha geç vardı ama kızgın değildi."
+    },
+    {
+      "id": "s9",
+      "en": "Sometimes the wrong road shows you the best view.",
+      "tr": "Bazen yanlış yol sana en güzel manzarayı gösterir."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What mistake did Mert make?",
+        "tr": "Mert hangi hatayı yaptı?"
+      },
+      "options": [
+        {
+          "en": "He got on the wrong bus",
+          "tr": "Yanlış otobüse bindi"
+        },
+        {
+          "en": "He forgot his ticket",
+          "tr": "Biletini unuttu"
+        },
+        {
+          "en": "He missed the last bus",
+          "tr": "Son otobüsü kaçırdı"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s4",
+      "explanation": {
+        "tr": "İstasyonda yanlış otobüse binmişti."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The driver was angry with Mert.",
+        "tr": "Şoför Mert'e kızdı."
+      },
+      "answerBool": false,
+      "sentenceRef": "s5",
+      "explanation": {
+        "tr": "Şoför gülümsedi ve endişelenmemesini söyledi."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "How did Mert feel at the end of the journey?",
+        "tr": "Mert yolculuğun sonunda nasıl hissetti?"
+      },
+      "options": [
+        {
+          "en": "Calm and happy about the view",
+          "tr": "Sakin ve manzaradan memnun"
+        },
+        {
+          "en": "Afraid of the empty streets",
+          "tr": "Boş sokaklardan korkmuş"
+        },
+        {
+          "en": "Sorry that he bought a ticket",
+          "tr": "Bilet aldığına pişman"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s8",
+      "explanation": {
+        "tr": "Geç vardı ama kızgın değildi; manzaranın tadını çıkardı."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What is the message of the last sentence?",
+        "tr": "Son cümlenin mesajı nedir?"
+      },
+      "options": [
+        {
+          "en": "Unplanned detours can be worth it",
+          "tr": "Plansız sapmalar bazen değerlidir"
+        },
+        {
+          "en": "You should always check your ticket",
+          "tr": "Biletini her zaman kontrol etmelisin"
+        },
+        {
+          "en": "Night buses are dangerous",
+          "tr": "Gece otobüsleri tehlikelidir"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s9",
+      "explanation": {
+        "tr": "\"Bazen yanlış yol sana en güzel manzarayı gösterir.\""
+      }
+    }
+  ]
+}
