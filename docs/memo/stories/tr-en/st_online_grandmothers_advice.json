@@ -1,0 +1,235 @@
+{
+  "id": "st_online_grandmothers_advice",
+  "level": 5,
+  "category": "daily-life",
+  "cefr": "B1",
+  "title": {
+    "en": "Grandmother's Advice",
+    "tr": "Büyükannenin Nasihati"
+  },
+  "summary": {
+    "tr": "Bir büyükanne, torunlarına kendi işlerini kurmak ve girişimcilikte başarılı olmak hakkında önemli tavsiyeler verir.",
+    "en": "A grandmother gives her grandchildren important advice about starting their own business and becoming successful entrepreneurs."
+  },
+  "tags": [
+    "daily-life",
+    "business",
+    "entrepreneurship"
+  ],
+  "estimatedSeconds": 85,
+  "targetWordIds": [
+    "business",
+    "idea",
+    "risk",
+    "customer",
+    "success",
+    "fail",
+    "learn",
+    "opportunity"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "One Sunday afternoon, three grandchildren visited their grandmother for tea.",
+      "tr": "Bir pazar öğleden sonra üç torun, çay içmek için büyükannelerini ziyaret etti."
+    },
+    {
+      "id": "s2",
+      "en": "During the conversation, Ali said, \"Grandma, I want to start my own business one day.\"",
+      "tr": "Konuşma sırasında Ali, \"Büyükanne, bir gün kendi işimi kurmak istiyorum,\" dedi."
+    },
+    {
+      "id": "s3",
+      "en": "His sister smiled and added, \"I have many ideas, but I am afraid of taking a risk.\"",
+      "tr": "Kız kardeşi gülümsedi ve, \"Birçok fikrim var ama risk almaktan korkuyorum,\" diye ekledi."
+    },
+    {
+      "id": "s4",
+      "en": "Their grandmother put down her tea and looked at them carefully.",
+      "tr": "Büyükanneleri çayını bıraktı ve onlara dikkatlice baktı."
+    },
+    {
+      "id": "s5",
+      "en": "\"Having an idea is important,\" she said, \"but an idea becomes valuable only when you try to make it real.\"",
+      "tr": "\"Bir fikre sahip olmak önemlidir,\" dedi, \"ama bir fikir ancak onu gerçeğe dönüştürmeye çalıştığında değerli olur.\""
+    },
+    {
+      "id": "s6",
+      "en": "Ali asked, \"But what if the business fails?\"",
+      "tr": "Ali, \"Ama ya iş başarısız olursa?\" diye sordu."
+    },
+    {
+      "id": "s7",
+      "en": "His grandmother smiled and replied, \"Failure is not the opposite of success. Sometimes it is part of the journey.\"",
+      "tr": "Büyükannesi gülümsedi ve, \"Başarısızlık başarının karşıtı değildir. Bazen yolculuğun bir parçasıdır,\" diye cevap verdi."
+    },
+    {
+      "id": "s8",
+      "en": "\"When something does not work, you should ask yourself what you can learn from it,\" she continued.",
+      "tr": "\"Bir şey işe yaramadığında, bundan ne öğrenebileceğini kendine sormalısın,\" diye devam etti."
+    },
+    {
+      "id": "s9",
+      "en": "The youngest grandson asked, \"So, should we take every opportunity we see?\"",
+      "tr": "En küçük torun, \"Yani gördüğümüz her fırsatı değerlendirmeli miyiz?\" diye sordu."
+    },
+    {
+      "id": "s10",
+      "en": "\"Not every opportunity is a good one,\" the grandmother explained.",
+      "tr": "\"Her fırsat iyi bir fırsat değildir,\" diye açıkladı büyükanne."
+    },
+    {
+      "id": "s11",
+      "en": "\"First, understand the problem. Then think about the people who have that problem. Those people may become your customers.\"",
+      "tr": "\"Önce problemi anlayın. Sonra o problemi yaşayan insanları düşünün. O insanlar sizin müşterileriniz olabilir.\""
+    },
+    {
+      "id": "s12",
+      "en": "Ali thought for a moment and said, \"So a good business should solve a real problem?\"",
+      "tr": "Ali bir an düşündü ve, \"Yani iyi bir iş gerçek bir problemi çözmeli mi?\" dedi."
+    },
+    {
+      "id": "s13",
+      "en": "\"Exactly,\" she replied. \"Do not only ask how you can make money. Ask how you can create value for other people.\"",
+      "tr": "\"Aynen öyle,\" diye cevap verdi. \"Sadece nasıl para kazanabileceğini sorma. Başka insanlar için nasıl değer yaratabileceğini de sor.\""
+    },
+    {
+      "id": "s14",
+      "en": "Before they left, the grandmother gave them one final piece of advice.",
+      "tr": "Onlar ayrılmadan önce büyükanne son bir tavsiye verdi."
+    },
+    {
+      "id": "s15",
+      "en": "\"Be brave enough to start, patient enough to learn, and humble enough to listen to your customers.\"",
+      "tr": "\"Başlayacak kadar cesur, öğrenecek kadar sabırlı ve müşterilerini dinleyecek kadar alçakgönüllü olun.\""
+    },
+    {
+      "id": "s16",
+      "en": "The grandchildren left with many new ideas and a little more confidence about their future.",
+      "tr": "Torunlar birçok yeni fikir ve gelecekleri hakkında biraz daha fazla güvenle ayrıldılar."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did Ali want to do one day?",
+        "tr": "Ali bir gün ne yapmak istiyordu?"
+      },
+      "options": [
+        {
+          "en": "Start his own business",
+          "tr": "Kendi işini kurmak"
+        },
+        {
+          "en": "Work for his grandmother",
+          "tr": "Büyükannesi için çalışmak"
+        },
+        {
+          "en": "Become a teacher",
+          "tr": "Öğretmen olmak"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s2",
+      "explanation": {
+        "tr": "Ali bir gün kendi işini kurmak istediğini söyledi."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did the grandmother say about failure?",
+        "tr": "Büyükanne başarısızlık hakkında ne söyledi?"
+      },
+      "options": [
+        {
+          "en": "It can be part of the journey to success",
+          "tr": "Başarı yolculuğunun bir parçası olabilir"
+        },
+        {
+          "en": "It means you should immediately stop",
+          "tr": "Hemen durman gerektiği anlamına gelir"
+        },
+        {
+          "en": "It should always be avoided",
+          "tr": "Her zaman kaçınılmalıdır"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s7",
+      "explanation": {
+        "tr": "Büyükanne, başarısızlığın bazen başarı yolculuğunun bir parçası olduğunu söyledi."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The grandmother believed that every opportunity was a good business opportunity.",
+        "tr": "Büyükanne her fırsatın iyi bir iş fırsatı olduğuna inanıyordu."
+      },
+      "answerBool": false,
+      "sentenceRef": "s10",
+      "explanation": {
+        "tr": "Büyükanne açıkça her fırsatın iyi bir fırsat olmadığını söyledi."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "According to the grandmother, what should a good business do?",
+        "tr": "Büyükanneye göre iyi bir iş ne yapmalıdır?"
+      },
+      "options": [
+        {
+          "en": "Solve a real problem and create value",
+          "tr": "Gerçek bir problemi çözmeli ve değer yaratmalı"
+        },
+        {
+          "en": "Copy other successful businesses",
+          "tr": "Diğer başarılı işleri kopyalamalı"
+        },
+        {
+          "en": "Only focus on making money",
+          "tr": "Sadece para kazanmaya odaklanmalı"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s13",
+      "explanation": {
+        "tr": "Büyükanne, para kazanmanın yanında insanlar için değer yaratmanın da önemli olduğunu söyledi."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What was the grandmother's final advice?",
+        "tr": "Büyükannenin son tavsiyesi neydi?"
+      },
+      "options": [
+        {
+          "en": "Be brave, patient, and willing to listen",
+          "tr": "Cesur, sabırlı ve dinlemeye istekli olmak"
+        },
+        {
+          "en": "Never take risks",
+          "tr": "Asla risk almamak"
+        },
+        {
+          "en": "Wait until you have a perfect idea",
+          "tr": "Mükemmel bir fikir bulana kadar beklemek"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s15",
+      "explanation": {
+        "tr": "Büyükanne, başlamaya cesaret etmek, öğrenmek için sabırlı olmak ve müşterileri dinlemek gerektiğini söyledi."
+      }
+    }
+  ]
+}
