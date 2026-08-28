@@ -107,6 +107,33 @@
       "targetWordCount": 8,
       "sizeBytes": 0,
       "file": "tr-en/st_online_the_broken_washing_machine.json"
+    },
+    {
+      "id": "st_online_the_missing_seat",
+      "course": "tr-en",
+      "level": 5,
+      "cefr": "B1",
+      "category": "travel",
+      "title": {
+        "en": "The Missing Seat",
+        "tr": "Kayıp Koltuk"
+      },
+      "summary": {
+        "tr": "Uçağa binen bir yolcu, koltuğunda başka birini görünce hostesten yardım ister ve küçük bir karışıklık ortaya çıkar.",
+        "en": "A passenger asks a flight attendant for help after finding someone else in his seat, leading to a small misunderstanding."
+      },
+      "tags": [
+        "travel",
+        "airport",
+        "flight"
+      ],
+      "estimatedSeconds": 80,
+      "wordCount": 217,
+      "sentenceCount": 15,
+      "questionCount": 5,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_the_missing_seat.json"
     }
   ]
 }
