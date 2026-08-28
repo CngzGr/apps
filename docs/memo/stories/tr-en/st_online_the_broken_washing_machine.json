@@ -1,0 +1,225 @@
+{
+  "id": "st_online_the_broken_washing_machine",
+  "level": 5,
+  "category": "daily-life",
+  "cefr": "B1",
+  "title": {
+    "en": "The Broken Washing Machine",
+    "tr": "Bozuk Çamaşır Makinesi"
+  },
+  "summary": {
+    "tr": "Ayşe'nin çamaşır makinesi aniden bozulur ve çağırdığı tamirci sorunun düşündüğünden daha basit olduğunu keşfeder.",
+    "en": "Ayşe's washing machine suddenly breaks down, and the repairman discovers that the problem is simpler than she expected."
+  },
+  "tags": [
+    "daily-life",
+    "repair",
+    "home"
+  ],
+  "estimatedSeconds": 75,
+  "targetWordIds": [
+    "repair",
+    "machine",
+    "problem",
+    "check",
+    "replace",
+    "broken",
+    "customer",
+    "appointment"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "Ayşe's washing machine stopped working on a busy Saturday morning.",
+      "tr": "Ayşe'nin çamaşır makinesi yoğun bir cumartesi sabahı çalışmayı durdurdu."
+    },
+    {
+      "id": "s2",
+      "en": "She had planned to wash all her clothes before visiting her parents.",
+      "tr": "Anne ve babasını ziyaret etmeden önce tüm kıyafetlerini yıkamayı planlamıştı."
+    },
+    {
+      "id": "s3",
+      "en": "After checking the machine several times, she decided to call a repair service.",
+      "tr": "Makineyi birkaç kez kontrol ettikten sonra bir tamir servisini aramaya karar verdi."
+    },
+    {
+      "id": "s4",
+      "en": "The customer service representative gave her an appointment for the afternoon.",
+      "tr": "Müşteri hizmetleri temsilcisi ona öğleden sonrası için bir randevu verdi."
+    },
+    {
+      "id": "s5",
+      "en": "At two o'clock, the repairman arrived and asked, \"Can you tell me exactly what happened?\"",
+      "tr": "Saat ikide tamirci geldi ve, \"Bana tam olarak ne olduğunu söyleyebilir misiniz?\" diye sordu."
+    },
+    {
+      "id": "s6",
+      "en": "Ayşe explained, \"The machine was working normally, but then it suddenly stopped and would not start again.\"",
+      "tr": "Ayşe, \"Makine normal şekilde çalışıyordu ama sonra aniden durdu ve tekrar çalışmadı,\" diye açıkladı."
+    },
+    {
+      "id": "s7",
+      "en": "The repairman checked the power cable, the water connection, and the control panel.",
+      "tr": "Tamirci elektrik kablosunu, su bağlantısını ve kontrol panelini kontrol etti."
+    },
+    {
+      "id": "s8",
+      "en": "After a few minutes, he smiled and said, \"I think I have found the problem.\"",
+      "tr": "Birkaç dakika sonra gülümsedi ve, \"Sanırım sorunu buldum,\" dedi."
+    },
+    {
+      "id": "s9",
+      "en": "Ayşe looked worried and asked, \"Do you need to replace an expensive part?\"",
+      "tr": "Ayşe endişeli bir şekilde baktı ve, \"Pahalı bir parçayı değiştirmeniz gerekiyor mu?\" diye sordu."
+    },
+    {
+      "id": "s10",
+      "en": "\"No,\" the repairman replied. \"The power plug was not connected properly.\"",
+      "tr": "\"Hayır,\" diye cevap verdi tamirci. \"Elektrik fişi düzgün şekilde takılmamış.\""
+    },
+    {
+      "id": "s11",
+      "en": "Ayşe was surprised because she had checked the machine several times but had not noticed the loose plug.",
+      "tr": "Ayşe şaşırdı çünkü makineyi birkaç kez kontrol etmişti ama gevşek fişi fark etmemişti."
+    },
+    {
+      "id": "s12",
+      "en": "The machine started working immediately after the repairman connected the plug correctly.",
+      "tr": "Tamirci fişi doğru şekilde bağladıktan hemen sonra makine çalışmaya başladı."
+    },
+    {
+      "id": "s13",
+      "en": "\"Sometimes the simplest problems are the easiest to miss,\" he said with a smile.",
+      "tr": "\"Bazen en basit sorunları fark etmek en zorudur,\" dedi gülümseyerek."
+    },
+    {
+      "id": "s14",
+      "en": "Ayşe thanked him and was relieved that the repair was quick and inexpensive.",
+      "tr": "Ayşe ona teşekkür etti ve tamirin hızlı ve ucuz olmasından rahatladı."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Why was Ayşe worried when her washing machine stopped working?",
+        "tr": "Çamaşır makinesi çalışmayı durduğunda Ayşe neden endişeliydi?"
+      },
+      "options": [
+        {
+          "en": "She needed to wash her clothes before visiting her parents",
+          "tr": "Anne ve babasını ziyaret etmeden önce kıyafetlerini yıkaması gerekiyordu"
+        },
+        {
+          "en": "She was planning to sell the washing machine",
+          "tr": "Çamaşır makinesini satmayı planlıyordu"
+        },
+        {
+          "en": "She had lost the machine's instructions",
+          "tr": "Makinenin kullanım talimatlarını kaybetmişti"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s2",
+      "explanation": {
+        "tr": "Ayşe, anne ve babasını ziyaret etmeden önce tüm kıyafetlerini yıkamayı planlamıştı."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did the repairman check first?",
+        "tr": "Tamirci hangi şeyleri kontrol etti?"
+      },
+      "options": [
+        {
+          "en": "The power cable, water connection, and control panel",
+          "tr": "Elektrik kablosunu, su bağlantısını ve kontrol panelini"
+        },
+        {
+          "en": "Ayşe's clothes and detergent",
+          "tr": "Ayşe'nin kıyafetlerini ve deterjanını"
+        },
+        {
+          "en": "The washing machine's manual",
+          "tr": "Çamaşır makinesinin kullanım kılavuzunu"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s7",
+      "explanation": {
+        "tr": "Tamirci elektrik kablosunu, su bağlantısını ve kontrol panelini kontrol etti."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The repairman had to replace an expensive part.",
+        "tr": "Tamircinin pahalı bir parçayı değiştirmesi gerekti."
+      },
+      "answerBool": false,
+      "sentenceRef": "s10",
+      "explanation": {
+        "tr": "Sorun pahalı bir parça değildi; elektrik fişi düzgün şekilde takılmamıştı."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What was the real problem with the washing machine?",
+        "tr": "Çamaşır makinesindeki gerçek sorun neydi?"
+      },
+      "options": [
+        {
+          "en": "The power plug was not connected properly",
+          "tr": "Elektrik fişi düzgün şekilde takılmamıştı"
+        },
+        {
+          "en": "The water connection was broken",
+          "tr": "Su bağlantısı bozuktu"
+        },
+        {
+          "en": "The control panel needed to be replaced",
+          "tr": "Kontrol panelinin değiştirilmesi gerekiyordu"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s10",
+      "explanation": {
+        "tr": "Tamirci, elektrik fişinin düzgün şekilde takılmadığını fark etti."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What lesson does the repairman's final comment suggest?",
+        "tr": "Tamircinin son yorumu hangi mesajı veriyor?"
+      },
+      "options": [
+        {
+          "en": "Simple causes can sometimes be overlooked",
+          "tr": "Basit nedenler bazen gözden kaçabilir"
+        },
+        {
+          "en": "All repairs are expensive",
+          "tr": "Tüm tamirler pahalıdır"
+        },
+        {
+          "en": "Washing machines often need new parts",
+          "tr": "Çamaşır makinelerinin sık sık yeni parçalara ihtiyacı vardır"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s13",
+      "explanation": {
+        "tr": "Tamirci, bazen en basit sorunların fark edilmesinin en zor olduğunu söyledi."
+      }
+    }
+  ]
+}
