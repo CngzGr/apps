@@ -1,0 +1,230 @@
+{
+  "id": "st_online_the_missing_seat",
+  "level": 5,
+  "category": "travel",
+  "cefr": "B1",
+  "title": {
+    "en": "The Missing Seat",
+    "tr": "Kayıp Koltuk"
+  },
+  "summary": {
+    "tr": "Uçağa binen bir yolcu, koltuğunda başka birini görünce hostesten yardım ister ve küçük bir karışıklık ortaya çıkar.",
+    "en": "A passenger asks a flight attendant for help after finding someone else in his seat, leading to a small misunderstanding."
+  },
+  "tags": [
+    "travel",
+    "airport",
+    "flight"
+  ],
+  "estimatedSeconds": 80,
+  "targetWordIds": [
+    "passenger",
+    "flight",
+    "seat",
+    "boarding",
+    "ticket",
+    "flight-attendant",
+    "mistake",
+    "apologize"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "After boarding the plane, Kerem looked for his seat near the window.",
+      "tr": "Uçağa bindikten sonra Kerem pencere kenarındaki koltuğunu aradı."
+    },
+    {
+      "id": "s2",
+      "en": "When he reached row eighteen, he noticed that another passenger was sitting in his seat.",
+      "tr": "On sekizinci sıraya ulaştığında başka bir yolcunun kendi koltuğunda oturduğunu fark etti."
+    },
+    {
+      "id": "s3",
+      "en": "Kerem checked his ticket again and politely said, \"Excuse me, I think this is my seat.\"",
+      "tr": "Kerem biletini tekrar kontrol etti ve nazikçe, \"Affedersiniz, sanırım bu benim koltuğum,\" dedi."
+    },
+    {
+      "id": "s4",
+      "en": "The passenger looked at his own ticket and replied, \"I am sorry, but my ticket also says 18A.\"",
+      "tr": "Yolcu kendi biletine baktı ve, \"Üzgünüm ama benim biletimde de 18A yazıyor,\" diye cevap verdi."
+    },
+    {
+      "id": "s5",
+      "en": "Both passengers looked confused, so Kerem decided to ask a flight attendant for help.",
+      "tr": "İki yolcu da şaşkın görünüyordu, bu yüzden Kerem bir hostesten yardım istemeye karar verdi."
+    },
+    {
+      "id": "s6",
+      "en": "A flight attendant came over and asked, \"Is there a problem with your seats?\"",
+      "tr": "Bir hostes yanlarına geldi ve, \"Koltuklarınızla ilgili bir sorun mu var?\" diye sordu."
+    },
+    {
+      "id": "s7",
+      "en": "Kerem explained the situation and showed her his boarding pass.",
+      "tr": "Kerem durumu açıkladı ve ona biniş kartını gösterdi."
+    },
+    {
+      "id": "s8",
+      "en": "The flight attendant checked both tickets carefully and noticed a small difference.",
+      "tr": "Hostes iki bileti dikkatlice kontrol etti ve küçük bir fark fark etti."
+    },
+    {
+      "id": "s9",
+      "en": "\"Your seat is 18A,\" she said to Kerem, \"but this passenger is on a different flight.\"",
+      "tr": "\"Sizin koltuğunuz 18A,\" dedi Kerem'e, \"ama bu yolcu farklı bir uçuşta.\""
+    },
+    {
+      "id": "s10",
+      "en": "The other passenger looked surprised and immediately checked the flight number on his boarding pass.",
+      "tr": "Diğer yolcu şaşırdı ve hemen biniş kartındaki uçuş numarasını kontrol etti."
+    },
+    {
+      "id": "s11",
+      "en": "\"Oh no, I boarded the wrong plane,\" he said with embarrassment.",
+      "tr": "\"Aman tanrım, yanlış uçağa bindim,\" dedi utanarak."
+    },
+    {
+      "id": "s12",
+      "en": "The flight attendant smiled and said, \"Don't worry. Your correct flight is boarding from the next gate.\"",
+      "tr": "Hostes gülümsedi ve, \"Endişelenmeyin. Doğru uçağınız yan kapıdan yolcu alıyor,\" dedi."
+    },
+    {
+      "id": "s13",
+      "en": "The passenger apologized to Kerem and quickly collected his bag.",
+      "tr": "Yolcu Kerem'den özür diledi ve hızla çantasını topladı."
+    },
+    {
+      "id": "s14",
+      "en": "Before leaving, he said, \"Thank you for being patient. I almost flew to the wrong city.\"",
+      "tr": "Ayrılmadan önce, \"Sabırlı olduğunuz için teşekkür ederim. Neredeyse yanlış şehre uçuyordum,\" dedi."
+    },
+    {
+      "id": "s15",
+      "en": "Kerem finally sat down in his seat and laughed quietly about the unexpected situation.",
+      "tr": "Kerem sonunda koltuğuna oturdu ve beklenmedik duruma sessizce güldü."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Why did Kerem ask the flight attendant for help?",
+        "tr": "Kerem neden hostesten yardım istedi?"
+      },
+      "options": [
+        {
+          "en": "Another passenger was sitting in his seat",
+          "tr": "Başka bir yolcu onun koltuğunda oturuyordu"
+        },
+        {
+          "en": "He could not find his boarding pass",
+          "tr": "Biniş kartını bulamıyordu"
+        },
+        {
+          "en": "He wanted to change his seat",
+          "tr": "Koltuğunu değiştirmek istiyordu"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s2",
+      "explanation": {
+        "tr": "Kerem, başka bir yolcunun kendi koltuğunda oturduğunu fark etti."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "Both passengers had exactly the same boarding pass.",
+        "tr": "İki yolcunun da tamamen aynı biniş kartı vardı."
+      },
+      "answerBool": false,
+      "sentenceRef": "s8",
+      "explanation": {
+        "tr": "Hostes iki bileti kontrol ettiğinde aralarında küçük bir fark olduğunu fark etti."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What mistake did the other passenger make?",
+        "tr": "Diğer yolcu hangi hatayı yaptı?"
+      },
+      "options": [
+        {
+          "en": "He boarded the wrong plane",
+          "tr": "Yanlış uçağa bindi"
+        },
+        {
+          "en": "He lost his ticket",
+          "tr": "Biletini kaybetti"
+        },
+        {
+          "en": "He forgot his luggage",
+          "tr": "Bagajını unuttu"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s11",
+      "explanation": {
+        "tr": "Yolcu yanlış uçağa bindiğini fark etti."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did the flight attendant say about the passenger's correct flight?",
+        "tr": "Hostes yolcunun doğru uçuşu hakkında ne söyledi?"
+      },
+      "options": [
+        {
+          "en": "It was boarding from the next gate",
+          "tr": "Yan kapıdan yolcu alıyordu"
+        },
+        {
+          "en": "It had already left",
+          "tr": "Çoktan kalkmıştı"
+        },
+        {
+          "en": "It was delayed for several hours",
+          "tr": "Birkaç saat gecikmişti"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s12",
+      "explanation": {
+        "tr": "Hostes, doğru uçağın yan kapıdan yolcu aldığını söyledi."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "How did Kerem feel at the end of the situation?",
+        "tr": "Kerem olayın sonunda nasıl hissetti?"
+      },
+      "options": [
+        {
+          "en": "Amused by the unexpected situation",
+          "tr": "Beklenmedik durumdan eğlenmiş"
+        },
+        {
+          "en": "Angry with the flight attendant",
+          "tr": "Hostese kızgın"
+        },
+        {
+          "en": "Afraid of flying",
+          "tr": "Uçmaktan korkmuş"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s15",
+      "explanation": {
+        "tr": "Kerem sonunda koltuğuna oturdu ve yaşanan beklenmedik duruma sessizce güldü."
+      }
+    }
+  ]
+}
