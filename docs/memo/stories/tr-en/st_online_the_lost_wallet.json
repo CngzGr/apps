@@ -1,0 +1,172 @@
+{
+  "id": "st_online_the_lost_wallet",
+  "level": 3,
+  "category": "daily-life",
+  "cefr": "A2",
+  "title": {
+    "en": "The Lost Wallet",
+    "tr": "Kayıp Cüzdan"
+  },
+  "summary": {
+    "tr": "Emre işe giderken cüzdanını kaybeder ve bir kafede onu bulan dürüst bir kişiyle karşılaşır.",
+    "en": "Emre loses his wallet on his way to work and meets an honest person who finds it at a café."
+  },
+  "tags": [
+    "daily-life",
+    "city"
+  ],
+  "estimatedSeconds": 60,
+  "targetWordIds": [
+    "wallet",
+    "street",
+    "cafe",
+    "table",
+    "look",
+    "find",
+    "thank",
+    "happy"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "Emre was walking to work when he noticed that his wallet was missing.",
+      "tr": "Emre işe yürürken cüzdanının kayıp olduğunu fark etti."
+    },
+    {
+      "id": "s2",
+      "en": "He looked in his pockets and checked his bag, but he could not find it.",
+      "tr": "Ceplerine baktı ve çantasını kontrol etti ama onu bulamadı."
+    },
+    {
+      "id": "s3",
+      "en": "He went back along the street and looked carefully at the ground.",
+      "tr": "Sokak boyunca geri döndü ve dikkatlice yere baktı."
+    },
+    {
+      "id": "s4",
+      "en": "Then he remembered a small café where he had bought coffee that morning.",
+      "tr": "Sonra o sabah kahve aldığı küçük bir kafeyi hatırladı."
+    },
+    {
+      "id": "s5",
+      "en": "Emre went inside and asked, \"Excuse me, did you find a wallet?\"",
+      "tr": "Emre içeri girdi ve, \"Affedersiniz, bir cüzdan buldunuz mu?\" diye sordu."
+    },
+    {
+      "id": "s6",
+      "en": "The woman behind the table smiled and said, \"Yes, I found one near the door.\"",
+      "tr": "Masanın arkasındaki kadın gülümsedi ve, \"Evet, kapının yanında bir tane buldum,\" dedi."
+    },
+    {
+      "id": "s7",
+      "en": "She gave the wallet to Emre, and everything was still inside.",
+      "tr": "Cüzdanı Emre'ye verdi ve içindeki her şey hâlâ yerindeydi."
+    },
+    {
+      "id": "s8",
+      "en": "\"Thank you so much,\" Emre said happily.",
+      "tr": "\"Çok teşekkür ederim,\" dedi Emre mutlu bir şekilde."
+    },
+    {
+      "id": "s9",
+      "en": "The woman smiled and said, \"Have a nice day!\"",
+      "tr": "Kadın gülümsedi ve, \"İyi günler!\" dedi."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did Emre lose?",
+        "tr": "Emre neyi kaybetti?"
+      },
+      "options": [
+        {
+          "en": "His wallet",
+          "tr": "Cüzdanını"
+        },
+        {
+          "en": "His phone",
+          "tr": "Telefonunu"
+        },
+        {
+          "en": "His bag",
+          "tr": "Çantasını"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s1",
+      "explanation": {
+        "tr": "Emre, işe giderken cüzdanının kayıp olduğunu fark etti."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Where did Emre find his wallet?",
+        "tr": "Emre cüzdanını nerede buldu?"
+      },
+      "options": [
+        {
+          "en": "At a café",
+          "tr": "Bir kafede"
+        },
+        {
+          "en": "On the bus",
+          "tr": "Otobüste"
+        },
+        {
+          "en": "At his office",
+          "tr": "Ofisinde"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s6",
+      "explanation": {
+        "tr": "Kafedeki kadın cüzdanı kapının yanında bulmuştu."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The wallet was empty when Emre got it back.",
+        "tr": "Emre cüzdanını geri aldığında cüzdan boştu."
+      },
+      "answerBool": false,
+      "sentenceRef": "s7",
+      "explanation": {
+        "tr": "Cüzdanın içindeki her şey hâlâ yerindeydi."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "How did Emre feel at the end?",
+        "tr": "Emre sonunda nasıl hissetti?"
+      },
+      "options": [
+        {
+          "en": "Happy and thankful",
+          "tr": "Mutlu ve minnettar"
+        },
+        {
+          "en": "Angry and tired",
+          "tr": "Kızgın ve yorgun"
+        },
+        {
+          "en": "Afraid and worried",
+          "tr": "Korkmuş ve endişeli"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s8",
+      "explanation": {
+        "tr": "Emre mutlu bir şekilde teşekkür etti."
+      }
+    }
+  ]
+}
