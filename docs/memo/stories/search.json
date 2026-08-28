@@ -80,6 +80,33 @@
       "targetWordCount": 8,
       "sizeBytes": 0,
       "file": "tr-en/st_online_the_lost_wallet.json"
+    },
+    {
+      "id": "st_online_the_broken_washing_machine",
+      "course": "tr-en",
+      "level": 5,
+      "cefr": "B1",
+      "category": "daily-life",
+      "title": {
+        "en": "The Broken Washing Machine",
+        "tr": "Bozuk Çamaşır Makinesi"
+      },
+      "summary": {
+        "tr": "Ayşe'nin çamaşır makinesi aniden bozulur ve çağırdığı tamirci sorunun düşündüğünden daha basit olduğunu keşfeder.",
+        "en": "Ayşe's washing machine suddenly breaks down, and the repairman discovers that the problem is simpler than she expected."
+      },
+      "tags": [
+        "daily-life",
+        "repair",
+        "home"
+      ],
+      "estimatedSeconds": 75,
+      "wordCount": 196,
+      "sentenceCount": 14,
+      "questionCount": 5,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_the_broken_washing_machine.json"
     }
   ]
 }
