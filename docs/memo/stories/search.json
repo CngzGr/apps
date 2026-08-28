@@ -54,6 +54,32 @@
       "targetWordCount": 8,
       "sizeBytes": 4632,
       "file": "tr-en/st_online_the_night_bus.json"
+    },
+    {
+      "id": "st_online_the_lost_wallet",
+      "course": "tr-en",
+      "level": 3,
+      "cefr": "A2",
+      "category": "daily-life",
+      "title": {
+        "en": "The Lost Wallet",
+        "tr": "Kayıp Cüzdan"
+      },
+      "summary": {
+        "tr": "Emre işe giderken cüzdanını kaybeder ve bir kafede onu bulan dürüst bir kişiyle karşılaşır.",
+        "en": "Emre loses his wallet on his way to work and meets an honest person who finds it at a café."
+      },
+      "tags": [
+        "daily-life",
+        "city"
+      ],
+      "estimatedSeconds": 60,
+      "wordCount": 107,
+      "sentenceCount": 9,
+      "questionCount": 4,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_the_lost_wallet.json"
     }
   ]
 }
