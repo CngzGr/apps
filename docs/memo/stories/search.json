@@ -134,6 +134,33 @@
       "targetWordCount": 8,
       "sizeBytes": 0,
       "file": "tr-en/st_online_the_missing_seat.json"
+    },
+    {
+      "id": "st_online_grandmothers_advice",
+      "course": "tr-en",
+      "level": 5,
+      "cefr": "B1",
+      "category": "daily-life",
+      "title": {
+        "en": "Grandmother's Advice",
+        "tr": "Büyükannenin Nasihati"
+      },
+      "summary": {
+        "tr": "Bir büyükanne, torunlarına kendi işlerini kurmak ve girişimcilikte başarılı olmak hakkında önemli tavsiyeler verir.",
+        "en": "A grandmother gives her grandchildren important advice about starting their own business and becoming successful entrepreneurs."
+      },
+      "tags": [
+        "daily-life",
+        "business",
+        "entrepreneurship"
+      ],
+      "estimatedSeconds": 85,
+      "wordCount": 242,
+      "sentenceCount": 16,
+      "questionCount": 5,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_grandmothers_advice.json"
     }
   ]
 }
