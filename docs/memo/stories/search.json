@@ -161,6 +161,279 @@
       "targetWordCount": 8,
       "sizeBytes": 0,
       "file": "tr-en/st_online_grandmothers_advice.json"
+    },
+    ,
+    {
+      "id": "st_online_the_ant_and_the_grasshopper",
+      "course": "tr-en",
+      "level": 1,
+      "cefr": "A1",
+      "category": "classic-stories",
+      "title": {
+        "en": "The Ant and the Grasshopper",
+        "tr": "Ağustos Böceği ile Karınca"
+      },
+      "summary": {
+        "tr": "Ağustos böceği yaz boyunca şarkı söyler, karınca ise kış için yiyecek toplar. Kış gelince ağustos böceği yaptığı seçimin sonucunu görür.",
+        "en": "The grasshopper sings all summer, while the ant collects food for winter. When winter comes, the grasshopper sees the result of his choice."
+      },
+      "tags": [
+        "classic-stories",
+        "animals",
+        "life-lessons"
+      ],
+      "estimatedSeconds": 70,
+      "wordCount": 145,
+      "sentenceCount": 15,
+      "questionCount": 5,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_the_ant_and_the_grasshopper.json"
+    },
+    {
+      "id": "st_online_the_wolf_and_the_lamb",
+      "course": "tr-en",
+      "level": 1,
+      "cefr": "A1",
+      "category": "classic-stories",
+      "title": {
+        "en": "The Wolf and the Lamb",
+        "tr": "Kurt ile Kuzu"
+      },
+      "summary": {
+        "tr": "Bir kuzu nehirde su içerken bir kurt ona yaklaşır ve onu suçlamak için bahaneler bulur.",
+        "en": "A lamb is drinking water from a river when a wolf comes and finds excuses to blame him."
+      },
+      "tags": [
+        "classic-stories",
+        "animals",
+        "fables"
+      ],
+      "estimatedSeconds": 65,
+      "wordCount": 142,
+      "sentenceCount": 15,
+      "questionCount": 5,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_the_wolf_and_the_lamb.json"
+    },
+    {
+      "id": "st_online_the_lion_and_the_mouse",
+      "course": "tr-en",
+      "level": 1,
+      "cefr": "A1",
+      "category": "classic-stories",
+      "title": {
+        "en": "The Lion and the Mouse",
+        "tr": "Aslan ile Fare"
+      },
+      "summary": {
+        "tr": "Bir aslan küçük bir fareyi yakalar ama onu serbest bırakır. Daha sonra fare, aslanın zor bir durumda kalmasına yardım eder.",
+        "en": "A lion catches a little mouse but lets him go. Later, the mouse helps the lion when he is in trouble."
+      },
+      "tags": [
+        "classic-stories",
+        "animals",
+        "fables"
+      ],
+      "estimatedSeconds": 65,
+      "wordCount": 150,
+      "sentenceCount": 16,
+      "questionCount": 5,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_the_lion_and_the_mouse.json"
+    },
+    {
+      "id": "st_online_the_miller_his_son_and_the_donkey",
+      "course": "tr-en",
+      "level": 1,
+      "cefr": "A1",
+      "category": "classic-stories",
+      "title": {
+        "en": "The Miller, His Son and the Donkey",
+        "tr": "Değirmenci, Oğlu ve Eşek"
+      },
+      "summary": {
+        "tr": "Bir değirmenci ve oğlu eşekleriyle birlikte yola çıkar. Yolda insanların farklı sözlerini dinlerken herkesi memnun etmeye çalışmanın mümkün olmadığını öğrenirler.",
+        "en": "A miller and his son travel with their donkey. After hearing different opinions from people on the road, they learn that it is impossible to please everyone."
+      },
+      "tags": [
+        "classic-stories",
+        "animals",
+        "life-lessons"
+      ],
+      "estimatedSeconds": 75,
+      "wordCount": 175,
+      "sentenceCount": 18,
+      "questionCount": 5,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_the_miller_his_son_and_the_donkey.json"
+    },
+    {
+      "id": "st_online_the_frogs_who_wanted_a_king",
+      "course": "tr-en",
+      "level": 1,
+      "cefr": "A1",
+      "category": "classic-stories",
+      "title": {
+        "en": "The Frogs Who Wanted a King",
+        "tr": "Kurbağalar Kral İstiyor"
+      },
+      "summary": {
+        "tr": "Kurbağalar kendilerine bir kral verilmesini ister. Gelen ilk kralı beğenmezler ve daha güçlü bir kral isterler, ancak yeni kralları başlarına büyük bir sorun açar.",
+        "en": "The frogs ask for a king. They do not like their first king and ask for a stronger one, but their new king causes them a big problem."
+      },
+      "tags": [
+        "classic-stories",
+        "animals",
+        "fables"
+      ],
+      "estimatedSeconds": 70,
+      "wordCount": 150,
+      "sentenceCount": 16,
+      "questionCount": 5,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_the_frogs_who_wanted_a_king.json"
+    },
+    {
+      "id": "st_online_the_town_mouse_and_the_country_mouse",
+      "course": "tr-en",
+      "level": 1,
+      "cefr": "A1",
+      "category": "classic-stories",
+      "title": {
+        "en": "The Town Mouse and the Country Mouse",
+        "tr": "Şehir Faresi ile Tarla Faresi"
+      },
+      "summary": {
+        "tr": "Şehir faresi, tarla faresini şehre davet eder. Tarla faresi şehirde çok yiyecek görür ama gürültü ve tehlike yüzünden sakin hayatını özler.",
+        "en": "The town mouse invites the country mouse to the city. The country mouse sees lots of food but misses his quiet life because of the noise and danger."
+      },
+      "tags": [
+        "classic-stories",
+        "animals",
+        "life-lessons"
+      ],
+      "estimatedSeconds": 70,
+      "wordCount": 177,
+      "sentenceCount": 18,
+      "questionCount": 5,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_the_town_mouse_and_the_country_mouse.json"
+    },
+    {
+      "id": "st_online_the_hunchback_of_notre_dame",
+      "course": "tr-en",
+      "level": 3,
+      "cefr": "A2",
+      "category": "classic-stories",
+      "title": {
+        "en": "The Hunchback of Notre-Dame",
+        "tr": "Notre Dame'ın Kamburu"
+      },
+      "summary": {
+        "tr": "Paris'teki Notre Dame Katedrali'nde yaşayan Quasimodo, görünüşü nedeniyle insanların korktuğu ve dışladığı genç bir adamdır. Bir gün güzel ve iyi kalpli Esmeralda ile tanışır. Esmeralda, Quasimodo'ya diğer insanlardan farklı davranır ve ona yardım eder. Ancak güçlü ve acımasız Claude Frollo, Esmeralda'ya karşı takıntılıdır. Quasimodo, Esmeralda'yı korumaya çalışırken sevginin, iyiliğin ve cesaretin gerçek değerini öğrenir.",
+        "en": "Quasimodo is a young man who lives in Notre-Dame Cathedral in Paris. People are afraid of him and treat him badly because of his appearance. One day, he meets Esmeralda, a beautiful and kind young woman. She treats Quasimodo with kindness and helps him when others do not. However, the powerful and cruel Claude Frollo becomes obsessed with Esmeralda. Quasimodo tries to protect her and learns the true value of kindness, courage, and love."
+      },
+      "tags": [
+        "classic-stories",
+        "love",
+        "courage"
+      ],
+      "estimatedSeconds": 110,
+      "wordCount": 262,
+      "sentenceCount": 20,
+      "questionCount": 5,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_the_hunchback_of_notre_dame.json"
+    },
+    {
+      "id": "st_online_brave_new_world",
+      "course": "tr-en",
+      "level": 4,
+      "cefr": "A2",
+      "category": "classic-stories",
+      "title": {
+        "en": "Brave New World",
+        "tr": "Cesur Yeni Dünya"
+      },
+      "summary": {
+        "tr": "Uzak bir gelecekte insanlar düzenli ve rahat bir toplumda yaşamaktadır. Herkesin işi, yeri ve hayatı önceden belirlenmiştir. Bernard adlı genç bir adam bu düzenin gerçekten iyi olup olmadığını sorgulamaya başlar. John ile tanıştığında özgürlük, gerçek mutluluk ve kendi kararlarını verme hakkında daha çok düşünür. Hikâye, rahat bir hayat ile özgür bir hayat arasındaki farkı sorgulamamızı sağlar.",
+        "en": "In the distant future, people live in a comfortable and organized society. Everyone has a job, a place, and a life planned for them. A young man named Bernard begins to ask if this system is really good. When he meets John, he thinks more about freedom, true happiness, and making his own choices. The story makes us think about the difference between a comfortable life and a free life."
+      },
+      "tags": [
+        "classic-stories",
+        "education",
+        "freedom",
+        "society"
+      ],
+      "estimatedSeconds": 115,
+      "wordCount": 224,
+      "sentenceCount": 20,
+      "questionCount": 5,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_brave_new_world.json"
+    },
+    {
+      "id": "st_online_the_three_musketeers",
+      "course": "tr-en",
+      "level": 6,
+      "cefr": "A2",
+      "category": "classic-stories",
+      "title": {
+        "en": "The Three Musketeers",
+        "tr": "Üç Silahşörler"
+      },
+      "summary": {
+        "tr": "Genç ve cesur D'Artagnan, silahşör olmak için Paris'e gider. Orada Athos, Porthos ve Aramis adlı üç ünlü silahşörle tanışır. Başlangıçta aralarında bazı sorunlar olsa da kısa sürede iyi arkadaş olurlar. D'Artagnan ve üç silahşör, kraliçeyi zor durumda bırakabilecek önemli bir sırrı öğrenir. Birlikte hareket ederek tehlikeli bir göreve çıkar ve büyük zorluklarla karşılaşırlar. Bu macera onlara gerçek dostluğun sadece güzel zamanları paylaşmak değil, zor zamanlarda birbirine yardım etmek olduğunu öğretir.",
+        "en": "A young and brave man named D'Artagnan goes to Paris to become a musketeer. There, he meets three famous musketeers: Athos, Porthos, and Aramis. They have some problems at first, but they soon become good friends. D'Artagnan and the three musketeers learn an important secret that could cause trouble for the queen. They work together and go on a dangerous mission. During their adventure, they face many difficulties. The story teaches them that true friendship means helping each other in difficult times, not only sharing good moments."
+      },
+      "tags": [
+        "classic-stories",
+        "friendship",
+        "adventure",
+        "courage"
+      ],
+      "estimatedSeconds": 125,
+      "wordCount": 259,
+      "sentenceCount": 23,
+      "questionCount": 5,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_the_three_musketeers.json"
+    },
+    {
+      "id": "st_online_the_monkey_and_the_fox",
+      "course": "tr-en",
+      "level": 2,
+      "cefr": "A1",
+      "category": "classic-stories",
+      "title": {
+        "en": "The Monkey and the Fox",
+        "tr": "Maymun ile Tilki"
+      },
+      "summary": {
+        "tr": "Maymun, hayvanların kralı olmak ister ve bunu tilkiye söyler. Tilki onu bir tuzağa götürür ve kral olabileceğini söyler. Ancak maymun tuzağa düşünce kandırıldığını anlar. Hikâye, sadece güzel sözlere güvenmemeyi ve karar vermeden önce dikkatli olmayı öğretir.",
+        "en": "The monkey wants to be the king of the animals and tells the fox about his wish. The fox takes him to a trap and says he can become king. When the monkey falls into the trap, he understands that the fox has tricked him. The story teaches us not to trust sweet words and to think carefully before making a decision."
+      },
+      "tags": [
+        "classic-stories",
+        "animals",
+        "life-lessons"
+      ],
+      "estimatedSeconds": 75,
+      "wordCount": 132,
+      "sentenceCount": 16,
+      "questionCount": 5,
+      "targetWordCount": 8,
+      "sizeBytes": 0,
+      "file": "tr-en/st_online_the_monkey_and_the_fox.json"
     }
   ]
 }
