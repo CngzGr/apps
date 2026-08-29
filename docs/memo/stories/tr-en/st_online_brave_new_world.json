@@ -1,0 +1,256 @@
+{
+  "id": "st_online_brave_new_world",
+  "level": 4,
+  "category": "classic-stories",
+  "cefr": "A2",
+  "title": {
+    "en": "Brave New World",
+    "tr": "Cesur Yeni Dünya"
+  },
+  "summary": {
+    "tr": "Uzak bir gelecekte insanlar düzenli ve rahat bir toplumda yaşamaktadır. Herkesin işi, yeri ve hayatı önceden belirlenmiştir. Bernard adlı genç bir adam bu düzenin gerçekten iyi olup olmadığını sorgulamaya başlar. John ile tanıştığında özgürlük, gerçek mutluluk ve kendi kararlarını verme hakkında daha çok düşünür. Hikâye, rahat bir hayat ile özgür bir hayat arasındaki farkı sorgulamamızı sağlar.",
+    "en": "In the distant future, people live in a comfortable and organized society. Everyone has a job, a place, and a life planned for them. A young man named Bernard begins to ask if this system is really good. When he meets John, he thinks more about freedom, true happiness, and making his own choices. The story makes us think about the difference between a comfortable life and a free life."
+  },
+  "tags": [
+    "classic-stories",
+    "education",
+    "freedom",
+    "society"
+  ],
+  "estimatedSeconds": 115,
+  "targetWordIds": [
+    "future",
+    "society",
+    "freedom",
+    "choice",
+    "happy",
+    "think",
+    "control",
+    "truth"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "In the future, people lived in a very organized world.",
+      "tr": "Gelecekte insanlar çok düzenli bir dünyada yaşıyordu."
+    },
+    {
+      "id": "s2",
+      "en": "Everyone had a job, a home, and a place in society.",
+      "tr": "Herkesin bir işi, bir evi ve toplumda bir yeri vardı."
+    },
+    {
+      "id": "s3",
+      "en": "People did not have to make many difficult choices.",
+      "tr": "İnsanların birçok zor seçim yapmasına gerek yoktu."
+    },
+    {
+      "id": "s4",
+      "en": "The leaders wanted everyone to be happy and never worry.",
+      "tr": "Yöneticiler herkesin mutlu olmasını ve hiç endişelenmemesini istiyordu."
+    },
+    {
+      "id": "s5",
+      "en": "But Bernard Marx was not completely happy with this life.",
+      "tr": "Ama Bernard Marx bu hayattan tamamen memnun değildi."
+    },
+    {
+      "id": "s6",
+      "en": "He often asked himself, \"Are we really free?\"",
+      "tr": "Kendi kendine sık sık, \"Gerçekten özgür müyüz?\" diye soruyordu."
+    },
+    {
+      "id": "s7",
+      "en": "His friend Lenina did not understand his questions.",
+      "tr": "Arkadaşı Lenina onun sorularını anlamıyordu."
+    },
+    {
+      "id": "s8",
+      "en": "She said, \"Why do you think so much? Our life is good.\"",
+      "tr": "O, \"Neden bu kadar çok düşünüyorsun? Hayatımız güzel,\" dedi."
+    },
+    {
+      "id": "s9",
+      "en": "Bernard answered, \"Maybe a good life needs more than comfort.\"",
+      "tr": "Bernard, \"Belki iyi bir hayat rahatlıktan daha fazlasına ihtiyaç duyar,\" diye cevap verdi."
+    },
+    {
+      "id": "s10",
+      "en": "During a trip, Bernard met a young man named John.",
+      "tr": "Bir gezi sırasında Bernard John adında genç bir adamla tanıştı."
+    },
+    {
+      "id": "s11",
+      "en": "John had grown up outside the modern society.",
+      "tr": "John modern toplumun dışında büyümüştü."
+    },
+    {
+      "id": "s12",
+      "en": "He was surprised when he learned how people lived in Bernard's world.",
+      "tr": "Bernard'ın dünyasındaki insanların nasıl yaşadığını öğrenince şaşırdı."
+    },
+    {
+      "id": "s13",
+      "en": "John asked, \"Can people choose their own lives here?\"",
+      "tr": "John, \"Burada insanlar kendi hayatlarını seçebilir mi?\" diye sordu."
+    },
+    {
+      "id": "s14",
+      "en": "Bernard replied, \"They have everything they need, but they do not choose everything.\"",
+      "tr": "Bernard, \"İhtiyaçları olan her şeye sahipler ama her şeyi kendileri seçmiyor,\" diye cevap verdi."
+    },
+    {
+      "id": "s15",
+      "en": "John wanted to understand this strange world.",
+      "tr": "John bu garip dünyayı anlamak istiyordu."
+    },
+    {
+      "id": "s16",
+      "en": "He believed that people should be able to think, make mistakes, and choose their own path.",
+      "tr": "İnsanların düşünebilmesi, hata yapabilmesi ve kendi yollarını seçebilmesi gerektiğine inanıyordu."
+    },
+    {
+      "id": "s17",
+      "en": "One day, John said, \"I want to be free, even if life is sometimes difficult.\"",
+      "tr": "Bir gün John, \"Hayat bazen zor olsa bile özgür olmak istiyorum,\" dedi."
+    },
+    {
+      "id": "s18",
+      "en": "Bernard began to understand John's idea.",
+      "tr": "Bernard, John'un fikrini anlamaya başladı."
+    },
+    {
+      "id": "s19",
+      "en": "He realized that a society can give people comfort but also take away their choices.",
+      "tr": "Bir toplumun insanlara rahatlık verebileceğini ama aynı zamanda seçimlerini de ellerinden alabileceğini fark etti."
+    },
+    {
+      "id": "s20",
+      "en": "The story teaches us to think carefully about happiness, freedom, and the choices we make.",
+      "tr": "Hikâye bize mutluluk, özgürlük ve yaptığımız seçimler hakkında dikkatlice düşünmeyi öğretir."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What was life like in the future society?",
+        "tr": "Gelecekteki toplumda hayat nasıldı?"
+      },
+      "options": [
+        {
+          "en": "Very organized and comfortable",
+          "tr": "Çok düzenli ve rahattı"
+        },
+        {
+          "en": "Very poor and dangerous",
+          "tr": "Çok fakir ve tehlikeliydi"
+        },
+        {
+          "en": "Completely free and uncertain",
+          "tr": "Tamamen özgür ve belirsizdi"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s1",
+      "explanation": {
+        "tr": "İnsanlar düzenli ve rahat bir toplumda yaşıyordu."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "Bernard was completely happy with his life.",
+        "tr": "Bernard hayatından tamamen memnundu."
+      },
+      "answerBool": false,
+      "sentenceRef": "s5",
+      "explanation": {
+        "tr": "Bernard bu hayatı sorguluyor ve gerçekten özgür olup olmadıklarını düşünüyordu."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did John believe people should be able to do?",
+        "tr": "John insanların ne yapabilmesi gerektiğine inanıyordu?"
+      },
+      "options": [
+        {
+          "en": "Think and choose their own path",
+          "tr": "Düşünmek ve kendi yollarını seçmek"
+        },
+        {
+          "en": "Follow every rule",
+          "tr": "Her kurala uymak"
+        },
+        {
+          "en": "Avoid all problems",
+          "tr": "Tüm sorunlardan kaçınmak"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s16",
+      "explanation": {
+        "tr": "John insanların düşünebilmesi, hata yapabilmesi ve kendi yollarını seçebilmesi gerektiğine inanıyordu."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did Bernard learn from John?",
+        "tr": "Bernard John'dan ne öğrendi?"
+      },
+      "options": [
+        {
+          "en": "Comfort is not the only part of a good life",
+          "tr": "Rahatlık iyi bir hayatın tek parçası değildir"
+        },
+        {
+          "en": "People should never make choices",
+          "tr": "İnsanlar asla seçim yapmamalıdır"
+        },
+        {
+          "en": "A difficult life is always better",
+          "tr": "Zor bir hayat her zaman daha iyidir"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s19",
+      "explanation": {
+        "tr": "Bernard, rahatlığın yanında özgürlük ve seçimlerin de önemli olduğunu fark etti."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What is the main message of the story?",
+        "tr": "Hikâyenin ana mesajı nedir?"
+      },
+      "options": [
+        {
+          "en": "We should think about freedom and our choices",
+          "tr": "Özgürlük ve seçimlerimiz hakkında düşünmeliyiz"
+        },
+        {
+          "en": "A comfortable life is always perfect",
+          "tr": "Rahat bir hayat her zaman mükemmeldir"
+        },
+        {
+          "en": "People should never question society",
+          "tr": "İnsanlar toplumu asla sorgulamamalıdır"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s20",
+      "explanation": {
+        "tr": "Hikâye mutluluk, özgürlük ve kendi seçimlerimizi yapmanın önemini sorgulatır."
+      }
+    }
+  ]
+}

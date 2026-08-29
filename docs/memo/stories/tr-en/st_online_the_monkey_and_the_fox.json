@@ -1,0 +1,235 @@
+{
+  "id": "st_online_the_monkey_and_the_fox",
+  "level": 2,
+  "category": "classic-stories",
+  "cefr": "A1",
+  "title": {
+    "en": "The Monkey and the Fox",
+    "tr": "Maymun ile Tilki"
+  },
+  "summary": {
+    "tr": "Maymun, hayvanların kralı olmak ister ve bunu tilkiye söyler. Tilki onu bir tuzağa götürür ve kral olabileceğini söyler. Ancak maymun tuzağa düşünce kandırıldığını anlar. Hikâye, sadece güzel sözlere güvenmemeyi ve karar vermeden önce dikkatli olmayı öğretir.",
+    "en": "The monkey wants to be the king of the animals and tells the fox about his wish. The fox takes him to a trap and says he can become king. When the monkey falls into the trap, he understands that the fox has tricked him. The story teaches us not to trust sweet words and to think carefully before making a decision."
+  },
+  "tags": [
+    "classic-stories",
+    "animals",
+    "life-lessons"
+  ],
+  "estimatedSeconds": 75,
+  "targetWordIds": [
+    "monkey",
+    "fox",
+    "king",
+    "animal",
+    "forest",
+    "trap",
+    "clever",
+    "careful"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "A monkey lived in a green forest with many other animals.",
+      "tr": "Bir maymun birçok başka hayvanla birlikte yeşil bir ormanda yaşıyordu."
+    },
+    {
+      "id": "s2",
+      "en": "One day, the monkey said, \"I want to be the king of the animals.\"",
+      "tr": "Bir gün maymun, \"Hayvanların kralı olmak istiyorum,\" dedi."
+    },
+    {
+      "id": "s3",
+      "en": "A fox heard him and came closer.",
+      "tr": "Bir tilki onu duydu ve yanına geldi."
+    },
+    {
+      "id": "s4",
+      "en": "The fox smiled and said, \"You can be a great king.\"",
+      "tr": "Tilki gülümsedi ve, \"Harika bir kral olabilirsin,\" dedi."
+    },
+    {
+      "id": "s5",
+      "en": "The monkey was happy to hear this.",
+      "tr": "Maymun bunu duyunca mutlu oldu."
+    },
+    {
+      "id": "s6",
+      "en": "The fox said, \"Come with me. I know a special place for the new king.\"",
+      "tr": "Tilki, \"Benimle gel. Yeni kral için özel bir yer biliyorum,\" dedi."
+    },
+    {
+      "id": "s7",
+      "en": "The monkey followed the fox without thinking carefully.",
+      "tr": "Maymun dikkatlice düşünmeden tilkiyi takip etti."
+    },
+    {
+      "id": "s8",
+      "en": "Soon, they came to a small hole in the ground.",
+      "tr": "Kısa süre sonra yerdeki küçük bir çukura geldiler."
+    },
+    {
+      "id": "s9",
+      "en": "The fox pointed at the hole and said, \"Look! This is for you.\"",
+      "tr": "Tilki çukuru gösterdi ve, \"Bak! Bu senin için,\" dedi."
+    },
+    {
+      "id": "s10",
+      "en": "The monkey stepped forward and fell into the trap.",
+      "tr": "Maymun öne doğru adım attı ve tuzağa düştü."
+    },
+    {
+      "id": "s11",
+      "en": "He looked up and shouted, \"Help me!\"",
+      "tr": "Yukarı baktı ve, \"Bana yardım et!\" diye bağırdı."
+    },
+    {
+      "id": "s12",
+      "en": "The fox laughed and said, \"You wanted to be king, but you did not think carefully.\"",
+      "tr": "Tilki güldü ve, \"Kral olmak istedin ama dikkatlice düşünmedin,\" dedi."
+    },
+    {
+      "id": "s13",
+      "en": "The monkey understood that the fox had tricked him.",
+      "tr": "Maymun tilkinin onu kandırdığını anladı."
+    },
+    {
+      "id": "s14",
+      "en": "He said, \"I trusted your words too quickly.\"",
+      "tr": "Maymun, \"Sözlerine çok çabuk güvendim,\" dedi."
+    },
+    {
+      "id": "s15",
+      "en": "The monkey learned an important lesson that day.",
+      "tr": "Maymun o gün önemli bir ders öğrendi."
+    },
+    {
+      "id": "s16",
+      "en": "He learned to be careful and think before trusting someone.",
+      "tr": "Dikkatli olmayı ve birine güvenmeden önce düşünmeyi öğrendi."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did the monkey want to be?",
+        "tr": "Maymun ne olmak istiyordu?"
+      },
+      "options": [
+        {
+          "en": "The king of the animals",
+          "tr": "Hayvanların kralı"
+        },
+        {
+          "en": "The king of the forest",
+          "tr": "Ormanın kralı"
+        },
+        {
+          "en": "A hunter",
+          "tr": "Bir avcı"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s2",
+      "explanation": {
+        "tr": "Maymun hayvanların kralı olmak istiyordu."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The fox really wanted to help the monkey become king.",
+        "tr": "Tilki gerçekten maymunun kral olmasına yardım etmek istiyordu."
+      },
+      "answerBool": false,
+      "sentenceRef": "s13",
+      "explanation": {
+        "tr": "Tilki maymunu kandırdı ve onu bir tuzağa düşürdü."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What happened to the monkey?",
+        "tr": "Maymuna ne oldu?"
+      },
+      "options": [
+        {
+          "en": "He fell into a trap",
+          "tr": "Bir tuzağa düştü"
+        },
+        {
+          "en": "He became king",
+          "tr": "Kral oldu"
+        },
+        {
+          "en": "He went home",
+          "tr": "Eve gitti"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s10",
+      "explanation": {
+        "tr": "Maymun öne doğru adım attı ve tuzağa düştü."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Why did the monkey fall into the trap?",
+        "tr": "Maymun neden tuzağa düştü?"
+      },
+      "options": [
+        {
+          "en": "He trusted the fox too quickly",
+          "tr": "Tilkiye çok çabuk güvendi"
+        },
+        {
+          "en": "He was looking for food",
+          "tr": "Yiyecek arıyordu"
+        },
+        {
+          "en": "He wanted to sleep",
+          "tr": "Uyumak istiyordu"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s14",
+      "explanation": {
+        "tr": "Maymun tilkinin sözlerine çok çabuk güvendiğini söyledi."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did the monkey learn?",
+        "tr": "Maymun ne öğrendi?"
+      },
+      "options": [
+        {
+          "en": "To think carefully before trusting someone",
+          "tr": "Birine güvenmeden önce dikkatlice düşünmeyi"
+        },
+        {
+          "en": "To become a king quickly",
+          "tr": "Hızlıca kral olmayı"
+        },
+        {
+          "en": "To follow the fox everywhere",
+          "tr": "Tilkiyi her yerde takip etmeyi"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s16",
+      "explanation": {
+        "tr": "Maymun, birine güvenmeden önce dikkatli olması ve düşünmesi gerektiğini öğrendi."
+      }
+    }
+  ]
+}

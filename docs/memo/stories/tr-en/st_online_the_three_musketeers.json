@@ -1,0 +1,271 @@
+{
+  "id": "st_online_the_three_musketeers",
+  "level": 6,
+  "category": "classic-stories",
+  "cefr": "A2",
+  "title": {
+    "en": "The Three Musketeers",
+    "tr": "Üç Silahşörler"
+  },
+  "summary": {
+    "tr": "Genç ve cesur D'Artagnan, silahşör olmak için Paris'e gider. Orada Athos, Porthos ve Aramis adlı üç ünlü silahşörle tanışır. Başlangıçta aralarında bazı sorunlar olsa da kısa sürede iyi arkadaş olurlar. D'Artagnan ve üç silahşör, kraliçeyi zor durumda bırakabilecek önemli bir sırrı öğrenir. Birlikte hareket ederek tehlikeli bir göreve çıkar ve büyük zorluklarla karşılaşırlar. Bu macera onlara gerçek dostluğun sadece güzel zamanları paylaşmak değil, zor zamanlarda birbirine yardım etmek olduğunu öğretir.",
+    "en": "A young and brave man named D'Artagnan goes to Paris to become a musketeer. There, he meets three famous musketeers: Athos, Porthos, and Aramis. They have some problems at first, but they soon become good friends. D'Artagnan and the three musketeers learn an important secret that could cause trouble for the queen. They work together and go on a dangerous mission. During their adventure, they face many difficulties. The story teaches them that true friendship means helping each other in difficult times, not only sharing good moments."
+  },
+  "tags": [
+    "classic-stories",
+    "friendship",
+    "adventure",
+    "courage"
+  ],
+  "estimatedSeconds": 125,
+  "targetWordIds": [
+    "friend",
+    "brave",
+    "sword",
+    "king",
+    "queen",
+    "secret",
+    "danger",
+    "together"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "D'Artagnan was a young man who dreamed of becoming a musketeer.",
+      "tr": "D'Artagnan silahşör olmayı hayal eden genç bir adamdı."
+    },
+    {
+      "id": "s2",
+      "en": "He left his home and traveled to Paris with his horse and sword.",
+      "tr": "Evinden ayrıldı ve atı ve kılıcıyla Paris'e gitti."
+    },
+    {
+      "id": "s3",
+      "en": "He wanted to join the king's musketeers and become a brave soldier.",
+      "tr": "Kralın silahşörlerine katılmak ve cesur bir asker olmak istiyordu."
+    },
+    {
+      "id": "s4",
+      "en": "In Paris, he met three famous musketeers named Athos, Porthos, and Aramis.",
+      "tr": "Paris'te Athos, Porthos ve Aramis adındaki üç ünlü silahşörle tanıştı."
+    },
+    {
+      "id": "s5",
+      "en": "D'Artagnan had a small problem with each of them on his first day.",
+      "tr": "D'Artagnan ilk gün her biriyle küçük bir sorun yaşadı."
+    },
+    {
+      "id": "s6",
+      "en": "Athos looked at him and said, \"You are very young. Why do you want to fight?\"",
+      "tr": "Athos ona baktı ve, \"Çok gençsin. Neden savaşmak istiyorsun?\" dedi."
+    },
+    {
+      "id": "s7",
+      "en": "D'Artagnan answered, \"I want to prove that I can be brave.\"",
+      "tr": "D'Artagnan, \"Cesur olabileceğimi kanıtlamak istiyorum,\" diye cevap verdi."
+    },
+    {
+      "id": "s8",
+      "en": "Porthos smiled and said, \"Then you need good friends beside you.\"",
+      "tr": "Porthos gülümsedi ve, \"O zaman yanında iyi arkadaşlara ihtiyacın var,\" dedi."
+    },
+    {
+      "id": "s9",
+      "en": "Aramis added, \"A good friend is more useful than a sharp sword.\"",
+      "tr": "Aramis, \"İyi bir arkadaş keskin bir kılıçtan daha faydalıdır,\" diye ekledi."
+    },
+    {
+      "id": "s10",
+      "en": "Soon, the four young men became close friends.",
+      "tr": "Kısa süre sonra dört genç yakın arkadaş oldu."
+    },
+    {
+      "id": "s11",
+      "en": "One day, they learned that the queen was in serious trouble.",
+      "tr": "Bir gün kraliçenin ciddi bir sorun yaşadığını öğrendiler."
+    },
+    {
+      "id": "s12",
+      "en": "The queen had given an important gift to the Duke of Buckingham.",
+      "tr": "Kraliçe Buckingham Dükü'ne önemli bir hediye vermişti."
+    },
+    {
+      "id": "s13",
+      "en": "The king did not know about the gift, and a dangerous secret was now in the palace.",
+      "tr": "Kral hediyeyi bilmiyordu ve artık sarayda tehlikeli bir sır vardı."
+    },
+    {
+      "id": "s14",
+      "en": "D'Artagnan said, \"We must help the queen.\"",
+      "tr": "D'Artagnan, \"Kraliçeye yardım etmeliyiz,\" dedi."
+    },
+    {
+      "id": "s15",
+      "en": "Athos looked at his friends and answered, \"All for one, and one for all.\"",
+      "tr": "Athos arkadaşlarına baktı ve, \"Hepimiz birimiz için, birimiz hepimiz için,\" diye cevap verdi."
+    },
+    {
+      "id": "s16",
+      "en": "They started their journey immediately and traveled through dangerous roads.",
+      "tr": "Hemen yolculuklarına başladılar ve tehlikeli yollardan geçtiler."
+    },
+    {
+      "id": "s17",
+      "en": "Sometimes one of them was tired, but the others stopped and helped him.",
+      "tr": "Bazen içlerinden biri yoruluyordu ama diğerleri durup ona yardım ediyordu."
+    },
+    {
+      "id": "s18",
+      "en": "When D'Artagnan was afraid, Porthos said, \"Do not worry. We are together.\"",
+      "tr": "D'Artagnan korktuğunda Porthos, \"Endişelenme. Biz birlikteyiz,\" dedi."
+    },
+    {
+      "id": "s19",
+      "en": "The friends finally completed their mission and protected the queen's secret.",
+      "tr": "Arkadaşlar sonunda görevlerini tamamladı ve kraliçenin sırrını korudu."
+    },
+    {
+      "id": "s20",
+      "en": "D'Artagnan understood that courage was not about having no fear.",
+      "tr": "D'Artagnan cesaretin hiç korkmamak olmadığını anladı."
+    },
+    {
+      "id": "s21",
+      "en": "He learned that a brave person can be afraid but still choose to do the right thing.",
+      "tr": "Cesur bir insanın korkabileceğini ama yine de doğru olanı yapmayı seçebileceğini öğrendi."
+    },
+    {
+      "id": "s22",
+      "en": "The four friends returned to Paris stronger than before.",
+      "tr": "Dört arkadaş eskisinden daha güçlü bir şekilde Paris'e döndü."
+    },
+    {
+      "id": "s23",
+      "en": "They knew that friendship, trust, and courage could help them face any difficult road.",
+      "tr": "Dostluğun, güvenin ve cesaretin her türlü zor yolla başa çıkmalarına yardımcı olabileceğini biliyorlardı."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Why did D'Artagnan go to Paris?",
+        "tr": "D'Artagnan neden Paris'e gitti?"
+      },
+      "options": [
+        {
+          "en": "To become a musketeer",
+          "tr": "Silahşör olmak için"
+        },
+        {
+          "en": "To buy a horse",
+          "tr": "Bir at satın almak için"
+        },
+        {
+          "en": "To meet the king",
+          "tr": "Kral ile tanışmak için"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s1",
+      "explanation": {
+        "tr": "D'Artagnan'ın hayali silahşör olmaktı ve bu nedenle Paris'e gitti."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Who did D'Artagnan meet in Paris?",
+        "tr": "D'Artagnan Paris'te kimlerle tanıştı?"
+      },
+      "options": [
+        {
+          "en": "Athos, Porthos, and Aramis",
+          "tr": "Athos, Porthos ve Aramis"
+        },
+        {
+          "en": "Three merchants",
+          "tr": "Üç tüccar"
+        },
+        {
+          "en": "The king and the queen",
+          "tr": "Kral ve kraliçe"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s4",
+      "explanation": {
+        "tr": "Paris'te üç ünlü silahşör olan Athos, Porthos ve Aramis ile tanıştı."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The four friends helped each other during the journey.",
+        "tr": "Dört arkadaş yolculuk sırasında birbirlerine yardım etti."
+      },
+      "answerBool": true,
+      "sentenceRef": "s17",
+      "explanation": {
+        "tr": "İçlerinden biri yorulduğunda diğerleri durup ona yardım etti."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did D'Artagnan learn about courage?",
+        "tr": "D'Artagnan cesaret hakkında ne öğrendi?"
+      },
+      "options": [
+        {
+          "en": "A brave person can be afraid and still do the right thing",
+          "tr": "Cesur bir insan korksa bile doğru olanı yapabilir"
+        },
+        {
+          "en": "A brave person never feels fear",
+          "tr": "Cesur bir insan asla korkmaz"
+        },
+        {
+          "en": "A brave person always fights alone",
+          "tr": "Cesur bir insan her zaman yalnız savaşır"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s21",
+      "explanation": {
+        "tr": "D'Artagnan cesaretin korkmamak değil, korkuya rağmen doğru olanı yapmak olduğunu öğrendi."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What is the main lesson of the story?",
+        "tr": "Hikâyenin ana dersi nedir?"
+      },
+      "options": [
+        {
+          "en": "Friendship, trust, and courage make people stronger",
+          "tr": "Dostluk, güven ve cesaret insanları daha güçlü yapar"
+        },
+        {
+          "en": "People should always work alone",
+          "tr": "İnsanlar her zaman yalnız çalışmalıdır"
+        },
+        {
+          "en": "A sword is more important than a friend",
+          "tr": "Bir kılıç bir arkadaştan daha önemlidir"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s23",
+      "explanation": {
+        "tr": "Hikâye, zor zamanlarda dostluğun, güvenin ve cesaretin insanları daha güçlü yaptığını anlatır."
+      }
+    }
+  ]
+}
