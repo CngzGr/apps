@@ -1,0 +1,216 @@
+{
+  "id": "st_online_the_wolf_and_the_lamb",
+  "level": 1,
+  "category": "classic-stories",
+  "cefr": "A1",
+  "title": {
+    "en": "The Wolf and the Lamb",
+    "tr": "Kurt ile Kuzu"
+  },
+  "summary": {
+    "tr": "Bir kuzu nehirde su içerken bir kurt ona yaklaşır ve onu suçlamak için bahaneler bulur.",
+    "en": "A lamb is drinking water from a river when a wolf comes and finds excuses to blame him."
+  },
+  "tags": [
+    "classic-stories",
+    "animals",
+    "fables"
+  ],
+  "estimatedSeconds": 65,
+  "targetWordIds": [
+    "wolf",
+    "lamb",
+    "river",
+    "water",
+    "drink",
+    "hungry",
+    "angry",
+    "afraid"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "One morning, a little lamb went to a river for some water.",
+      "tr": "Bir sabah küçük bir kuzu biraz su içmek için bir nehre gitti."
+    },
+    {
+      "id": "s2",
+      "en": "The lamb stood near the river and started to drink.",
+      "tr": "Kuzu nehrin yanında durdu ve su içmeye başladı."
+    },
+    {
+      "id": "s3",
+      "en": "A hungry wolf saw the lamb and walked toward him.",
+      "tr": "Aç bir kurt kuzuyu gördü ve ona doğru yürüdü."
+    },
+    {
+      "id": "s4",
+      "en": "The wolf said, \"Why are you making my water dirty?\"",
+      "tr": "Kurt, \"Suyumu neden kirletiyorsun?\" dedi."
+    },
+    {
+      "id": "s5",
+      "en": "The lamb was afraid and answered, \"I am sorry, but I am drinking below you.\"",
+      "tr": "Kuzu korktu ve, \"Üzgünüm ama sizin aşağı tarafınızda su içiyorum,\" diye cevap verdi."
+    },
+    {
+      "id": "s6",
+      "en": "The wolf became angry and said, \"Then you must have made it dirty yesterday.\"",
+      "tr": "Kurt sinirlendi ve, \"O zaman dün kirletmiş olmalısın,\" dedi."
+    },
+    {
+      "id": "s7",
+      "en": "The lamb looked at the wolf and said, \"I was not here yesterday.\"",
+      "tr": "Kuzu kurda baktı ve, \"Dün burada değildim,\" dedi."
+    },
+    {
+      "id": "s8",
+      "en": "The wolf said, \"Then it was your brother.\"",
+      "tr": "Kurt, \"O zaman kardeşindi,\" dedi."
+    },
+    {
+      "id": "s9",
+      "en": "The lamb answered, \"I do not have a brother.\"",
+      "tr": "Kuzu, \"Benim bir kardeşim yok,\" diye cevap verdi."
+    },
+    {
+      "id": "s10",
+      "en": "The wolf became even more angry and said, \"You always make me angry!\"",
+      "tr": "Kurt daha da sinirlendi ve, \"Sen beni her zaman kızdırıyorsun!\" dedi."
+    },
+    {
+      "id": "s11",
+      "en": "The lamb said, \"But I have done nothing wrong.\"",
+      "tr": "Kuzu, \"Ama ben yanlış bir şey yapmadım,\" dedi."
+    },
+    {
+      "id": "s12",
+      "en": "The wolf did not listen to the lamb.",
+      "tr": "Kurt kuzuyu dinlemedi."
+    },
+    {
+      "id": "s13",
+      "en": "He only wanted to find a reason to hurt the little lamb.",
+      "tr": "Sadece küçük kuzuyu incitmek için bir neden bulmak istiyordu."
+    },
+    {
+      "id": "s14",
+      "en": "The lamb understood that the wolf was not looking for the truth.",
+      "tr": "Kuzu, kurdun gerçeği aramadığını anladı."
+    },
+    {
+      "id": "s15",
+      "en": "The story teaches us that an unfair person can always find an excuse.",
+      "tr": "Hikâye bize adaletsiz bir insanın her zaman bir bahane bulabileceğini öğretir."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Where did the lamb go?",
+        "tr": "Kuzu nereye gitti?"
+      },
+      "options": [
+        {
+          "en": "To a river",
+          "tr": "Bir nehre"
+        },
+        {
+          "en": "To a house",
+          "tr": "Bir eve"
+        },
+        {
+          "en": "To a forest",
+          "tr": "Bir ormana"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s1",
+      "explanation": {
+        "tr": "Kuzu su içmek için nehre gitti."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The lamb was drinking above the wolf.",
+        "tr": "Kuzu kurdun yukarısında su içiyordu."
+      },
+      "answerBool": false,
+      "sentenceRef": "s5",
+      "explanation": {
+        "tr": "Kuzu kurdun aşağı tarafında su içiyordu."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did the wolf say after the lamb said he was not there yesterday?",
+        "tr": "Kuzu dün orada olmadığını söyleyince kurt ne dedi?"
+      },
+      "options": [
+        {
+          "en": "It was your brother",
+          "tr": "Kardeşindi"
+        },
+        {
+          "en": "It was your friend",
+          "tr": "Arkadaşındı"
+        },
+        {
+          "en": "It was your father",
+          "tr": "Babanındı"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s8",
+      "explanation": {
+        "tr": "Kurt bu kez suyu kuzunun kardeşinin kirlettiğini söyledi."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The lamb had a brother.",
+        "tr": "Kuzunun bir erkek kardeşi vardı."
+      },
+      "answerBool": false,
+      "sentenceRef": "s9",
+      "explanation": {
+        "tr": "Kuzu açıkça bir kardeşi olmadığını söyledi."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Why did the wolf make excuses?",
+        "tr": "Kurt neden bahaneler buldu?"
+      },
+      "options": [
+        {
+          "en": "He wanted to hurt the lamb",
+          "tr": "Kuzuyu incitmek istiyordu"
+        },
+        {
+          "en": "He wanted to help the lamb",
+          "tr": "Kuzuyu kurtarmak istiyordu"
+        },
+        {
+          "en": "He wanted to drink water",
+          "tr": "Su içmek istiyordu"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s13",
+      "explanation": {
+        "tr": "Kurt gerçeği aramıyordu; kuzuyu incitmek için bahane arıyordu."
+      }
+    }
+  ]
+}

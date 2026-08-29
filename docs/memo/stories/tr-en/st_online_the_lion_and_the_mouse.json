@@ -1,0 +1,235 @@
+{
+  "id": "st_online_the_lion_and_the_mouse",
+  "level": 1,
+  "category": "classic-stories",
+  "cefr": "A1",
+  "title": {
+    "en": "The Lion and the Mouse",
+    "tr": "Aslan ile Fare"
+  },
+  "summary": {
+    "tr": "Bir aslan küçük bir fareyi yakalar ama onu serbest bırakır. Daha sonra fare, aslanın zor bir durumda kalmasına yardım eder.",
+    "en": "A lion catches a little mouse but lets him go. Later, the mouse helps the lion when he is in trouble."
+  },
+  "tags": [
+    "classic-stories",
+    "animals",
+    "fables"
+  ],
+  "estimatedSeconds": 65,
+  "targetWordIds": [
+    "lion",
+    "mouse",
+    "forest",
+    "sleep",
+    "catch",
+    "help",
+    "net",
+    "free"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "One day, a lion was sleeping under a big tree.",
+      "tr": "Bir gün bir aslan büyük bir ağacın altında uyuyordu."
+    },
+    {
+      "id": "s2",
+      "en": "A little mouse ran across the lion and woke him up.",
+      "tr": "Küçük bir fare aslanın üzerinden geçti ve onu uyandırdı."
+    },
+    {
+      "id": "s3",
+      "en": "The lion quickly caught the mouse with his big paw.",
+      "tr": "Aslan küçük fareyi büyük pençesiyle hemen yakaladı."
+    },
+    {
+      "id": "s4",
+      "en": "The mouse was afraid and said, \"Please let me go!\"",
+      "tr": "Fare korktu ve, \"Lütfen beni bırak!\" dedi."
+    },
+    {
+      "id": "s5",
+      "en": "The lion laughed and asked, \"How can a small mouse help me?\"",
+      "tr": "Aslan güldü ve, \"Küçük bir fare bana nasıl yardım edebilir?\" diye sordu."
+    },
+    {
+      "id": "s6",
+      "en": "The mouse answered, \"I may be small, but I can help you one day.\"",
+      "tr": "Fare, \"Küçük olabilirim ama bir gün sana yardım edebilirim,\" diye cevap verdi."
+    },
+    {
+      "id": "s7",
+      "en": "The lion smiled and let the mouse go.",
+      "tr": "Aslan gülümsedi ve fareyi serbest bıraktı."
+    },
+    {
+      "id": "s8",
+      "en": "A few days later, the lion was walking in the forest.",
+      "tr": "Birkaç gün sonra aslan ormanda yürüyordu."
+    },
+    {
+      "id": "s9",
+      "en": "Suddenly, he fell into a hunter's net.",
+      "tr": "Aniden bir avcının ağına düştü."
+    },
+    {
+      "id": "s10",
+      "en": "The lion tried to get out, but the net was too strong.",
+      "tr": "Aslan dışarı çıkmaya çalıştı ama ağ çok güçlüydü."
+    },
+    {
+      "id": "s11",
+      "en": "He roared loudly, and the mouse heard him.",
+      "tr": "Yüksek sesle kükredi ve fare onu duydu."
+    },
+    {
+      "id": "s12",
+      "en": "The mouse ran to the lion and said, \"Do not worry. I can help you!\"",
+      "tr": "Fare aslanın yanına koştu ve, \"Endişelenme. Sana yardım edebilirim!\" dedi."
+    },
+    {
+      "id": "s13",
+      "en": "The mouse started to bite the net with his small teeth.",
+      "tr": "Fare küçük dişleriyle ağı ısırmaya başladı."
+    },
+    {
+      "id": "s14",
+      "en": "Soon, the net broke, and the lion was free.",
+      "tr": "Kısa süre sonra ağ koptu ve aslan özgür kaldı."
+    },
+    {
+      "id": "s15",
+      "en": "The lion looked at the mouse and said, \"Thank you. You really helped me.\"",
+      "tr": "Aslan fareye baktı ve, \"Teşekkür ederim. Bana gerçekten yardım ettin,\" dedi."
+    },
+    {
+      "id": "s16",
+      "en": "The lion learned that even a small friend can be a great help.",
+      "tr": "Aslan küçük bir arkadaşın bile büyük bir yardım olabileceğini öğrendi."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Where was the lion sleeping?",
+        "tr": "Aslan nerede uyuyordu?"
+      },
+      "options": [
+        {
+          "en": "Under a tree",
+          "tr": "Bir ağacın altında"
+        },
+        {
+          "en": "Near a river",
+          "tr": "Bir nehrin yanında"
+        },
+        {
+          "en": "Inside a house",
+          "tr": "Bir evin içinde"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s1",
+      "explanation": {
+        "tr": "Aslan büyük bir ağacın altında uyuyordu."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The lion killed the mouse.",
+        "tr": "Aslan fareyi öldürdü."
+      },
+      "answerBool": false,
+      "sentenceRef": "s7",
+      "explanation": {
+        "tr": "Aslan fareyi serbest bıraktı."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What happened to the lion in the forest?",
+        "tr": "Ormanda aslanın başına ne geldi?"
+      },
+      "options": [
+        {
+          "en": "He fell into a net",
+          "tr": "Bir ağa düştü"
+        },
+        {
+          "en": "He found some food",
+          "tr": "Biraz yiyecek buldu"
+        },
+        {
+          "en": "He found the mouse",
+          "tr": "Fareyi buldu"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s9",
+      "explanation": {
+        "tr": "Aslan bir avcının ağına düştü."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "How did the mouse help the lion?",
+        "tr": "Fare aslana nasıl yardım etti?"
+      },
+      "options": [
+        {
+          "en": "He bit the net",
+          "tr": "Ağı ısırdı"
+        },
+        {
+          "en": "He called the hunter",
+          "tr": "Avcıyı çağırdı"
+        },
+        {
+          "en": "He carried the lion",
+          "tr": "Aslanı taşıdı"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s13",
+      "explanation": {
+        "tr": "Fare küçük dişleriyle ağı ısırarak aslanın kurtulmasını sağladı."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did the lion learn?",
+        "tr": "Aslan ne öğrendi?"
+      },
+      "options": [
+        {
+          "en": "Even a small friend can help",
+          "tr": "Küçük bir arkadaş bile yardım edebilir"
+        },
+        {
+          "en": "Mice are dangerous",
+          "tr": "Fareler tehlikelidir"
+        },
+        {
+          "en": "The forest is a dangerous place",
+          "tr": "Orman tehlikeli bir yerdir"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s16",
+      "explanation": {
+        "tr": "Aslan küçük bir arkadaşın bile büyük bir yardım olabileceğini öğrendi."
+      }
+    }
+  ]
+}
