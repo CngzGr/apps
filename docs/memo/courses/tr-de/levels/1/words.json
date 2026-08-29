@@ -1,0 +1,19 @@
+[
+  {
+    "level": "1",
+    "tr": "Ev",
+    "en": "Haus",
+    "examples": [
+      {
+        "tr": "Bu benim evim."
+      },
+      {
+        "en": "Das ist mein Haus."
+      }
+    ],
+    "category": "noun",
+    "tags": [
+      "noun"
+    ]
+  }
+]

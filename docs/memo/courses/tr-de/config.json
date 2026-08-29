@@ -1,0 +1,18 @@
+{
+  "id": "tr-de",
+  "uiLanguage": "tr",
+  "learningLanguage": "de",
+  "name": {
+    "tr": "Almanca",
+    "en": "German"
+  },
+  "flag": "🇩🇪",
+  "available": true,
+  "levels": [
+    1
+  ],
+  "version": {
+    "number": 1,
+    "force": false
+  }
+}
