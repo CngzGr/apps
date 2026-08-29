@@ -1,0 +1,2239 @@
+[
+  {
+    "id": "st_01_morning_at_home",
+    "level": 1,
+    "category": "daily-life",
+    "cefr": "A1",
+    "title": {
+      "en": "Morning at Home",
+      "tr": "Evde Sabah"
+    },
+    "summary": {
+      "tr": "Bir ailenin sıradan bir sabahı: kahvaltı, mutfak ve bahçe."
+    },
+    "tags": [
+      "daily-life",
+      "food",
+      "home"
+    ],
+    "estimatedSeconds": 45,
+    "targetWordIds": [
+      "morning",
+      "early morning",
+      "window",
+      "table",
+      "bread",
+      "cheese",
+      "milk",
+      "apple",
+      "tea",
+      "garden"
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "en": "It is early morning in our house.",
+        "tr": "Evimizde sabahın erken saatleri."
+      },
+      {
+        "id": "s2",
+        "en": "The light comes in through the big window.",
+        "tr": "Işık büyük pencereden içeri giriyor."
+      },
+      {
+        "id": "s3",
+        "en": "My mother puts bread and cheese on the table.",
+        "tr": "Annem masaya ekmek ve peynir koyuyor."
+      },
+      {
+        "id": "s4",
+        "en": "I drink a glass of milk and eat an apple.",
+        "tr": "Ben bir bardak süt içiyorum ve bir elma yiyorum."
+      },
+      {
+        "id": "s5",
+        "en": "My sister likes her tea very hot.",
+        "tr": "Kız kardeşim çayını çok sıcak sever."
+      },
+      {
+        "id": "s6",
+        "en": "After breakfast we sit in the garden.",
+        "tr": "Kahvaltıdan sonra bahçede oturuyoruz."
+      },
+      {
+        "id": "s7",
+        "en": "It is a good morning for our family.",
+        "tr": "Ailemiz için güzel bir sabah."
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "What does the mother put on the table?",
+          "tr": "Anne masaya ne koyuyor?"
+        },
+        "options": [
+          {
+            "en": "Bread and cheese",
+            "tr": "Ekmek ve peynir"
+          },
+          {
+            "en": "Milk and apples",
+            "tr": "Süt ve elma"
+          },
+          {
+            "en": "Tea and cake",
+            "tr": "Çay ve pasta"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s3",
+        "explanation": {
+          "tr": "Üçüncü cümlede anne masaya ekmek ve peynir koyuyor."
+        }
+      },
+      {
+        "id": "q2",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "What does the narrator drink?",
+          "tr": "Anlatıcı ne içiyor?"
+        },
+        "options": [
+          {
+            "en": "A glass of milk",
+            "tr": "Bir bardak süt"
+          },
+          {
+            "en": "Hot tea",
+            "tr": "Sıcak çay"
+          },
+          {
+            "en": "Coffee",
+            "tr": "Kahve"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s4",
+        "explanation": {
+          "tr": "Anlatıcı bir bardak süt içiyor; çayı seven kız kardeşi."
+        }
+      },
+      {
+        "id": "q3",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The family sits in the garden after breakfast.",
+          "tr": "Aile kahvaltıdan sonra bahçede oturuyor."
+        },
+        "answerBool": true,
+        "sentenceRef": "s6",
+        "explanation": {
+          "tr": "Altıncı cümlede kahvaltıdan sonra bahçede oturuyorlar."
+        }
+      }
+    ]
+  },
+  {
+    "id": "st_01_parents_meet_in_the_park",
+    "level": 1,
+    "category": "family",
+    "cefr": "A1",
+    "title": {
+      "en": "Meeting at the Park",
+      "tr": "Parkta Tanışma"
+    },
+    "summary": {
+      "tr": "Çocuklarını parka getiren iki ebeveynin tanışmasını anlatan basit bir hikâye."
+    },
+    "tags": [
+      "park",
+      "family",
+      "parents",
+      "children",
+      "friends"
+    ],
+    "estimatedSeconds": 85,
+    "targetWordIds": [
+      "park",
+      "mother",
+      "father",
+      "child",
+      "play",
+      "ball",
+      "friend",
+      "hello",
+      "happy",
+      "today"
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "en": "It is a sunny day.",
+        "tr": "Güneşli bir gün."
+      },
+      {
+        "id": "s2",
+        "en": "A mother comes to the park.",
+        "tr": "Bir anne parka geliyor."
+      },
+      {
+        "id": "s3",
+        "en": "Her son wants to play.",
+        "tr": "Oğlu oynamak istiyor."
+      },
+      {
+        "id": "s4",
+        "en": "A father is there with his daughter.",
+        "tr": "Bir baba da kızıyla orada."
+      },
+      {
+        "id": "s5",
+        "en": "The two children play with a ball.",
+        "tr": "İki çocuk bir topla oynuyor."
+      },
+      {
+        "id": "s6",
+        "en": "The mother smiles.",
+        "tr": "Anne gülümsüyor."
+      },
+      {
+        "id": "s7",
+        "en": "The father says, \"Hello!\"",
+        "tr": "Baba, \"Merhaba!\" diyor."
+      },
+      {
+        "id": "s8",
+        "en": "The mother says, \"Hello!\"",
+        "tr": "Anne de, \"Merhaba!\" diyor."
+      },
+      {
+        "id": "s9",
+        "en": "They talk about their children.",
+        "tr": "Çocukları hakkında konuşuyorlar."
+      },
+      {
+        "id": "s10",
+        "en": "The children become friends.",
+        "tr": "Çocuklar arkadaş oluyor."
+      },
+      {
+        "id": "s11",
+        "en": "The parents are happy.",
+        "tr": "Ebeveynler mutlu."
+      },
+      {
+        "id": "s12",
+        "en": "They want to meet again next week.",
+        "tr": "Gelecek hafta tekrar buluşmak istiyorlar."
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Where do they meet?",
+          "tr": "Nerede tanışıyorlar?"
+        },
+        "options": [
+          {
+            "en": "At the park",
+            "tr": "Parkta"
+          },
+          {
+            "en": "At school",
+            "tr": "Okulda"
+          },
+          {
+            "en": "At home",
+            "tr": "Evde"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s2",
+        "explanation": {
+          "tr": "İkinci cümlede annenin parka geldiği belirtiliyor."
+        }
+      },
+      {
+        "id": "q2",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The children play with a ball.",
+          "tr": "Çocuklar topla oynuyor."
+        },
+        "answerBool": true,
+        "sentenceRef": "s5",
+        "explanation": {
+          "tr": "Beşinci cümlede çocukların topla oynadığı söyleniyor."
+        }
+      },
+      {
+        "id": "q3",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "What does the father say?",
+          "tr": "Baba ne diyor?"
+        },
+        "options": [
+          {
+            "en": "Hello!",
+            "tr": "Merhaba!"
+          },
+          {
+            "en": "Goodbye!",
+            "tr": "Hoşça kal!"
+          },
+          {
+            "en": "Thank you!",
+            "tr": "Teşekkür ederim!"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s7",
+        "explanation": {
+          "tr": "Yedinci cümlede baba 'Hello!' diyor."
+        }
+      },
+      {
+        "id": "q4",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Who becomes friends?",
+          "tr": "Kim arkadaş oluyor?"
+        },
+        "options": [
+          {
+            "en": "The children",
+            "tr": "Çocuklar"
+          },
+          {
+            "en": "The parents",
+            "tr": "Ebeveynler"
+          },
+          {
+            "en": "The teachers",
+            "tr": "Öğretmenler"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s10",
+        "explanation": {
+          "tr": "Onuncu cümlede çocukların arkadaş olduğu belirtiliyor."
+        }
+      },
+      {
+        "id": "q5",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The parents want to meet again next week.",
+          "tr": "Ebeveynler gelecek hafta tekrar buluşmak istiyor."
+        },
+        "answerBool": true,
+        "sentenceRef": "s12",
+        "explanation": {
+          "tr": "Son cümlede gelecek hafta tekrar buluşmak istedikleri söyleniyor."
+        }
+      }
+    ]
+  },
+  {
+    "id": "st_01_teacher_homework",
+    "level": 1,
+    "category": "school",
+    "cefr": "A1",
+    "title": {
+      "en": "The Homework",
+      "tr": "Ödev"
+    },
+    "summary": {
+      "tr": "Bir öğretmen ile öğrencisi arasında geçen basit bir ödev hikâyesi."
+    },
+    "tags": [
+      "school",
+      "teacher",
+      "student",
+      "homework",
+      "class"
+    ],
+    "estimatedSeconds": 80,
+    "targetWordIds": [
+      "teacher",
+      "student",
+      "school",
+      "book",
+      "homework",
+      "class",
+      "read",
+      "write",
+      "good",
+      "today"
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "en": "Today is Monday.",
+        "tr": "Bugün pazartesi."
+      },
+      {
+        "id": "s2",
+        "en": "The teacher comes into the class.",
+        "tr": "Öğretmen sınıfa geliyor."
+      },
+      {
+        "id": "s3",
+        "en": "The students say, \"Good morning!\"",
+        "tr": "Öğrenciler, \"Günaydın!\" diyor."
+      },
+      {
+        "id": "s4",
+        "en": "The teacher smiles.",
+        "tr": "Öğretmen gülümsüyor."
+      },
+      {
+        "id": "s5",
+        "en": "She opens a book.",
+        "tr": "Bir kitap açıyor."
+      },
+      {
+        "id": "s6",
+        "en": "The class reads together.",
+        "tr": "Sınıf birlikte okuyor."
+      },
+      {
+        "id": "s7",
+        "en": "The teacher gives homework.",
+        "tr": "Öğretmen ödev veriyor."
+      },
+      {
+        "id": "s8",
+        "en": "The students write the homework.",
+        "tr": "Öğrenciler ödevi yazıyor."
+      },
+      {
+        "id": "s9",
+        "en": "One student asks a question.",
+        "tr": "Bir öğrenci soru soruyor."
+      },
+      {
+        "id": "s10",
+        "en": "The teacher answers with a smile.",
+        "tr": "Öğretmen gülümseyerek cevap veriyor."
+      },
+      {
+        "id": "s11",
+        "en": "The students say, \"Thank you!\"",
+        "tr": "Öğrenciler, \"Teşekkür ederiz!\" diyor."
+      },
+      {
+        "id": "s12",
+        "en": "Everyone is happy to learn.",
+        "tr": "Herkes öğrenmekten mutlu."
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Who comes into the class?",
+          "tr": "Sınıfa kim geliyor?"
+        },
+        "options": [
+          {
+            "en": "The teacher",
+            "tr": "Öğretmen"
+          },
+          {
+            "en": "The doctor",
+            "tr": "Doktor"
+          },
+          {
+            "en": "The waiter",
+            "tr": "Garson"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s2",
+        "explanation": {
+          "tr": "İkinci cümlede öğretmenin sınıfa geldiği belirtiliyor."
+        }
+      },
+      {
+        "id": "q2",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The teacher gives homework.",
+          "tr": "Öğretmen ödev veriyor."
+        },
+        "answerBool": true,
+        "sentenceRef": "s7",
+        "explanation": {
+          "tr": "Yedinci cümlede öğretmenin ödev verdiği söyleniyor."
+        }
+      },
+      {
+        "id": "q3",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "What do the students do together?",
+          "tr": "Öğrenciler birlikte ne yapıyor?"
+        },
+        "options": [
+          {
+            "en": "They read.",
+            "tr": "Okuyorlar."
+          },
+          {
+            "en": "They swim.",
+            "tr": "Yüzüyorlar."
+          },
+          {
+            "en": "They cook.",
+            "tr": "Yemek yapıyorlar."
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s6",
+        "explanation": {
+          "tr": "Altıncı cümlede sınıfın birlikte okuduğu belirtiliyor."
+        }
+      },
+      {
+        "id": "q4",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "What does one student do?",
+          "tr": "Bir öğrenci ne yapıyor?"
+        },
+        "options": [
+          {
+            "en": "Asks a question",
+            "tr": "Soru soruyor"
+          },
+          {
+            "en": "Runs outside",
+            "tr": "Dışarı koşuyor"
+          },
+          {
+            "en": "Sleeps",
+            "tr": "Uyuyor"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s9",
+        "explanation": {
+          "tr": "Dokuzuncu cümlede bir öğrencinin soru sorduğu belirtiliyor."
+        }
+      },
+      {
+        "id": "q5",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "Everyone is happy to learn.",
+          "tr": "Herkes öğrenmekten mutlu."
+        },
+        "answerBool": true,
+        "sentenceRef": "s12",
+        "explanation": {
+          "tr": "Son cümlede herkesin öğrenmekten mutlu olduğu söyleniyor."
+        }
+      }
+    ]
+  },
+  {
+    "id": "st_01_boy_buys_bread",
+    "level": 1,
+    "category": "shopping",
+    "cefr": "A1",
+    "title": {
+      "en": "Buying Bread",
+      "tr": "Ekmek Almak"
+    },
+    "summary": {
+      "tr": "Bir çocuğun fırına gidip ekmek almasını anlatan basit bir hikâye."
+    },
+    "tags": [
+      "bakery",
+      "shopping",
+      "bread",
+      "family",
+      "child"
+    ],
+    "estimatedSeconds": 80,
+    "targetWordIds": [
+      "bread",
+      "bakery",
+      "money",
+      "child",
+      "mother",
+      "please",
+      "thank",
+      "bag",
+      "home",
+      "happy"
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "en": "Ali is a young boy.",
+        "tr": "Ali küçük bir çocuktur."
+      },
+      {
+        "id": "s2",
+        "en": "His mother gives him some money.",
+        "tr": "Annesi ona biraz para verir."
+      },
+      {
+        "id": "s3",
+        "en": "She says, \"Please buy some bread.\"",
+        "tr": "\"Lütfen biraz ekmek al.\" der."
+      },
+      {
+        "id": "s4",
+        "en": "Ali walks to the bakery.",
+        "tr": "Ali fırına yürür."
+      },
+      {
+        "id": "s5",
+        "en": "The baker smiles and says, \"Hello!\"",
+        "tr": "Fırıncı gülümser ve \"Merhaba!\" der."
+      },
+      {
+        "id": "s6",
+        "en": "Ali says, \"One bread, please.\"",
+        "tr": "Ali, \"Bir ekmek, lütfen.\" der."
+      },
+      {
+        "id": "s7",
+        "en": "The baker puts the bread into a bag.",
+        "tr": "Fırıncı ekmeği bir poşete koyar."
+      },
+      {
+        "id": "s8",
+        "en": "Ali gives the money.",
+        "tr": "Ali parayı verir."
+      },
+      {
+        "id": "s9",
+        "en": "The baker says, \"Thank you.\"",
+        "tr": "Fırıncı, \"Teşekkür ederim.\" der."
+      },
+      {
+        "id": "s10",
+        "en": "Ali walks back home.",
+        "tr": "Ali eve geri yürür."
+      },
+      {
+        "id": "s11",
+        "en": "His mother is happy.",
+        "tr": "Annesi mutlu olur."
+      },
+      {
+        "id": "s12",
+        "en": "They eat fresh bread together.",
+        "tr": "Birlikte taze ekmek yerler."
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Where does Ali go?",
+          "tr": "Ali nereye gidiyor?"
+        },
+        "options": [
+          {
+            "en": "To the bakery",
+            "tr": "Fırına"
+          },
+          {
+            "en": "To the school",
+            "tr": "Okula"
+          },
+          {
+            "en": "To the park",
+            "tr": "Parka"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s4",
+        "explanation": {
+          "tr": "Dördüncü cümlede Ali'nin fırına gittiği belirtiliyor."
+        }
+      },
+      {
+        "id": "q2",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "Ali buys one bread.",
+          "tr": "Ali bir ekmek alıyor."
+        },
+        "answerBool": true,
+        "sentenceRef": "s6",
+        "explanation": {
+          "tr": "Altıncı cümlede Ali'nin bir ekmek istediği belirtiliyor."
+        }
+      },
+      {
+        "id": "q3",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "What does the baker put into the bag?",
+          "tr": "Fırıncı poşete ne koyuyor?"
+        },
+        "options": [
+          {
+            "en": "Bread",
+            "tr": "Ekmek"
+          },
+          {
+            "en": "Milk",
+            "tr": "Süt"
+          },
+          {
+            "en": "Cake",
+            "tr": "Pasta"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s7",
+        "explanation": {
+          "tr": "Yedinci cümlede fırıncının ekmeği poşete koyduğu söyleniyor."
+        }
+      },
+      {
+        "id": "q4",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Who is happy at the end?",
+          "tr": "Hikâyenin sonunda kim mutlu?"
+        },
+        "options": [
+          {
+            "en": "His mother",
+            "tr": "Annesi"
+          },
+          {
+            "en": "His teacher",
+            "tr": "Öğretmeni"
+          },
+          {
+            "en": "His friend",
+            "tr": "Arkadaşı"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s11",
+        "explanation": {
+          "tr": "On birinci cümlede annesinin mutlu olduğu belirtiliyor."
+        }
+      },
+      {
+        "id": "q5",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "They eat fresh bread together.",
+          "tr": "Birlikte taze ekmek yiyorlar."
+        },
+        "answerBool": true,
+        "sentenceRef": "s12",
+        "explanation": {
+          "tr": "Son cümlede birlikte taze ekmek yedikleri belirtiliyor."
+        }
+      }
+    ]
+  },
+  {
+    "id": "st_01_family_picnic_with_dog",
+    "level": 1,
+    "category": "family",
+    "cefr": "A1",
+    "title": {
+      "en": "A Picnic with Our Dog",
+      "tr": "Köpeğimizle Piknik"
+    },
+    "summary": {
+      "tr": "Çekirdek bir ailenin sevimli köpekleriyle parkta yaptığı mutlu bir pikniği anlatan basit hikâye."
+    },
+    "tags": [
+      "family",
+      "picnic",
+      "dog",
+      "park",
+      "food"
+    ],
+    "estimatedSeconds": 90,
+    "targetWordIds": [
+      "family",
+      "park",
+      "dog",
+      "food",
+      "water",
+      "ball",
+      "happy",
+      "tree",
+      "play",
+      "sun"
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "en": "Today is a sunny day.",
+        "tr": "Bugün güneşli bir gün."
+      },
+      {
+        "id": "s2",
+        "en": "My family goes to the park.",
+        "tr": "Ailem parka gidiyor."
+      },
+      {
+        "id": "s3",
+        "en": "My mother brings food.",
+        "tr": "Annem yemek getiriyor."
+      },
+      {
+        "id": "s4",
+        "en": "My father carries a picnic basket.",
+        "tr": "Babam piknik sepetini taşıyor."
+      },
+      {
+        "id": "s5",
+        "en": "I bring a red ball.",
+        "tr": "Ben kırmızı bir top getiriyorum."
+      },
+      {
+        "id": "s6",
+        "en": "Our little dog is very happy.",
+        "tr": "Küçük köpeğimiz çok mutlu."
+      },
+      {
+        "id": "s7",
+        "en": "The dog runs under a big tree.",
+        "tr": "Köpek büyük bir ağacın altında koşuyor."
+      },
+      {
+        "id": "s8",
+        "en": "We play with the ball together.",
+        "tr": "Birlikte topla oynuyoruz."
+      },
+      {
+        "id": "s9",
+        "en": "The dog drinks some water.",
+        "tr": "Köpek biraz su içiyor."
+      },
+      {
+        "id": "s10",
+        "en": "We eat our food on the grass.",
+        "tr": "Çimlerin üzerinde yemeğimizi yiyoruz."
+      },
+      {
+        "id": "s11",
+        "en": "Everyone is smiling.",
+        "tr": "Herkes gülümsüyor."
+      },
+      {
+        "id": "s12",
+        "en": "It is a beautiful picnic.",
+        "tr": "Bu harika bir piknik."
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Where does the family go?",
+          "tr": "Aile nereye gidiyor?"
+        },
+        "options": [
+          {
+            "en": "To the park",
+            "tr": "Parka"
+          },
+          {
+            "en": "To the school",
+            "tr": "Okula"
+          },
+          {
+            "en": "To the hospital",
+            "tr": "Hastaneye"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s2",
+        "explanation": {
+          "tr": "İkinci cümlede ailenin parka gittiği belirtiliyor."
+        }
+      },
+      {
+        "id": "q2",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The dog is happy.",
+          "tr": "Köpek mutlu."
+        },
+        "answerBool": true,
+        "sentenceRef": "s6",
+        "explanation": {
+          "tr": "Altıncı cümlede köpeğin çok mutlu olduğu söyleniyor."
+        }
+      },
+      {
+        "id": "q3",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "What does the child bring?",
+          "tr": "Çocuk ne getiriyor?"
+        },
+        "options": [
+          {
+            "en": "A red ball",
+            "tr": "Kırmızı bir top"
+          },
+          {
+            "en": "A book",
+            "tr": "Bir kitap"
+          },
+          {
+            "en": "A bike",
+            "tr": "Bir bisiklet"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s5",
+        "explanation": {
+          "tr": "Beşinci cümlede çocuğun kırmızı bir top getirdiği belirtiliyor."
+        }
+      },
+      {
+        "id": "q4",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "What does the dog drink?",
+          "tr": "Köpek ne içiyor?"
+        },
+        "options": [
+          {
+            "en": "Water",
+            "tr": "Su"
+          },
+          {
+            "en": "Milk",
+            "tr": "Süt"
+          },
+          {
+            "en": "Juice",
+            "tr": "Meyve suyu"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s9",
+        "explanation": {
+          "tr": "Dokuzuncu cümlede köpeğin su içtiği söyleniyor."
+        }
+      },
+      {
+        "id": "q5",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The family has a beautiful picnic.",
+          "tr": "Aile güzel bir piknik yapıyor."
+        },
+        "answerBool": true,
+        "sentenceRef": "s12",
+        "explanation": {
+          "tr": "Son cümlede bunun güzel bir piknik olduğu belirtiliyor."
+        }
+      }
+    ]
+  },
+  {
+    "id": "st_01_child_falls_in_park",
+    "level": 1,
+    "category": "health",
+    "cefr": "A1",
+    "title": {
+      "en": "Friends Help in the Park",
+      "tr": "Parkta Yardım Eden Arkadaşlar"
+    },
+    "summary": {
+      "tr": "Parkta oynarken düşen küçük bir çocuğa arkadaşlarının yardım etmesini anlatan basit bir hikâye."
+    },
+    "tags": [
+      "park",
+      "friends",
+      "child",
+      "help",
+      "health"
+    ],
+    "estimatedSeconds": 90,
+    "targetWordIds": [
+      "park",
+      "friend",
+      "run",
+      "fall",
+      "knee",
+      "help",
+      "water",
+      "sit",
+      "happy",
+      "doctor"
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "en": "Tom is in the park.",
+        "tr": "Tom parkta."
+      },
+      {
+        "id": "s2",
+        "en": "He plays with his friends.",
+        "tr": "Arkadaşlarıyla oynuyor."
+      },
+      {
+        "id": "s3",
+        "en": "They run after a ball.",
+        "tr": "Bir topun peşinden koşuyorlar."
+      },
+      {
+        "id": "s4",
+        "en": "Tom falls down.",
+        "tr": "Tom düşüyor."
+      },
+      {
+        "id": "s5",
+        "en": "His knee hurts.",
+        "tr": "Dizi acıyor."
+      },
+      {
+        "id": "s6",
+        "en": "Tom is sad.",
+        "tr": "Tom üzgün."
+      },
+      {
+        "id": "s7",
+        "en": "His friends help him.",
+        "tr": "Arkadaşları ona yardım ediyor."
+      },
+      {
+        "id": "s8",
+        "en": "One friend gives him water.",
+        "tr": "Bir arkadaşı ona su veriyor."
+      },
+      {
+        "id": "s9",
+        "en": "Another friend helps him sit down.",
+        "tr": "Başka bir arkadaşı oturmasına yardım ediyor."
+      },
+      {
+        "id": "s10",
+        "en": "They call his mother.",
+        "tr": "Annesini arıyorlar."
+      },
+      {
+        "id": "s11",
+        "en": "His mother takes him to the doctor.",
+        "tr": "Annesi onu doktora götürüyor."
+      },
+      {
+        "id": "s12",
+        "en": "Soon Tom feels better.",
+        "tr": "Kısa süre sonra Tom kendini daha iyi hissediyor."
+      },
+      {
+        "id": "s13",
+        "en": "He thanks his friends.",
+        "tr": "Arkadaşlarına teşekkür ediyor."
+      },
+      {
+        "id": "s14",
+        "en": "They smile together.",
+        "tr": "Birlikte gülümsüyorlar."
+      },
+      {
+        "id": "s15",
+        "en": "Good friends always help each other.",
+        "tr": "İyi arkadaşlar her zaman birbirine yardım eder."
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Where is Tom?",
+          "tr": "Tom nerede?"
+        },
+        "options": [
+          {
+            "en": "In the park",
+            "tr": "Parkta"
+          },
+          {
+            "en": "At school",
+            "tr": "Okulda"
+          },
+          {
+            "en": "At home",
+            "tr": "Evde"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s1",
+        "explanation": {
+          "tr": "İlk cümlede Tom'un parkta olduğu söyleniyor."
+        }
+      },
+      {
+        "id": "q2",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "What hurts?",
+          "tr": "Neresi acıyor?"
+        },
+        "options": [
+          {
+            "en": "His knee",
+            "tr": "Dizi"
+          },
+          {
+            "en": "His hand",
+            "tr": "Eli"
+          },
+          {
+            "en": "His head",
+            "tr": "Başı"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s5",
+        "explanation": {
+          "tr": "Beşinci cümlede dizinin acıdığı belirtiliyor."
+        }
+      },
+      {
+        "id": "q3",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "Tom's friends help him.",
+          "tr": "Tom'un arkadaşları ona yardım ediyor."
+        },
+        "answerBool": true,
+        "sentenceRef": "s7",
+        "explanation": {
+          "tr": "Yedinci cümlede arkadaşlarının yardım ettiği anlatılıyor."
+        }
+      },
+      {
+        "id": "q4",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Who takes Tom to the doctor?",
+          "tr": "Tom'u doktora kim götürüyor?"
+        },
+        "options": [
+          {
+            "en": "His mother",
+            "tr": "Annesi"
+          },
+          {
+            "en": "His teacher",
+            "tr": "Öğretmeni"
+          },
+          {
+            "en": "His brother",
+            "tr": "Kardeşi"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s11",
+        "explanation": {
+          "tr": "On birinci cümlede annesinin doktora götürdüğü belirtiliyor."
+        }
+      },
+      {
+        "id": "q5",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "Good friends help each other.",
+          "tr": "İyi arkadaşlar birbirine yardım eder."
+        },
+        "answerBool": true,
+        "sentenceRef": "s15",
+        "explanation": {
+          "tr": "Son cümlede hikâyenin ana mesajı veriliyor."
+        }
+      }
+    ]
+  },
+  {
+    "id": "st_01_clever_fox_and_crow",
+    "level": 1,
+    "category": "fable",
+    "cefr": "A1",
+    "title": {
+      "en": "The Clever Fox and the Crow",
+      "tr": "Kurnaz Tilki ve Karga"
+    },
+    "summary": {
+      "tr": "Kurnaz bir tilkinin, ağzındaki peyniri düşürmesi için bir kargayı övdüğü klasik fabl."
+    },
+    "tags": [
+      "fable",
+      "animals",
+      "fox",
+      "crow",
+      "wisdom"
+    ],
+    "estimatedSeconds": 95,
+    "targetWordIds": [
+      "fox",
+      "crow",
+      "tree",
+      "cheese",
+      "sing",
+      "mouth",
+      "happy",
+      "clever",
+      "food",
+      "bird"
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "en": "A crow sits in a tree.",
+        "tr": "Bir karga ağacın üzerinde oturuyor."
+      },
+      {
+        "id": "s2",
+        "en": "The crow has a piece of cheese.",
+        "tr": "Karganın bir parça peyniri var."
+      },
+      {
+        "id": "s3",
+        "en": "A fox walks under the tree.",
+        "tr": "Bir tilki ağacın altından yürüyor."
+      },
+      {
+        "id": "s4",
+        "en": "The fox sees the cheese.",
+        "tr": "Tilki peyniri görüyor."
+      },
+      {
+        "id": "s5",
+        "en": "The fox is very clever.",
+        "tr": "Tilki çok kurnaz."
+      },
+      {
+        "id": "s6",
+        "en": "\"You are a beautiful bird,\" the fox says.",
+        "tr": "\"Sen çok güzel bir kuşsun,\" diyor tilki."
+      },
+      {
+        "id": "s7",
+        "en": "\"Can you sing for me?\"",
+        "tr": "\"Benim için şarkı söyler misin?\""
+      },
+      {
+        "id": "s8",
+        "en": "The crow is happy.",
+        "tr": "Karga mutlu oluyor."
+      },
+      {
+        "id": "s9",
+        "en": "The crow opens its mouth.",
+        "tr": "Karga ağzını açıyor."
+      },
+      {
+        "id": "s10",
+        "en": "The cheese falls down.",
+        "tr": "Peynir yere düşüyor."
+      },
+      {
+        "id": "s11",
+        "en": "The fox takes the cheese.",
+        "tr": "Tilki peyniri alıyor."
+      },
+      {
+        "id": "s12",
+        "en": "The fox runs away.",
+        "tr": "Tilki kaçıyor."
+      },
+      {
+        "id": "s13",
+        "en": "The crow is sad.",
+        "tr": "Karga üzülüyor."
+      },
+      {
+        "id": "s14",
+        "en": "The crow learns a lesson.",
+        "tr": "Karga bir ders alıyor."
+      },
+      {
+        "id": "s15",
+        "en": "Do not believe every sweet word.",
+        "tr": "Her güzel söze inanma."
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Where is the crow?",
+          "tr": "Karga nerede?"
+        },
+        "options": [
+          {
+            "en": "In a tree",
+            "tr": "Bir ağacın üzerinde"
+          },
+          {
+            "en": "In a house",
+            "tr": "Bir evde"
+          },
+          {
+            "en": "In a river",
+            "tr": "Bir nehirde"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s1",
+        "explanation": {
+          "tr": "İlk cümlede karganın ağaçta olduğu söyleniyor."
+        }
+      },
+      {
+        "id": "q2",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "What does the crow have?",
+          "tr": "Karganın neyi var?"
+        },
+        "options": [
+          {
+            "en": "A piece of cheese",
+            "tr": "Bir parça peynir"
+          },
+          {
+            "en": "A flower",
+            "tr": "Bir çiçek"
+          },
+          {
+            "en": "A ball",
+            "tr": "Bir top"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s2",
+        "explanation": {
+          "tr": "İkinci cümlede karganın peyniri olduğu belirtiliyor."
+        }
+      },
+      {
+        "id": "q3",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The fox asks the crow to sing.",
+          "tr": "Tilki kargadan şarkı söylemesini istiyor."
+        },
+        "answerBool": true,
+        "sentenceRef": "s7",
+        "explanation": {
+          "tr": "Yedinci cümlede tilkinin şarkı söylemesini istediği anlatılıyor."
+        }
+      },
+      {
+        "id": "q4",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Why does the cheese fall?",
+          "tr": "Peynir neden düşüyor?"
+        },
+        "options": [
+          {
+            "en": "Because the crow opens its mouth",
+            "tr": "Çünkü karga ağzını açıyor"
+          },
+          {
+            "en": "Because the fox climbs the tree",
+            "tr": "Çünkü tilki ağaca çıkıyor"
+          },
+          {
+            "en": "Because the wind is strong",
+            "tr": "Çünkü rüzgar çok güçlü"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s9",
+        "explanation": {
+          "tr": "Dokuzuncu cümlede karga ağzını açınca peynir düşüyor."
+        }
+      },
+      {
+        "id": "q5",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The story says we should believe every sweet word.",
+          "tr": "Hikâye her güzel söze inanmamız gerektiğini söylüyor."
+        },
+        "answerBool": false,
+        "sentenceRef": "s15",
+        "explanation": {
+          "tr": "Son cümlede her güzel söze inanmamamız gerektiği anlatılıyor."
+        }
+      }
+    ]
+  },
+  {
+    "id": "st_01_hare_and_tortoise",
+    "level": 1,
+    "category": "fable",
+    "cefr": "A1",
+    "title": {
+      "en": "The Hare and the Tortoise",
+      "tr": "Tavşan ve Kaplumbağa"
+    },
+    "summary": {
+      "tr": "Hızlı tavşan ile sabırlı kaplumbağanın yarışını anlatan klasik fabl."
+    },
+    "tags": [
+      "fable",
+      "animals",
+      "race",
+      "hare",
+      "tortoise"
+    ],
+    "estimatedSeconds": 95,
+    "targetWordIds": [
+      "hare",
+      "tortoise",
+      "race",
+      "fast",
+      "slow",
+      "sleep",
+      "run",
+      "win",
+      "happy",
+      "forest"
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "en": "A hare lives in the forest.",
+        "tr": "Bir tavşan ormanda yaşar."
+      },
+      {
+        "id": "s2",
+        "en": "A tortoise lives there too.",
+        "tr": "Bir kaplumbağa da orada yaşar."
+      },
+      {
+        "id": "s3",
+        "en": "The hare is very fast.",
+        "tr": "Tavşan çok hızlıdır."
+      },
+      {
+        "id": "s4",
+        "en": "The tortoise is very slow.",
+        "tr": "Kaplumbağa çok yavaştır."
+      },
+      {
+        "id": "s5",
+        "en": "One day, they have a race.",
+        "tr": "Bir gün yarış yaparlar."
+      },
+      {
+        "id": "s6",
+        "en": "The hare runs very fast.",
+        "tr": "Tavşan çok hızlı koşar."
+      },
+      {
+        "id": "s7",
+        "en": "The tortoise walks slowly.",
+        "tr": "Kaplumbağa yavaşça yürür."
+      },
+      {
+        "id": "s8",
+        "en": "The hare stops to sleep.",
+        "tr": "Tavşan uyumak için durur."
+      },
+      {
+        "id": "s9",
+        "en": "The tortoise keeps going.",
+        "tr": "Kaplumbağa yoluna devam eder."
+      },
+      {
+        "id": "s10",
+        "en": "The hare wakes up.",
+        "tr": "Tavşan uyanır."
+      },
+      {
+        "id": "s11",
+        "en": "He runs again.",
+        "tr": "Tekrar koşar."
+      },
+      {
+        "id": "s12",
+        "en": "The tortoise reaches the finish line first.",
+        "tr": "Kaplumbağa bitiş çizgisine önce ulaşır."
+      },
+      {
+        "id": "s13",
+        "en": "The tortoise wins the race.",
+        "tr": "Kaplumbağa yarışı kazanır."
+      },
+      {
+        "id": "s14",
+        "en": "The hare is surprised.",
+        "tr": "Tavşan şaşırır."
+      },
+      {
+        "id": "s15",
+        "en": "Slow and steady wins the race.",
+        "tr": "Yavaş ama kararlı olan yarışı kazanır."
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Who is very fast?",
+          "tr": "Kim çok hızlıdır?"
+        },
+        "options": [
+          {
+            "en": "The hare",
+            "tr": "Tavşan"
+          },
+          {
+            "en": "The tortoise",
+            "tr": "Kaplumbağa"
+          },
+          {
+            "en": "The fox",
+            "tr": "Tilki"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s3",
+        "explanation": {
+          "tr": "Üçüncü cümlede tavşanın çok hızlı olduğu söyleniyor."
+        }
+      },
+      {
+        "id": "q2",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The hare stops to sleep.",
+          "tr": "Tavşan uyumak için duruyor."
+        },
+        "answerBool": true,
+        "sentenceRef": "s8",
+        "explanation": {
+          "tr": "Sekizinci cümlede tavşanın uyuduğu belirtiliyor."
+        }
+      },
+      {
+        "id": "q3",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Who keeps going?",
+          "tr": "Kim yoluna devam ediyor?"
+        },
+        "options": [
+          {
+            "en": "The tortoise",
+            "tr": "Kaplumbağa"
+          },
+          {
+            "en": "The hare",
+            "tr": "Tavşan"
+          },
+          {
+            "en": "The bird",
+            "tr": "Kuş"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s9",
+        "explanation": {
+          "tr": "Dokuzuncu cümlede kaplumbağanın yoluna devam ettiği söyleniyor."
+        }
+      },
+      {
+        "id": "q4",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Who wins the race?",
+          "tr": "Yarışı kim kazanıyor?"
+        },
+        "options": [
+          {
+            "en": "The tortoise",
+            "tr": "Kaplumbağa"
+          },
+          {
+            "en": "The hare",
+            "tr": "Tavşan"
+          },
+          {
+            "en": "Nobody",
+            "tr": "Hiç kimse"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s13",
+        "explanation": {
+          "tr": "On üçüncü cümlede kaplumbağanın yarışı kazandığı belirtiliyor."
+        }
+      },
+      {
+        "id": "q5",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The story teaches us to be patient and never give up.",
+          "tr": "Hikâye sabırlı olmayı ve pes etmemeyi öğretiyor."
+        },
+        "answerBool": true,
+        "sentenceRef": "s15",
+        "explanation": {
+          "tr": "Son cümlede hikâyenin ana mesajı veriliyor."
+        }
+      }
+    ]
+  },
+  {
+    "id": "st_01_little_red_riding_hood",
+    "level": 1,
+    "category": "fairy_tale",
+    "cefr": "A1",
+    "title": {
+      "en": "Little Red Riding Hood",
+      "tr": "Kırmızı Başlıklı Kız"
+    },
+    "summary": {
+      "tr": "Kırmızı Başlıklı Kız'ın büyükannesini ziyarete giderken kurtla karşılaşmasını anlatan klasik masal."
+    },
+    "tags": [
+      "fairy_tale",
+      "family",
+      "forest",
+      "wolf",
+      "grandmother"
+    ],
+    "estimatedSeconds": 100,
+    "targetWordIds": [
+      "girl",
+      "mother",
+      "basket",
+      "forest",
+      "wolf",
+      "grandmother",
+      "house",
+      "flowers",
+      "run",
+      "happy"
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "en": "Little Red Riding Hood is a kind girl.",
+        "tr": "Kırmızı Başlıklı Kız iyi kalpli bir kızdır."
+      },
+      {
+        "id": "s2",
+        "en": "Her mother gives her a basket.",
+        "tr": "Annesi ona bir sepet verir."
+      },
+      {
+        "id": "s3",
+        "en": "She walks to her grandmother's house.",
+        "tr": "Büyükannesinin evine yürür."
+      },
+      {
+        "id": "s4",
+        "en": "She walks through the forest.",
+        "tr": "Ormanın içinden yürür."
+      },
+      {
+        "id": "s5",
+        "en": "A wolf sees the girl.",
+        "tr": "Bir kurt kızı görür."
+      },
+      {
+        "id": "s6",
+        "en": "\"Where are you going?\" the wolf asks.",
+        "tr": "\"Nereye gidiyorsun?\" diye sorar kurt."
+      },
+      {
+        "id": "s7",
+        "en": "\"I am going to my grandmother's house,\" she says.",
+        "tr": "\"Büyükannemin evine gidiyorum,\" der."
+      },
+      {
+        "id": "s8",
+        "en": "The girl stops to pick flowers.",
+        "tr": "Kız çiçek toplamak için durur."
+      },
+      {
+        "id": "s9",
+        "en": "The wolf runs to the house.",
+        "tr": "Kurt eve koşar."
+      },
+      {
+        "id": "s10",
+        "en": "Soon the girl arrives at the house.",
+        "tr": "Kısa süre sonra kız eve varır."
+      },
+      {
+        "id": "s11",
+        "en": "She is surprised.",
+        "tr": "Çok şaşırır."
+      },
+      {
+        "id": "s12",
+        "en": "A brave hunter helps them.",
+        "tr": "Cesur bir avcı onlara yardım eder."
+      },
+      {
+        "id": "s13",
+        "en": "The wolf runs away.",
+        "tr": "Kurt kaçar."
+      },
+      {
+        "id": "s14",
+        "en": "The grandmother is safe.",
+        "tr": "Büyükanne güvendedir."
+      },
+      {
+        "id": "s15",
+        "en": "Little Red Riding Hood is happy to see her grandmother again.",
+        "tr": "Kırmızı Başlıklı Kız büyükannesini tekrar gördüğü için mutludur."
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Who gives the girl a basket?",
+          "tr": "Kıza sepeti kim veriyor?"
+        },
+        "options": [
+          {
+            "en": "Her mother",
+            "tr": "Annesi"
+          },
+          {
+            "en": "Her grandmother",
+            "tr": "Büyükannesi"
+          },
+          {
+            "en": "The hunter",
+            "tr": "Avcı"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s2",
+        "explanation": {
+          "tr": "İkinci cümlede sepeti annesinin verdiği söyleniyor."
+        }
+      },
+      {
+        "id": "q2",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Where does the girl walk?",
+          "tr": "Kız nerede yürüyor?"
+        },
+        "options": [
+          {
+            "en": "Through the forest",
+            "tr": "Ormanın içinden"
+          },
+          {
+            "en": "On the beach",
+            "tr": "Plajda"
+          },
+          {
+            "en": "In the city",
+            "tr": "Şehirde"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s4",
+        "explanation": {
+          "tr": "Dördüncü cümlede ormanın içinden yürüdüğü belirtiliyor."
+        }
+      },
+      {
+        "id": "q3",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The girl picks flowers.",
+          "tr": "Kız çiçek topluyor."
+        },
+        "answerBool": true,
+        "sentenceRef": "s8",
+        "explanation": {
+          "tr": "Sekizinci cümlede kızın çiçek topladığı söyleniyor."
+        }
+      },
+      {
+        "id": "q4",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Who helps the girl and her grandmother?",
+          "tr": "Kıza ve büyükannesine kim yardım ediyor?"
+        },
+        "options": [
+          {
+            "en": "A hunter",
+            "tr": "Bir avcı"
+          },
+          {
+            "en": "A fox",
+            "tr": "Bir tilki"
+          },
+          {
+            "en": "A farmer",
+            "tr": "Bir çiftçi"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s12",
+        "explanation": {
+          "tr": "On ikinci cümlede avcının yardım ettiği belirtiliyor."
+        }
+      },
+      {
+        "id": "q5",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The grandmother is safe at the end.",
+          "tr": "Hikâyenin sonunda büyükanne güvendedir."
+        },
+        "answerBool": true,
+        "sentenceRef": "s14",
+        "explanation": {
+          "tr": "On dördüncü cümlede büyükannenin güvende olduğu belirtiliyor."
+        }
+      }
+    ]
+  },
+  {
+    "id": "st_01_whale_and_fisherman",
+    "level": 1,
+    "category": "sea",
+    "cefr": "A1",
+    "title": {
+      "en": "The Whale and the Fisherman",
+      "tr": "Balina ve Balıkçı"
+    },
+    "summary": {
+      "tr": "Denizde büyük bir balinayla karşılaşan balıkçının dostluk ve doğaya saygıyı öğrendiği kısa hikâye."
+    },
+    "tags": [
+      "sea",
+      "animals",
+      "fisherman",
+      "whale",
+      "nature"
+    ],
+    "estimatedSeconds": 95,
+    "targetWordIds": [
+      "sea",
+      "boat",
+      "fisherman",
+      "fish",
+      "whale",
+      "water",
+      "big",
+      "help",
+      "happy",
+      "home"
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "en": "A fisherman has a small boat.",
+        "tr": "Bir balıkçının küçük bir teknesi vardır."
+      },
+      {
+        "id": "s2",
+        "en": "He goes to the sea early in the morning.",
+        "tr": "Sabah erkenden denize gider."
+      },
+      {
+        "id": "s3",
+        "en": "The sea is calm.",
+        "tr": "Deniz sakindir."
+      },
+      {
+        "id": "s4",
+        "en": "He wants to catch some fish.",
+        "tr": "Birkaç balık yakalamak ister."
+      },
+      {
+        "id": "s5",
+        "en": "Suddenly, he sees a big whale.",
+        "tr": "Birden büyük bir balina görür."
+      },
+      {
+        "id": "s6",
+        "en": "The whale swims near the boat.",
+        "tr": "Balina teknenin yanına kadar yüzer."
+      },
+      {
+        "id": "s7",
+        "en": "The fisherman is surprised.",
+        "tr": "Balıkçı çok şaşırır."
+      },
+      {
+        "id": "s8",
+        "en": "The whale is friendly.",
+        "tr": "Balina dost canlısıdır."
+      },
+      {
+        "id": "s9",
+        "en": "It moves the boat gently.",
+        "tr": "Tekneyi nazikçe hareket ettirir."
+      },
+      {
+        "id": "s10",
+        "en": "The fisherman smiles.",
+        "tr": "Balıkçı gülümser."
+      },
+      {
+        "id": "s11",
+        "en": "He does not hurt the whale.",
+        "tr": "Balinaya zarar vermez."
+      },
+      {
+        "id": "s12",
+        "en": "The whale swims back into the deep water.",
+        "tr": "Balina tekrar derin sulara doğru yüzer."
+      },
+      {
+        "id": "s13",
+        "en": "The fisherman catches a few fish.",
+        "tr": "Balıkçı birkaç balık yakalar."
+      },
+      {
+        "id": "s14",
+        "en": "He goes home happily.",
+        "tr": "Mutlu bir şekilde eve döner."
+      },
+      {
+        "id": "s15",
+        "en": "He always remembers the gentle whale.",
+        "tr": "Nazik balinayı her zaman hatırlar."
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "Where does the fisherman go?",
+          "tr": "Balıkçı nereye gidiyor?"
+        },
+        "options": [
+          {
+            "en": "To the sea",
+            "tr": "Denize"
+          },
+          {
+            "en": "To the forest",
+            "tr": "Ormana"
+          },
+          {
+            "en": "To the park",
+            "tr": "Parka"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s2",
+        "explanation": {
+          "tr": "İkinci cümlede balıkçının denize gittiği belirtiliyor."
+        }
+      },
+      {
+        "id": "q2",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "What does the fisherman see?",
+          "tr": "Balıkçı ne görüyor?"
+        },
+        "options": [
+          {
+            "en": "A big whale",
+            "tr": "Büyük bir balina"
+          },
+          {
+            "en": "A shark",
+            "tr": "Bir köpek balığı"
+          },
+          {
+            "en": "A dolphin",
+            "tr": "Bir yunus"
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s5",
+        "explanation": {
+          "tr": "Beşinci cümlede büyük bir balina gördüğü söyleniyor."
+        }
+      },
+      {
+        "id": "q3",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The whale is friendly.",
+          "tr": "Balina dost canlısıdır."
+        },
+        "answerBool": true,
+        "sentenceRef": "s8",
+        "explanation": {
+          "tr": "Sekizinci cümlede balinanın dost canlısı olduğu belirtiliyor."
+        }
+      },
+      {
+        "id": "q4",
+        "type": "multipleChoice",
+        "prompt": {
+          "en": "What does the fisherman do?",
+          "tr": "Balıkçı ne yapıyor?"
+        },
+        "options": [
+          {
+            "en": "He does not hurt the whale.",
+            "tr": "Balinaya zarar vermiyor."
+          },
+          {
+            "en": "He catches the whale.",
+            "tr": "Balinayı yakalıyor."
+          },
+          {
+            "en": "He leaves the boat.",
+            "tr": "Tekneden ayrılıyor."
+          }
+        ],
+        "answerIndex": 0,
+        "sentenceRef": "s11",
+        "explanation": {
+          "tr": "On birinci cümlede balinaya zarar vermediği anlatılıyor."
+        }
+      },
+      {
+        "id": "q5",
+        "type": "trueFalse",
+        "prompt": {
+          "en": "The fisherman goes home happily.",
+          "tr": "Balıkçı mutlu bir şekilde eve dönüyor."
+        },
+        "answerBool": true,
+        "sentenceRef": "s14",
+        "explanation": {
+          "tr": "On dördüncü cümlede balıkçının mutlu şekilde eve döndüğü belirtiliyor."
+        }
+      }
+    ]
+  },
+  {
+    "id": "st_online_the_ant_and_the_grasshopper",
+    "course": "tr-en",
+    "level": 1,
+    "cefr": "A1",
+    "category": "classic-stories",
+    "title": {
+      "en": "The Ant and the Grasshopper",
+      "tr": "Ağustos Böceği ile Karınca"
+    },
+    "summary": {
+      "tr": "Ağustos böceği yaz boyunca şarkı söyler, karınca ise kış için yiyecek toplar. Kış gelince ağustos böceği yaptığı seçimin sonucunu görür.",
+      "en": "The grasshopper sings all summer, while the ant collects food for winter. When winter comes, the grasshopper sees the result of his choice."
+    },
+    "tags": [
+      "classic-stories",
+      "animals",
+      "life-lessons"
+    ],
+    "estimatedSeconds": 70,
+    "wordCount": 145,
+    "sentenceCount": 15,
+    "questionCount": 5,
+    "targetWordCount": 8,
+    "sizeBytes": 0,
+    "file": "tr-en/st_online_the_ant_and_the_grasshopper.json"
+  },
+  {
+    "id": "st_online_the_wolf_and_the_lamb",
+    "course": "tr-en",
+    "level": 1,
+    "cefr": "A1",
+    "category": "classic-stories",
+    "title": {
+      "en": "The Wolf and the Lamb",
+      "tr": "Kurt ile Kuzu"
+    },
+    "summary": {
+      "tr": "Bir kuzu nehirde su içerken bir kurt ona yaklaşır ve onu suçlamak için bahaneler bulur.",
+      "en": "A lamb is drinking water from a river when a wolf comes and finds excuses to blame him."
+    },
+    "tags": [
+      "classic-stories",
+      "animals",
+      "fables"
+    ],
+    "estimatedSeconds": 65,
+    "wordCount": 142,
+    "sentenceCount": 15,
+    "questionCount": 5,
+    "targetWordCount": 8,
+    "sizeBytes": 0,
+    "file": "tr-en/st_online_the_wolf_and_the_lamb.json"
+  },
+  {
+    "id": "st_online_the_lion_and_the_mouse",
+    "course": "tr-en",
+    "level": 1,
+    "cefr": "A1",
+    "category": "classic-stories",
+    "title": {
+      "en": "The Lion and the Mouse",
+      "tr": "Aslan ile Fare"
+    },
+    "summary": {
+      "tr": "Bir aslan küçük bir fareyi yakalar ama onu serbest bırakır. Daha sonra fare, aslanın zor bir durumda kalmasına yardım eder.",
+      "en": "A lion catches a little mouse but lets him go. Later, the mouse helps the lion when he is in trouble."
+    },
+    "tags": [
+      "classic-stories",
+      "animals",
+      "fables"
+    ],
+    "estimatedSeconds": 65,
+    "wordCount": 150,
+    "sentenceCount": 16,
+    "questionCount": 5,
+    "targetWordCount": 8,
+    "sizeBytes": 0,
+    "file": "tr-en/st_online_the_lion_and_the_mouse.json"
+  },
+  {
+    "id": "st_online_the_miller_his_son_and_the_donkey",
+    "course": "tr-en",
+    "level": 1,
+    "cefr": "A1",
+    "category": "classic-stories",
+    "title": {
+      "en": "The Miller, His Son and the Donkey",
+      "tr": "Değirmenci, Oğlu ve Eşek"
+    },
+    "summary": {
+      "tr": "Bir değirmenci ve oğlu eşekleriyle birlikte yola çıkar. Yolda insanların farklı sözlerini dinlerken herkesi memnun etmeye çalışmanın mümkün olmadığını öğrenirler.",
+      "en": "A miller and his son travel with their donkey. After hearing different opinions from people on the road, they learn that it is impossible to please everyone."
+    },
+    "tags": [
+      "classic-stories",
+      "animals",
+      "life-lessons"
+    ],
+    "estimatedSeconds": 75,
+    "wordCount": 175,
+    "sentenceCount": 18,
+    "questionCount": 5,
+    "targetWordCount": 8,
+    "sizeBytes": 0,
+    "file": "tr-en/st_online_the_miller_his_son_and_the_donkey.json"
+  },
+  {
+    "id": "st_online_the_frogs_who_wanted_a_king",
+    "course": "tr-en",
+    "level": 1,
+    "cefr": "A1",
+    "category": "classic-stories",
+    "title": {
+      "en": "The Frogs Who Wanted a King",
+      "tr": "Kurbağalar Kral İstiyor"
+    },
+    "summary": {
+      "tr": "Kurbağalar kendilerine bir kral verilmesini ister. Gelen ilk kralı beğenmezler ve daha güçlü bir kral isterler, ancak yeni kralları başlarına büyük bir sorun açar.",
+      "en": "The frogs ask for a king. They do not like their first king and ask for a stronger one, but their new king causes them a big problem."
+    },
+    "tags": [
+      "classic-stories",
+      "animals",
+      "fables"
+    ],
+    "estimatedSeconds": 70,
+    "wordCount": 150,
+    "sentenceCount": 16,
+    "questionCount": 5,
+    "targetWordCount": 8,
+    "sizeBytes": 0,
+    "file": "tr-en/st_online_the_frogs_who_wanted_a_king.json"
+  },
+  {
+    "id": "st_online_the_town_mouse_and_the_country_mouse",
+    "course": "tr-en",
+    "level": 1,
+    "cefr": "A1",
+    "category": "classic-stories",
+    "title": {
+      "en": "The Town Mouse and the Country Mouse",
+      "tr": "Şehir Faresi ile Tarla Faresi"
+    },
+    "summary": {
+      "tr": "Şehir faresi, tarla faresini şehre davet eder. Tarla faresi şehirde çok yiyecek görür ama gürültü ve tehlike yüzünden sakin hayatını özler.",
+      "en": "The town mouse invites the country mouse to the city. The country mouse sees lots of food but misses his quiet life because of the noise and danger."
+    },
+    "tags": [
+      "classic-stories",
+      "animals",
+      "life-lessons"
+    ],
+    "estimatedSeconds": 70,
+    "wordCount": 177,
+    "sentenceCount": 18,
+    "questionCount": 5,
+    "targetWordCount": 8,
+    "sizeBytes": 0,
+    "file": "tr-en/st_online_the_town_mouse_and_the_country_mouse.json"
+  },
+  {
+    "id": "st_online_the_hunchback_of_notre_dame",
+    "course": "tr-en",
+    "level": 3,
+    "cefr": "A2",
+    "category": "classic-stories",
+    "title": {
+      "en": "The Hunchback of Notre-Dame",
+      "tr": "Notre Dame'ın Kamburu"
+    },
+    "summary": {
+      "tr": "Paris'teki Notre Dame Katedrali'nde yaşayan Quasimodo, görünüşü nedeniyle insanların korktuğu ve dışladığı genç bir adamdır. Bir gün güzel ve iyi kalpli Esmeralda ile tanışır. Esmeralda, Quasimodo'ya diğer insanlardan farklı davranır ve ona yardım eder. Ancak güçlü ve acımasız Claude Frollo, Esmeralda'ya karşı takıntılıdır. Quasimodo, Esmeralda'yı korumaya çalışırken sevginin, iyiliğin ve cesaretin gerçek değerini öğrenir.",
+      "en": "Quasimodo is a young man who lives in Notre-Dame Cathedral in Paris. People are afraid of him and treat him badly because of his appearance. One day, he meets Esmeralda, a beautiful and kind young woman. She treats Quasimodo with kindness and helps him when others do not. However, the powerful and cruel Claude Frollo becomes obsessed with Esmeralda. Quasimodo tries to protect her and learns the true value of kindness, courage, and love."
+    },
+    "tags": [
+      "classic-stories",
+      "love",
+      "courage"
+    ],
+    "estimatedSeconds": 110,
+    "wordCount": 262,
+    "sentenceCount": 20,
+    "questionCount": 5,
+    "targetWordCount": 8,
+    "sizeBytes": 0,
+    "file": "tr-en/st_online_the_hunchback_of_notre_dame.json"
+  }
+]

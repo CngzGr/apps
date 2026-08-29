@@ -1,0 +1,245 @@
+{
+  "id": "st_online_the_miller_his_son_and_the_donkey",
+  "level": 1,
+  "category": "classic-stories",
+  "cefr": "A1",
+  "title": {
+    "en": "The Miller, His Son and the Donkey",
+    "tr": "Değirmenci, Oğlu ve Eşek"
+  },
+  "summary": {
+    "tr": "Bir değirmenci ve oğlu eşekleriyle birlikte yola çıkar. Yolda insanların farklı sözlerini dinlerken herkesi memnun etmeye çalışmanın mümkün olmadığını öğrenirler.",
+    "en": "A miller and his son travel with their donkey. After hearing different opinions from people on the road, they learn that it is impossible to please everyone."
+  },
+  "tags": [
+    "classic-stories",
+    "animals",
+    "life-lessons"
+  ],
+  "estimatedSeconds": 75,
+  "targetWordIds": [
+    "miller",
+    "son",
+    "donkey",
+    "walk",
+    "carry",
+    "people",
+    "listen",
+    "please"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "One morning, a miller and his son took their donkey to the market.",
+      "tr": "Bir sabah bir değirmenci ve oğlu eşeklerini pazara götürdü."
+    },
+    {
+      "id": "s2",
+      "en": "They walked beside the donkey because they did not want to make it tired.",
+      "tr": "Eşeği yormak istemedikleri için onun yanında yürüdüler."
+    },
+    {
+      "id": "s3",
+      "en": "On the road, they met some people.",
+      "tr": "Yolda birkaç insanla karşılaştılar."
+    },
+    {
+      "id": "s4",
+      "en": "One man laughed and said, \"Look at them! They have a donkey, but they are walking.\"",
+      "tr": "Bir adam güldü ve, \"Şunlara bakın! Eşekleri var ama yürüyorlar,\" dedi."
+    },
+    {
+      "id": "s5",
+      "en": "The miller looked at his son and said, \"Maybe one of us should ride the donkey.\"",
+      "tr": "Değirmenci oğluna baktı ve, \"Belki ikimizden biri eşeğe binmeli,\" dedi."
+    },
+    {
+      "id": "s6",
+      "en": "The son got on the donkey, and they continued walking.",
+      "tr": "Oğlu eşeğe bindi ve yürümeye devam ettiler."
+    },
+    {
+      "id": "s7",
+      "en": "Soon, they met an old woman.",
+      "tr": "Kısa süre sonra yaşlı bir kadınla karşılaştılar."
+    },
+    {
+      "id": "s8",
+      "en": "She said, \"Young man, why are you riding while your old father is walking?\"",
+      "tr": "Kadın, \"Genç adam, yaşlı baban yürürken sen neden eşeğe biniyorsun?\" dedi."
+    },
+    {
+      "id": "s9",
+      "en": "The son felt bad and said, \"Father, you should ride the donkey.\"",
+      "tr": "Oğlu kötü hissetti ve, \"Baba, eşeğe sen binmelisin,\" dedi."
+    },
+    {
+      "id": "s10",
+      "en": "The miller got on the donkey, and they continued on their way.",
+      "tr": "Değirmenci eşeğe bindi ve yollarına devam ettiler."
+    },
+    {
+      "id": "s11",
+      "en": "A little later, they met two children.",
+      "tr": "Biraz sonra iki çocukla karşılaştılar."
+    },
+    {
+      "id": "s12",
+      "en": "One child said, \"Look! The poor donkey has to carry a big man.\"",
+      "tr": "Çocuklardan biri, \"Bakın! Zavallı eşek büyük bir adamı taşımak zorunda,\" dedi."
+    },
+    {
+      "id": "s13",
+      "en": "The miller stopped and looked at his son.",
+      "tr": "Değirmenci durdu ve oğluna baktı."
+    },
+    {
+      "id": "s14",
+      "en": "\"People always have something to say,\" he said.",
+      "tr": "\"İnsanların her zaman söyleyecek bir şeyi var,\" dedi."
+    },
+    {
+      "id": "s15",
+      "en": "The son smiled and said, \"Then what should we do?\"",
+      "tr": "Oğlu gülümsedi ve, \"O zaman ne yapmalıyız?\" diye sordu."
+    },
+    {
+      "id": "s16",
+      "en": "The miller answered, \"We should do what we think is right.\"",
+      "tr": "Değirmenci, \"Doğru olduğunu düşündüğümüz şeyi yapmalıyız,\" diye cevap verdi."
+    },
+    {
+      "id": "s17",
+      "en": "They got off the donkey and walked together to the market.",
+      "tr": "Eşekten indiler ve birlikte pazara yürüdüler."
+    },
+    {
+      "id": "s18",
+      "en": "They learned that it is impossible to please everyone.",
+      "tr": "Herkesi memnun etmenin imkânsız olduğunu öğrendiler."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Where were the miller and his son going?",
+        "tr": "Değirmenci ve oğlu nereye gidiyordu?"
+      },
+      "options": [
+        {
+          "en": "To the market",
+          "tr": "Pazara"
+        },
+        {
+          "en": "To the forest",
+          "tr": "Ormana"
+        },
+        {
+          "en": "To their home",
+          "tr": "Evlerine"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s1",
+      "explanation": {
+        "tr": "Değirmenci ve oğlu eşekleriyle birlikte pazara gidiyordu."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The miller and his son walked beside the donkey at first.",
+        "tr": "Değirmenci ve oğlu başlangıçta eşeğin yanında yürüdü."
+      },
+      "answerBool": true,
+      "sentenceRef": "s2",
+      "explanation": {
+        "tr": "Eşeği yormamak için onun yanında yürüdüler."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did the old woman say?",
+        "tr": "Yaşlı kadın ne söyledi?"
+      },
+      "options": [
+        {
+          "en": "The son should not ride while his father walks",
+          "tr": "Oğlu, babası yürürken eşeğe binmemeli"
+        },
+        {
+          "en": "The donkey should walk alone",
+          "tr": "Eşek yalnız yürümeli"
+        },
+        {
+          "en": "They should go home",
+          "tr": "Eve gitmeliler"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s8",
+      "explanation": {
+        "tr": "Yaşlı kadın, yaşlı baba yürürken oğlun eşeğe binmesini eleştirdi."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did the miller finally decide?",
+        "tr": "Değirmenci sonunda neye karar verdi?"
+      },
+      "options": [
+        {
+          "en": "They should do what they think is right",
+          "tr": "Doğru olduğunu düşündükleri şeyi yapmalılar"
+        },
+        {
+          "en": "They should listen to everyone",
+          "tr": "Herkesi dinlemeliler"
+        },
+        {
+          "en": "They should sell the donkey",
+          "tr": "Eşeği satmalılar"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s16",
+      "explanation": {
+        "tr": "Değirmenci, insanların her zaman farklı şeyler söyleyeceğini ve doğru olduğunu düşündükleri şeyi yapmaları gerektiğini söyledi."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What lesson did they learn?",
+        "tr": "Hangi dersi öğrendiler?"
+      },
+      "options": [
+        {
+          "en": "It is impossible to please everyone",
+          "tr": "Herkesi memnun etmek imkânsızdır"
+        },
+        {
+          "en": "Donkeys are difficult animals",
+          "tr": "Eşekler zor hayvanlardır"
+        },
+        {
+          "en": "People should always walk",
+          "tr": "İnsanlar her zaman yürümelidir"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s18",
+      "explanation": {
+        "tr": "Farklı insanların farklı fikirleri olduğunu ve herkesi memnun etmenin mümkün olmadığını öğrendiler."
+      }
+    }
+  ]
+}

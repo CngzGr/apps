@@ -1,0 +1,230 @@
+{
+  "id": "st_online_the_ant_and_the_grasshopper",
+  "level": 1,
+  "category": "classic-stories",
+  "cefr": "A1",
+  "title": {
+    "en": "The Ant and the Grasshopper",
+    "tr": "Ağustos Böceği ile Karınca"
+  },
+  "summary": {
+    "tr": "Ağustos böceği yaz boyunca şarkı söyler, karınca ise kış için yiyecek toplar. Kış gelince ağustos böceği yaptığı seçimin sonucunu görür.",
+    "en": "The grasshopper sings all summer, while the ant collects food for winter. When winter comes, the grasshopper sees the result of his choice."
+  },
+  "tags": [
+    "classic-stories",
+    "animals",
+    "life-lessons"
+  ],
+  "estimatedSeconds": 70,
+  "targetWordIds": [
+    "ant",
+    "grasshopper",
+    "summer",
+    "winter",
+    "food",
+    "work",
+    "sing",
+    "cold"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "It was a warm summer day.",
+      "tr": "Sıcak bir yaz günüydü."
+    },
+    {
+      "id": "s2",
+      "en": "An ant was working hard and carrying food to her home.",
+      "tr": "Bir karınca çok çalışıyor ve evine yiyecek taşıyordu."
+    },
+    {
+      "id": "s3",
+      "en": "A grasshopper was sitting under a tree and singing.",
+      "tr": "Bir ağustos böceği bir ağacın altında oturuyor ve şarkı söylüyordu."
+    },
+    {
+      "id": "s4",
+      "en": "The grasshopper looked at the ant and said, \"Why are you working so much?\"",
+      "tr": "Ağustos böceği karıncaya baktı ve, \"Neden bu kadar çok çalışıyorsun?\" dedi."
+    },
+    {
+      "id": "s5",
+      "en": "The ant answered, \"Winter is coming, so I need to collect food.\"",
+      "tr": "Karınca, \"Kış geliyor, bu yüzden yiyecek toplamam gerekiyor,\" diye cevap verdi."
+    },
+    {
+      "id": "s6",
+      "en": "The grasshopper laughed and said, \"There is plenty of food now. Come and sing with me!\"",
+      "tr": "Ağustos böceği güldü ve, \"Şimdi çok fazla yiyecek var. Gel ve benimle şarkı söyle!\" dedi."
+    },
+    {
+      "id": "s7",
+      "en": "The ant smiled and continued her work.",
+      "tr": "Karınca gülümsedi ve çalışmaya devam etti."
+    },
+    {
+      "id": "s8",
+      "en": "A few months later, winter came and the weather became very cold.",
+      "tr": "Birkaç ay sonra kış geldi ve hava çok soğuk oldu."
+    },
+    {
+      "id": "s9",
+      "en": "The grasshopper was hungry and had no food.",
+      "tr": "Ağustos böceği açtı ve hiç yiyeceği yoktu."
+    },
+    {
+      "id": "s10",
+      "en": "He went to the ant's home and knocked on the door.",
+      "tr": "Karıncanın evine gitti ve kapıyı çaldı."
+    },
+    {
+      "id": "s11",
+      "en": "\"Please help me,\" the grasshopper said. \"I am very hungry.\"",
+      "tr": "\"Lütfen bana yardım et,\" dedi ağustos böceği. \"Çok açım.\""
+    },
+    {
+      "id": "s12",
+      "en": "The ant looked at him and said, \"I worked during the summer, so I have food for winter.\"",
+      "tr": "Karınca ona baktı ve, \"Yaz boyunca çalıştım, bu yüzden kış için yiyeceğim var,\" dedi."
+    },
+    {
+      "id": "s13",
+      "en": "The grasshopper understood his mistake and said, \"I should have worked too.\"",
+      "tr": "Ağustos böceği hatasını anladı ve, \"Ben de çalışmalıydım,\" dedi."
+    },
+    {
+      "id": "s14",
+      "en": "The ant gave him some food and said, \"Next summer, you can work and prepare for winter.\"",
+      "tr": "Karınca ona biraz yiyecek verdi ve, \"Gelecek yaz çalışabilir ve kışa hazırlanabilirsin,\" dedi."
+    },
+    {
+      "id": "s15",
+      "en": "The grasshopper thanked the ant and learned an important lesson.",
+      "tr": "Ağustos böceği karıncaya teşekkür etti ve önemli bir ders öğrendi."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What was the ant doing in summer?",
+        "tr": "Karınca yazın ne yapıyordu?"
+      },
+      "options": [
+        {
+          "en": "She was collecting food",
+          "tr": "Yiyecek topluyordu"
+        },
+        {
+          "en": "She was singing",
+          "tr": "Şarkı söylüyordu"
+        },
+        {
+          "en": "She was sleeping",
+          "tr": "Uyuyordu"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s2",
+      "explanation": {
+        "tr": "Karınca yaz boyunca çalışıyor ve evine yiyecek taşıyordu."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The grasshopper worked hard during the summer.",
+        "tr": "Ağustos böceği yaz boyunca çok çalıştı."
+      },
+      "answerBool": false,
+      "sentenceRef": "s3",
+      "explanation": {
+        "tr": "Ağustos böceği ağacın altında oturuyor ve şarkı söylüyordu."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Why did the ant collect food?",
+        "tr": "Karınca neden yiyecek topladı?"
+      },
+      "options": [
+        {
+          "en": "Because winter was coming",
+          "tr": "Çünkü kış geliyordu"
+        },
+        {
+          "en": "Because she wanted to sing",
+          "tr": "Çünkü şarkı söylemek istiyordu"
+        },
+        {
+          "en": "Because she was going on a trip",
+          "tr": "Çünkü seyahate çıkacaktı"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s5",
+      "explanation": {
+        "tr": "Karınca kış geldiğinde yiyeceği olması için yazın yiyecek topladı."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What happened when winter came?",
+        "tr": "Kış geldiğinde ne oldu?"
+      },
+      "options": [
+        {
+          "en": "The grasshopper had no food",
+          "tr": "Ağustos böceğinin yiyeceği yoktu"
+        },
+        {
+          "en": "The grasshopper found a lot of food",
+          "tr": "Ağustos böceği çok yiyecek buldu"
+        },
+        {
+          "en": "The grasshopper went on holiday",
+          "tr": "Ağustos böceği tatile gitti"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s9",
+      "explanation": {
+        "tr": "Kış geldiğinde ağustos böceği aç kaldı ve yiyeceği yoktu."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What lesson did the grasshopper learn?",
+        "tr": "Ağustos böceği hangi dersi öğrendi?"
+      },
+      "options": [
+        {
+          "en": "It is important to prepare for the future",
+          "tr": "Gelecek için hazırlanmak önemlidir"
+        },
+        {
+          "en": "Summer is always cold",
+          "tr": "Yaz her zaman soğuktur"
+        },
+        {
+          "en": "Singing is difficult",
+          "tr": "Şarkı söylemek zordur"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s13",
+      "explanation": {
+        "tr": "Ağustos böceği yazın çalışması ve kış için hazırlanması gerektiğini anladı."
+      }
+    }
+  ]
+}

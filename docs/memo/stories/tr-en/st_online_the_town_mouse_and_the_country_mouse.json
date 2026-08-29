@@ -1,0 +1,245 @@
+{
+  "id": "st_online_the_town_mouse_and_the_country_mouse",
+  "level": 1,
+  "category": "classic-stories",
+  "cefr": "A1",
+  "title": {
+    "en": "The Town Mouse and the Country Mouse",
+    "tr": "Şehir Faresi ile Tarla Faresi"
+  },
+  "summary": {
+    "tr": "Şehir faresi, tarla faresini şehre davet eder. Tarla faresi şehirde çok yiyecek görür ama gürültü ve tehlike yüzünden sakin hayatını özler.",
+    "en": "The town mouse invites the country mouse to the city. The country mouse sees lots of food but misses his quiet life because of the noise and danger."
+  },
+  "tags": [
+    "classic-stories",
+    "animals",
+    "life-lessons"
+  ],
+  "estimatedSeconds": 70,
+  "targetWordIds": [
+    "town",
+    "country",
+    "mouse",
+    "food",
+    "house",
+    "quiet",
+    "danger",
+    "safe"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "One day, a country mouse visited his friend in the town.",
+      "tr": "Bir gün bir tarla faresi şehirdeki arkadaşını ziyaret etti."
+    },
+    {
+      "id": "s2",
+      "en": "The town mouse lived in a big house with lots of food.",
+      "tr": "Şehir faresi çok fazla yiyeceğin olduğu büyük bir evde yaşıyordu."
+    },
+    {
+      "id": "s3",
+      "en": "The town mouse smiled and said, \"Welcome, my friend! Come and eat with me.\"",
+      "tr": "Şehir faresi gülümsedi ve, \"Hoş geldin arkadaşım! Gel, benimle yemek ye,\" dedi."
+    },
+    {
+      "id": "s4",
+      "en": "The country mouse looked at the table and saw bread, cheese, and fruit.",
+      "tr": "Tarla faresi masaya baktı ve ekmek, peynir ve meyve gördü."
+    },
+    {
+      "id": "s5",
+      "en": "He was surprised and said, \"You have so much food!\"",
+      "tr": "Şaşırdı ve, \"Çok fazla yiyeceğin var!\" dedi."
+    },
+    {
+      "id": "s6",
+      "en": "Suddenly, they heard a loud noise.",
+      "tr": "Aniden yüksek bir ses duydular."
+    },
+    {
+      "id": "s7",
+      "en": "The country mouse became afraid and asked, \"What was that?\"",
+      "tr": "Tarla faresi korktu ve, \"O neydi?\" diye sordu."
+    },
+    {
+      "id": "s8",
+      "en": "The town mouse answered, \"It is only a person. Do not worry.\"",
+      "tr": "Şehir faresi, \"Sadece bir insan. Endişelenme,\" diye cevap verdi."
+    },
+    {
+      "id": "s9",
+      "en": "A moment later, they heard another noise and ran under the table.",
+      "tr": "Bir süre sonra başka bir ses duydular ve masanın altına koştular."
+    },
+    {
+      "id": "s10",
+      "en": "The country mouse said, \"Your food is good, but your life is not safe.\"",
+      "tr": "Tarla faresi, \"Yemeğin güzel ama hayatın güvenli değil,\" dedi."
+    },
+    {
+      "id": "s11",
+      "en": "The town mouse laughed and said, \"Come on! You are too afraid.\"",
+      "tr": "Şehir faresi güldü ve, \"Hadi ama! Çok korkuyorsun,\" dedi."
+    },
+    {
+      "id": "s12",
+      "en": "Then they heard a cat near the door.",
+      "tr": "Sonra kapının yanında bir kedi duydular."
+    },
+    {
+      "id": "s13",
+      "en": "The two mice quickly hid in a small box.",
+      "tr": "İki fare hızla küçük bir kutuya saklandı."
+    },
+    {
+      "id": "s14",
+      "en": "The country mouse said, \"I want to go home.\"",
+      "tr": "Tarla faresi, \"Eve gitmek istiyorum,\" dedi."
+    },
+    {
+      "id": "s15",
+      "en": "The town mouse asked, \"Why? We have plenty of food here.\"",
+      "tr": "Şehir faresi, \"Neden? Burada çok fazla yiyeceğimiz var,\" diye sordu."
+    },
+    {
+      "id": "s16",
+      "en": "The country mouse answered, \"I prefer simple food and a quiet life.\"",
+      "tr": "Tarla faresi, \"Basit yiyecekleri ve sakin bir hayatı tercih ederim,\" diye cevap verdi."
+    },
+    {
+      "id": "s17",
+      "en": "He returned to the country and felt happy and safe again.",
+      "tr": "Tarlaya geri döndü ve tekrar mutlu ve güvende hissetti."
+    },
+    {
+      "id": "s18",
+      "en": "He learned that a simple and safe life can be better than a rich but dangerous life.",
+      "tr": "Zengin ama tehlikeli bir hayattan basit ve güvenli bir hayatın daha iyi olabileceğini öğrendi."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Where did the country mouse visit his friend?",
+        "tr": "Tarla faresi arkadaşını nerede ziyaret etti?"
+      },
+      "options": [
+        {
+          "en": "In the town",
+          "tr": "Şehirde"
+        },
+        {
+          "en": "In the forest",
+          "tr": "Ormanda"
+        },
+        {
+          "en": "Near a river",
+          "tr": "Bir nehrin yanında"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s1",
+      "explanation": {
+        "tr": "Tarla faresi şehirde yaşayan arkadaşını ziyaret etti."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What food did the country mouse see?",
+        "tr": "Tarla faresi hangi yiyecekleri gördü?"
+      },
+      "options": [
+        {
+          "en": "Bread, cheese, and fruit",
+          "tr": "Ekmek, peynir ve meyve"
+        },
+        {
+          "en": "Rice and vegetables",
+          "tr": "Pirinç ve sebze"
+        },
+        {
+          "en": "Fish and meat",
+          "tr": "Balık ve et"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s4",
+      "explanation": {
+        "tr": "Tarla faresi masada ekmek, peynir ve meyve gördü."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The country mouse felt safe in the town.",
+        "tr": "Tarla faresi şehirde kendini güvende hissetti."
+      },
+      "answerBool": false,
+      "sentenceRef": "s10",
+      "explanation": {
+        "tr": "Tarla faresi şehirdeki hayatın güvenli olmadığını düşündü."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Why did the country mouse want to go home?",
+        "tr": "Tarla faresi neden eve gitmek istedi?"
+      },
+      "options": [
+        {
+          "en": "He wanted a quiet and safe life",
+          "tr": "Sakin ve güvenli bir hayat istiyordu"
+        },
+        {
+          "en": "He did not like cheese",
+          "tr": "Peyniri sevmiyordu"
+        },
+        {
+          "en": "He wanted to see the city",
+          "tr": "Şehri görmek istiyordu"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s16",
+      "explanation": {
+        "tr": "Tarla faresi basit yiyecekleri ve sakin bir hayatı tercih etti."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What lesson did the country mouse learn?",
+        "tr": "Tarla faresi hangi dersi öğrendi?"
+      },
+      "options": [
+        {
+          "en": "A simple and safe life can be better",
+          "tr": "Basit ve güvenli bir hayat daha iyi olabilir"
+        },
+        {
+          "en": "The town is always better",
+          "tr": "Şehir her zaman daha iyidir"
+        },
+        {
+          "en": "Food is more important than safety",
+          "tr": "Yiyecek güvenlikten daha önemlidir"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s18",
+      "explanation": {
+        "tr": "Tarla faresi zengin ama tehlikeli bir hayattan basit ve güvenli bir hayatın daha iyi olabileceğini öğrendi."
+      }
+    }
+  ]
+}

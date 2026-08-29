@@ -1,0 +1,7817 @@
+[
+  {
+    "level": "1",
+    "tr": "Bir",
+    "en": "a",
+    "examples": [
+      {
+        "tr": "Bu bir kitaptır."
+      },
+      {
+        "en": "This is a book."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.35,
+      "frequencyScore": 1,
+      "speakingScore": 0.95,
+      "complexityScore": 0.5,
+      "abstractnessScore": 0.6,
+      "multiMeaningScore": 0.3
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "article",
+      "determiner",
+      "high-frequency",
+      "grammar-pattern"
+    ],
+    "ai": {
+      "confidence": 0.6,
+      "reason": "Indefinite article with no determiner category available, filed as adjective-like determiner; level 1 kept as it is fundamental (hard for Turkish speakers, who lack articles).",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Yapabilmek",
+    "en": "able",
+    "examples": [
+      {
+        "tr": "Yüzebiliyor."
+      },
+      {
+        "en": "He is able to swim."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.4,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.6,
+      "abstractnessScore": 0.7,
+      "multiMeaningScore": 0.25
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "grammar-pattern",
+      "ability"
+    ],
+    "ai": {
+      "confidence": 0.8,
+      "reason": "Adjective used in the high-frequency 'be able to' pattern; unmapped category and level 1 is acceptable for this core speaking structure.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Hakkında",
+    "en": "about",
+    "examples": [
+      {
+        "tr": "Film hakkında konuştuk."
+      },
+      {
+        "en": "We talked about the movie."
+      }
+    ],
+    "category": "connector",
+    "difficulty": {
+      "difficultyScore": 0.35,
+      "frequencyScore": 1,
+      "speakingScore": 0.95,
+      "complexityScore": 0.45,
+      "abstractnessScore": 0.65,
+      "multiMeaningScore": 0.7
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "preposition",
+      "high-frequency",
+      "daily-life",
+      "conversation"
+    ],
+    "ai": {
+      "confidence": 0.65,
+      "reason": "Preposition with no dedicated category, filed as connector-like function word; top-100 frequency justifies keeping level 1.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Üstünde",
+    "en": "above",
+    "examples": [
+      {
+        "tr": "Lamba masanın üstündedir."
+      },
+      {
+        "en": "The lamp is above the table."
+      }
+    ],
+    "category": "connector",
+    "difficulty": {
+      "difficultyScore": 0.3,
+      "frequencyScore": 0.75,
+      "speakingScore": 0.7,
+      "complexityScore": 0.35,
+      "abstractnessScore": 0.45,
+      "multiMeaningScore": 0.45
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "preposition",
+      "location",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.65,
+      "reason": "Place preposition with no dedicated category, filed as connector-like function word; common location word so level 1 kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Yurt dışında",
+    "en": "abroad",
+    "examples": [
+      {
+        "tr": "Yurt dışında çalışıyor."
+      },
+      {
+        "en": "She works abroad."
+      }
+    ],
+    "category": "travel",
+    "difficulty": {
+      "difficultyScore": 0.35,
+      "frequencyScore": 0.6,
+      "speakingScore": 0.7,
+      "complexityScore": 0.25,
+      "abstractnessScore": 0.5,
+      "multiMeaningScore": 0.15
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adverb",
+      "travel",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.85,
+      "reason": "Adverb with strong travel identity; non-basic-noun topical word, so plausible current level 1 is kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Kesinlikle",
+    "en": "absolutely",
+    "examples": [
+      {
+        "tr": "Kesinlikle haklısın."
+      },
+      {
+        "en": "You are absolutely right."
+      }
+    ],
+    "category": "adverb",
+    "difficulty": {
+      "difficultyScore": 0.3,
+      "frequencyScore": 0.8,
+      "speakingScore": 0.85,
+      "complexityScore": 0.25,
+      "abstractnessScore": 0.75,
+      "multiMeaningScore": 0.25
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adverb",
+      "high-frequency",
+      "conversation",
+      "emphasis",
+      "agreement"
+    ],
+    "ai": {
+      "confidence": 0.8,
+      "reason": "Very common conversational intensifier and agreement response; unmapped category and level 1 is defensible for spoken usefulness.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Öğleden sonra",
+    "en": "Afternoon",
+    "examples": [
+      {
+        "tr": "Öğleden sonra çalışıyorum."
+      },
+      {
+        "en": "I work in the afternoon."
+      }
+    ],
+    "category": "time",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "critical"
+    },
+    "tags": [
+      "time",
+      "afternoon"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential daily time period.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Havaalanı",
+    "en": "Airport",
+    "examples": [
+      {
+        "tr": "Havaalanına gidiyorum."
+      },
+      {
+        "en": "I am going to the airport."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.96,
+      "speakingScore": 0.96,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "high"
+    },
+    "tags": [
+      "place",
+      "travel"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential airport vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Elma",
+    "en": "Apple",
+    "examples": [
+      {
+        "tr": "Her gün bir elma yerim."
+      },
+      {
+        "en": "I eat an apple every day."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "critical"
+    },
+    "tags": [
+      "food",
+      "fruit",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common fruit.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Nisan",
+    "en": "April",
+    "examples": [
+      {
+        "tr": "Nisan ayında çok yağmur yağar."
+      },
+      {
+        "en": "It rains a lot in April."
+      }
+    ],
+    "category": "month",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "month",
+      "calendar",
+      "time"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core calendar month used in dates.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Ağustos",
+    "en": "August",
+    "examples": [
+      {
+        "tr": "Ağustos ayında hava çok sıcaktır."
+      },
+      {
+        "en": "It is very hot in August."
+      }
+    ],
+    "category": "month",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "month",
+      "calendar",
+      "time"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core calendar month used in dates.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Sonbahar",
+    "en": "Autumn",
+    "examples": [
+      {
+        "tr": "Sonbaharda yapraklar dökülür."
+      },
+      {
+        "en": "Leaves fall in autumn."
+      }
+    ],
+    "category": "season",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0.1
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "season",
+      "weather"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "One of the four seasons.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Kötü",
+    "en": "Bad",
+    "examples": [
+      {
+        "tr": "Bugün hava kötü."
+      },
+      {
+        "en": "The weather is bad today."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.97,
+      "speakingScore": 0.93,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.4,
+      "multiMeaningScore": 0.45
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life",
+      "opinion"
+    ],
+    "ai": {
+      "confidence": 0.97,
+      "reason": "High-frequency evaluative adjective; unmapped category and level 1 is appropriate for early vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Balkon",
+    "en": "Balcony",
+    "examples": [
+      {
+        "tr": "Balkonda oturuyoruz."
+      },
+      {
+        "en": "We are sitting on the balcony."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Muz",
+    "en": "Banana",
+    "examples": [
+      {
+        "tr": "Muz yemeyi severim."
+      },
+      {
+        "en": "I like eating bananas."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.99,
+      "speakingScore": 0.99,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "fruit",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common fruit.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Muzlu süt",
+    "en": "Banana milk",
+    "examples": [
+      {
+        "tr": "Muzlu süt içiyorum."
+      },
+      {
+        "en": "I am drinking banana milk."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Banka",
+    "en": "Bank",
+    "examples": [
+      {
+        "tr": "Bankaya gitmem gerekiyor."
+      },
+      {
+        "en": "I need to go to the bank."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "high"
+    },
+    "tags": [
+      "place",
+      "building",
+      "bank"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common place for financial activities.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Banyo",
+    "en": "Bathroom",
+    "examples": [
+      {
+        "tr": "Banyo yukarıda."
+      },
+      {
+        "en": "The bathroom is upstairs."
+      }
+    ],
+    "category": "home",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.97,
+      "speakingScore": 0.97,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Home",
+      "priority": "high"
+    },
+    "tags": [
+      "home",
+      "bathroom"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential room vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Plaj",
+    "en": "Beach",
+    "examples": [
+      {
+        "tr": "Plaj çok kalabalık."
+      },
+      {
+        "en": "The beach is very crowded."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.94,
+      "speakingScore": 0.94,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "high"
+    },
+    "tags": [
+      "place",
+      "nature",
+      "vacation"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common vacation destination.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Fasulye",
+    "en": "Beans",
+    "examples": [
+      {
+        "tr": "Fasulye pişiriyorum."
+      },
+      {
+        "en": "I am cooking beans."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Yatak",
+    "en": "Bed",
+    "examples": [
+      {
+        "tr": "Yatağım çok rahat."
+      },
+      {
+        "en": "My bed is very comfortable."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Yatak odası",
+    "en": "Bedroom",
+    "examples": [
+      {
+        "tr": "Yatak odam büyük."
+      },
+      {
+        "en": "My bedroom is big."
+      }
+    ],
+    "category": "home",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.97,
+      "speakingScore": 0.97,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Home",
+      "priority": "high"
+    },
+    "tags": [
+      "home",
+      "bedroom"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential room vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Siyah",
+    "en": "Black",
+    "examples": [
+      {
+        "tr": "Siyah bir çanta istiyorum."
+      },
+      {
+        "en": "I want a black bag."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "critical"
+    },
+    "tags": [
+      "color",
+      "basic"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential basic color.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Karabiber",
+    "en": "Black pepper",
+    "examples": [
+      {
+        "tr": "Biraz karabiber istiyorum."
+      },
+      {
+        "en": "I'd like some black pepper."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Mavi",
+    "en": "Blue",
+    "examples": [
+      {
+        "tr": "Gökyüzü mavi."
+      },
+      {
+        "en": "The sky is blue."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "critical"
+    },
+    "tags": [
+      "color",
+      "basic"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "One of the primary colors.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Su şişesi",
+    "en": "Bottle of water",
+    "examples": [
+      {
+        "tr": "Bir şişe su lütfen."
+      },
+      {
+        "en": "A bottle of water, please."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Ekmek",
+    "en": "Bread",
+    "examples": [
+      {
+        "tr": "Kahvaltıda ekmek yiyorum."
+      },
+      {
+        "en": "I eat bread for breakfast."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "critical"
+    },
+    "tags": [
+      "food",
+      "bakery",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common staple food.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Köprü",
+    "en": "Bridge",
+    "examples": [
+      {
+        "tr": "Köprüyü geç."
+      },
+      {
+        "en": "Cross the bridge."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.93,
+      "speakingScore": 0.93,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "high"
+    },
+    "tags": [
+      "place",
+      "direction",
+      "travel"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Frequently used in navigation.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Kahverengi",
+    "en": "Brown",
+    "examples": [
+      {
+        "tr": "Köpek kahverengi."
+      },
+      {
+        "en": "The dog is brown."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "high"
+    },
+    "tags": [
+      "color"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common natural color.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Otobüs durağı",
+    "en": "Bus stop",
+    "examples": [
+      {
+        "tr": "Otobüs durağı burada."
+      },
+      {
+        "en": "The bus stop is here."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "critical"
+    },
+    "tags": [
+      "place",
+      "transport"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common public transport place.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Dolap",
+    "en": "Cabinet",
+    "examples": [
+      {
+        "tr": "Tabaklar dolapta."
+      },
+      {
+        "en": "The plates are in the cabinet."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Kafe",
+    "en": "Cafe",
+    "examples": [
+      {
+        "tr": "Bir kafede oturuyoruz."
+      },
+      {
+        "en": "We are sitting in a cafe."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.96,
+      "speakingScore": 0.96,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "high"
+    },
+    "tags": [
+      "place",
+      "food"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common everyday place.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Pasta",
+    "en": "Cake",
+    "examples": [
+      {
+        "tr": "Doğum günü pastası güzel."
+      },
+      {
+        "en": "The birthday cake is delicious."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Yardım eder misiniz?",
+    "en": "Can you help me?",
+    "examples": [
+      {
+        "tr": "Lütfen yardım eder misiniz?"
+      },
+      {
+        "en": "Can you help me, please?"
+      }
+    ],
+    "category": "question_pattern",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.95,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.1,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "question",
+      "request",
+      "high-frequency",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.9,
+      "reason": "Essential help-request question template; invalid level 0 fixed to 1 for early survival speaking.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Halı",
+    "en": "Carpet",
+    "examples": [
+      {
+        "tr": "Halı yeni."
+      },
+      {
+        "en": "The carpet is new."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Havuç",
+    "en": "Carrot",
+    "examples": [
+      {
+        "tr": "Havuç çok sağlıklıdır."
+      },
+      {
+        "en": "Carrots are very healthy."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.92,
+      "speakingScore": 0.92,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "medium"
+    },
+    "tags": [
+      "food",
+      "vegetable"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common vegetable.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Tavan",
+    "en": "Ceiling",
+    "examples": [
+      {
+        "tr": "Tavan yüksek."
+      },
+      {
+        "en": "The ceiling is high."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Sandalye",
+    "en": "Chair",
+    "examples": [
+      {
+        "tr": "Sandalyeye otur."
+      },
+      {
+        "en": "Sit on the chair."
+      }
+    ],
+    "category": "home",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.99,
+      "speakingScore": 0.99,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Home",
+      "priority": "critical"
+    },
+    "tags": [
+      "home",
+      "furniture"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Basic furniture vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Peynir",
+    "en": "Cheese",
+    "examples": [
+      {
+        "tr": "Peyniri seviyorum."
+      },
+      {
+        "en": "I like cheese."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.95,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "dairy"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common dairy food.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Tavuk",
+    "en": "Chicken",
+    "examples": [
+      {
+        "tr": "Akşam tavuk yedik."
+      },
+      {
+        "en": "We ate chicken for dinner."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.97,
+      "speakingScore": 0.96,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "meat"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "One of the most common meats.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Çikolata",
+    "en": "Chocolate",
+    "examples": [
+      {
+        "tr": "Çikolata severim."
+      },
+      {
+        "en": "I like chocolate."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Sinema",
+    "en": "Cinema",
+    "examples": [
+      {
+        "tr": "Bu akşam sinemaya gidiyoruz."
+      },
+      {
+        "en": "We are going to the cinema tonight."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "high"
+    },
+    "tags": [
+      "place",
+      "entertainment",
+      "movies"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Frequently used in daily conversations.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Kahve",
+    "en": "Coffee",
+    "examples": [
+      {
+        "tr": "Her sabah kahve içerim."
+      },
+      {
+        "en": "I drink coffee every morning."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Kola",
+    "en": "Cola",
+    "examples": [
+      {
+        "tr": "Bir kola alacağım."
+      },
+      {
+        "en": "I'll have a cola."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Kurabiye",
+    "en": "Cookie",
+    "examples": [
+      {
+        "tr": "Kurabiye çok taze."
+      },
+      {
+        "en": "The cookies are very fresh."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Soğuk",
+    "en": "Cool",
+    "examples": [
+      {
+        "tr": "Bugün hava serin."
+      },
+      {
+        "en": "The weather is cool today."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.2,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.85,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.25,
+      "multiMeaningScore": 0.8
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "informal",
+      "multi-meaning",
+      "weather"
+    ],
+    "ai": {
+      "confidence": 0.9,
+      "reason": "High-frequency polysemous adjective (temperature/slang); adjective is outside the skill tree and level 1 fits early speaking vocabulary, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Mısır",
+    "en": "Corn",
+    "examples": [
+      {
+        "tr": "Mısır çok tatlı."
+      },
+      {
+        "en": "The corn is very sweet."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Doğru",
+    "en": "Correct",
+    "examples": [
+      {
+        "tr": "Cevabın doğru."
+      },
+      {
+        "en": "Your answer is correct."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.2,
+      "frequencyScore": 0.75,
+      "speakingScore": 0.8,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.35,
+      "multiMeaningScore": 0.4
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "classroom",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.9,
+      "reason": "High-frequency adjective outside the skill tree; level 1 fits early speaking vocabulary, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Meraklı",
+    "en": "Curious",
+    "examples": [
+      {
+        "tr": "Çocuk çok meraklıydı."
+      },
+      {
+        "en": "The child was very curious."
+      }
+    ],
+    "category": "emotion",
+    "difficulty": {
+      "difficultyScore": 0.35,
+      "frequencyScore": 0.5,
+      "speakingScore": 0.5,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.6,
+      "multiMeaningScore": 0.3
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "emotion",
+      "personality"
+    ],
+    "ai": {
+      "confidence": 0.72,
+      "reason": "Feeling adjective classified as emotion (also plain adjective is plausible); non-tree category, level 1 kept though slightly early.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Perde",
+    "en": "Curtain",
+    "examples": [
+      {
+        "tr": "Perdeyi aç."
+      },
+      {
+        "en": "Open the curtain."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Günlük",
+    "en": "Daily",
+    "examples": [
+      {
+        "tr": "Günlük egzersiz yapıyorum."
+      },
+      {
+        "en": "I do daily exercise."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.25,
+      "frequencyScore": 0.6,
+      "speakingScore": 0.6,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.35,
+      "multiMeaningScore": 0.3
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "time-expression",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.85,
+      "reason": "Common adjective/adverb of frequency outside the skill tree; level 1 plausible for early routine vocabulary, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Şafak",
+    "en": "Dawn",
+    "examples": [
+      {
+        "tr": "Şafakta yürüyüş yaptık."
+      },
+      {
+        "en": "We went for a walk at dawn."
+      }
+    ],
+    "category": "time",
+    "difficulty": {
+      "difficultyScore": 0.2,
+      "frequencyScore": 0.7,
+      "speakingScore": 0.65,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.05,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "low"
+    },
+    "tags": [
+      "time",
+      "day-part"
+    ],
+    "ai": {
+      "confidence": 0.98,
+      "reason": "Useful natural time expression.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Aralık",
+    "en": "December",
+    "examples": [
+      {
+        "tr": "Aralık ayında yeni yılı kutlarız."
+      },
+      {
+        "en": "We celebrate the New Year in December."
+      }
+    ],
+    "category": "month",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "month",
+      "calendar",
+      "time"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core calendar month used in dates.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Derin",
+    "en": "Deep",
+    "examples": [
+      {
+        "tr": "Göl oldukça derin."
+      },
+      {
+        "en": "The lake is very deep."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.2,
+      "frequencyScore": 0.75,
+      "speakingScore": 0.65,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.3,
+      "multiMeaningScore": 0.6
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life",
+      "descriptive"
+    ],
+    "ai": {
+      "confidence": 0.95,
+      "reason": "Common descriptive adjective, not in the skill tree; level 1 is plausible and kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Farklı",
+    "en": "Different",
+    "examples": [
+      {
+        "tr": "Farklı fikirlere sahibiz."
+      },
+      {
+        "en": "We have different opinions."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.92,
+      "speakingScore": 0.9,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.4,
+      "multiMeaningScore": 0.2
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life",
+      "comparison"
+    ],
+    "ai": {
+      "confidence": 0.96,
+      "reason": "Top-frequency adjective, not in the skill tree; early level 1 is correct and kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Zor",
+    "en": "Difficult",
+    "examples": [
+      {
+        "tr": "Bu proje zor."
+      },
+      {
+        "en": "This project is difficult."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.2,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.88,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.5,
+      "multiMeaningScore": 0.25
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life",
+      "opinion"
+    ],
+    "ai": {
+      "confidence": 0.96,
+      "reason": "Common descriptive adjective paired with easy; unmapped category and level 1 is plausible.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Kirli",
+    "en": "Dirty",
+    "examples": [
+      {
+        "tr": "Bu gömlek kirli."
+      },
+      {
+        "en": "This shirt is dirty."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.75,
+      "speakingScore": 0.75,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.1,
+      "multiMeaningScore": 0.35
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "daily-life",
+      "high-frequency",
+      "descriptive"
+    ],
+    "ai": {
+      "confidence": 0.95,
+      "reason": "Common everyday adjective, not in the skill tree; level 1 kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "İngilizce konuşuyor musunuz?",
+    "en": "Do you speak English?",
+    "examples": [
+      {
+        "tr": "İngilizce konuşuyor musunuz?"
+      },
+      {
+        "en": "Do you speak English?"
+      }
+    ],
+    "category": "question_pattern",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.7,
+      "speakingScore": 0.95,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.05,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "question",
+      "travel",
+      "conversation-starter",
+      "survival"
+    ],
+    "ai": {
+      "confidence": 0.93,
+      "reason": "Essential survival question template; invalid level 0 fixed to 1 for earliest speaking.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Kapı",
+    "en": "Door",
+    "examples": [
+      {
+        "tr": "Kapıyı kapat."
+      },
+      {
+        "en": "Close the door."
+      }
+    ],
+    "category": "home",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Home",
+      "priority": "critical"
+    },
+    "tags": [
+      "home",
+      "object"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common household object.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Erken",
+    "en": "Early",
+    "examples": [
+      {
+        "tr": "Bugün erken kalktım."
+      },
+      {
+        "en": "I got up early today."
+      }
+    ],
+    "category": "adverb",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.35,
+      "multiMeaningScore": 0.25
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adverb",
+      "high-frequency",
+      "time-expression",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.93,
+      "reason": "High-frequency time adverb, not in the skill tree; level 1 kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Sabahın erken saatleri",
+    "en": "Early morning",
+    "examples": [
+      {
+        "tr": "Sabahın erken saatlerinde koşarım."
+      },
+      {
+        "en": "I run early in the morning."
+      }
+    ],
+    "category": "time",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "time",
+      "morning"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Frequently used daily expression.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Kolay",
+    "en": "Easy",
+    "examples": [
+      {
+        "tr": "Bu soru çok kolay."
+      },
+      {
+        "en": "This question is very easy."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.92,
+      "speakingScore": 0.88,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.45,
+      "multiMeaningScore": 0.3
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life",
+      "opinion"
+    ],
+    "ai": {
+      "confidence": 0.97,
+      "reason": "Common descriptive adjective; unmapped category and level 1 is plausible for early vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Yumurta",
+    "en": "Egg",
+    "examples": [
+      {
+        "tr": "Her sabah yumurta yerim."
+      },
+      {
+        "en": "I eat eggs every morning."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "breakfast"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common breakfast food.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Akşam",
+    "en": "Evening",
+    "examples": [
+      {
+        "tr": "Akşam televizyon izliyorum."
+      },
+      {
+        "en": "I watch TV in the evening."
+      }
+    ],
+    "category": "time",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "critical"
+    },
+    "tags": [
+      "time",
+      "evening"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "One of the most common parts of the day.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Şubat",
+    "en": "February",
+    "examples": [
+      {
+        "tr": "Şubat ayında hava soğuktur."
+      },
+      {
+        "en": "It is cold in February."
+      }
+    ],
+    "category": "month",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "month",
+      "calendar",
+      "time"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core calendar month used in dates.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Balık",
+    "en": "Fish",
+    "examples": [
+      {
+        "tr": "Balık çok sağlıklıdır."
+      },
+      {
+        "en": "Fish is very healthy."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "seafood"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential food vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Beş",
+    "en": "Five",
+    "examples": [
+      {
+        "tr": "Masada beş kişi vardı."
+      },
+      {
+        "en": "There were five people at the table."
+      },
+      {
+        "tr": "Onun beş arabası var"
+      },
+      {
+        "en": "He has five cars"
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0.15,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "number",
+      "high-frequency",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.72,
+      "reason": "Cardinal numeral treated as adjective (determiner-like, not a band noun); top-frequency word correctly stays at level 1.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Zemin",
+    "en": "Floor",
+    "examples": [
+      {
+        "tr": "Zemin temiz."
+      },
+      {
+        "en": "The floor is clean."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Orman",
+    "en": "Forest",
+    "examples": [
+      {
+        "tr": "Ormanda yürüyüş yapıyoruz."
+      },
+      {
+        "en": "We are hiking in the forest."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "medium"
+    },
+    "tags": [
+      "place",
+      "nature",
+      "outdoor"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common natural place.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "İleri",
+    "en": "Forward",
+    "examples": [
+      {
+        "tr": "Bir adım ileri çıktı."
+      },
+      {
+        "en": "She stepped forward."
+      }
+    ],
+    "category": "adverb",
+    "difficulty": {
+      "difficultyScore": 0.3,
+      "frequencyScore": 0.7,
+      "speakingScore": 0.6,
+      "complexityScore": 0.25,
+      "abstractnessScore": 0.3,
+      "multiMeaningScore": 0.5
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adverb",
+      "directions",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 0.85,
+      "reason": "High-frequency directional adverb outside the skill tree; early level 1 is consistent with ordering.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Dört",
+    "en": "Four",
+    "examples": [
+      {
+        "tr": "Masada dört kişi vardı."
+      },
+      {
+        "en": "There were four people at the table."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0.15,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "number",
+      "high-frequency",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.72,
+      "reason": "Cardinal numeral treated as adjective (determiner-like, not a band noun); top-frequency word correctly stays at level 1.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Bedava",
+    "en": "Free",
+    "examples": [
+      {
+        "tr": "Bu uygulama tamamen ücretsiz."
+      },
+      {
+        "en": "This app is completely free."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.2,
+      "frequencyScore": 0.85,
+      "speakingScore": 0.85,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.35,
+      "multiMeaningScore": 0.75
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life",
+      "shopping"
+    ],
+    "ai": {
+      "confidence": 0.9,
+      "reason": "High-frequency polysemous adjective (no cost/available/liberated); level 1 fits an early speaking word.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Patates kızartması",
+    "en": "French fries",
+    "examples": [
+      {
+        "tr": "Patates kızartmasını seviyorum."
+      },
+      {
+        "en": "I like French fries."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Cuma",
+    "en": "Friday",
+    "examples": [
+      {
+        "tr": "Cuma günü tatil başlıyor."
+      },
+      {
+        "en": "The holiday starts on Friday."
+      }
+    ],
+    "category": "day",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "day",
+      "calendar"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core day of the week.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Bahçe",
+    "en": "Garden",
+    "examples": [
+      {
+        "tr": "Bahçede çiçekler var."
+      },
+      {
+        "en": "There are flowers in the garden."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Sarımsak",
+    "en": "Garlic",
+    "examples": [
+      {
+        "tr": "Sarımsak ekleyelim."
+      },
+      {
+        "en": "Let's add some garlic."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.12,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "medium"
+    },
+    "tags": [
+      "food",
+      "vegetable"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common ingredient.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Benzin istasyonu",
+    "en": "Gas station",
+    "examples": [
+      {
+        "tr": "Benzin istasyonu ileride."
+      },
+      {
+        "en": "The gas station is ahead."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.92,
+      "speakingScore": 0.92,
+      "complexityScore": 0.12,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "high"
+    },
+    "tags": [
+      "place",
+      "travel",
+      "transport"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential for driving and travel.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Altın rengi",
+    "en": "Gold",
+    "examples": [
+      {
+        "tr": "Yüzüğü altın renginde."
+      },
+      {
+        "en": "Her ring is gold."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.8,
+      "speakingScore": 0.8,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "medium"
+    },
+    "tags": [
+      "color",
+      "metallic"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common metallic color.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "İyi, güzel",
+    "en": "Good",
+    "examples": [
+      {
+        "tr": "Bu film çok güzel."
+      },
+      {
+        "en": "This movie is very good."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 1,
+      "speakingScore": 0.96,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.4,
+      "multiMeaningScore": 0.6
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life",
+      "opinion"
+    ],
+    "ai": {
+      "confidence": 0.97,
+      "reason": "Top-frequency evaluative adjective; adjective is unmapped and level 1 fits early speaking vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Üzüm",
+    "en": "Grape",
+    "examples": [
+      {
+        "tr": "Üzüm alabilir miyim?"
+      },
+      {
+        "en": "Can I have some grapes?"
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.94,
+      "speakingScore": 0.94,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common fruit.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Gri",
+    "en": "Gray",
+    "examples": [
+      {
+        "tr": "Gökyüzü gri."
+      },
+      {
+        "en": "The sky is gray."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "high"
+    },
+    "tags": [
+      "color"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common descriptive color.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Yeşil",
+    "en": "Green",
+    "examples": [
+      {
+        "tr": "Çimen yeşil."
+      },
+      {
+        "en": "The grass is green."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "critical"
+    },
+    "tags": [
+      "color",
+      "basic"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "High-frequency basic color.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Hamburger",
+    "en": "Hamburger",
+    "examples": [
+      {
+        "tr": "Bir hamburger istiyorum."
+      },
+      {
+        "en": "I'd like a hamburger."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "O (erkek)",
+    "en": "He",
+    "examples": [
+      {
+        "tr": "O bir doktor."
+      },
+      {
+        "en": "He is a doctor."
+      }
+    ],
+    "category": "pronoun",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.95,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Pronouns",
+      "priority": "critical"
+    },
+    "tags": [
+      "pronoun",
+      "subject"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Third-person masculine subject pronoun.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Bal",
+    "en": "Honey",
+    "examples": [
+      {
+        "tr": "Bal çok tatlı."
+      },
+      {
+        "en": "Honey is very sweet."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Hastane",
+    "en": "Hospital",
+    "examples": [
+      {
+        "tr": "Hastane nerede?"
+      },
+      {
+        "en": "Where is the hospital?"
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.99,
+      "speakingScore": 0.99,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "critical"
+    },
+    "tags": [
+      "place",
+      "health"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential place vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Sıcak",
+    "en": "Hot",
+    "examples": [
+      {
+        "tr": "Bugün hava çok sıcak."
+      },
+      {
+        "en": "It is very hot today."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.15,
+      "multiMeaningScore": 0.6
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life",
+      "weather"
+    ],
+    "ai": {
+      "confidence": 0.95,
+      "reason": "High-frequency basic adjective; adjectives are outside the skill tree and an early level 1 fits its speaking usefulness, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Otel",
+    "en": "Hotel",
+    "examples": [
+      {
+        "tr": "Otel şehir merkezinde."
+      },
+      {
+        "en": "The hotel is in the city center."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.97,
+      "speakingScore": 0.97,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "high"
+    },
+    "tags": [
+      "place",
+      "travel"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential travel vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Ev",
+    "en": "House",
+    "examples": [
+      {
+        "tr": "Bu benim evim."
+      },
+      {
+        "en": "This is my house."
+      }
+    ],
+    "category": "home",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Home",
+      "priority": "critical"
+    },
+    "tags": [
+      "home",
+      "house",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "One of the most common nouns in everyday English.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Bu ne kadar?",
+    "en": "How much is this?",
+    "examples": [
+      {
+        "tr": "Bu ne kadar?"
+      },
+      {
+        "en": "How much is this?"
+      }
+    ],
+    "category": "question_pattern",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.85,
+      "speakingScore": 0.95,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.1,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "question",
+      "shopping",
+      "travel",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 0.95,
+      "reason": "Canonical price question template; invalid level 0 fixed to 1 for early survival speaking.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Aç",
+    "en": "Hungry",
+    "examples": [
+      {
+        "tr": "Çok açım."
+      },
+      {
+        "en": "I am very hungry."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.75,
+      "speakingScore": 0.92,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.2,
+      "multiMeaningScore": 0.1
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "daily-life",
+      "food",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 0.95,
+      "reason": "Basic adjective for a core survival phrase (I'm hungry); adjectives are unmapped and early level 1 fits, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Ben",
+    "en": "I",
+    "examples": [
+      {
+        "tr": "Ben öğrenciyim."
+      },
+      {
+        "en": "I am a student."
+      }
+    ],
+    "category": "pronoun",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Pronouns",
+      "priority": "critical"
+    },
+    "tags": [
+      "pronoun",
+      "subject",
+      "grammar",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core subject pronoun.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Dondurma",
+    "en": "Ice cream",
+    "examples": [
+      {
+        "tr": "Çikolatalı dondurma istiyorum."
+      },
+      {
+        "en": "I'd like chocolate ice cream."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "O",
+    "en": "It",
+    "examples": [
+      {
+        "tr": "Bu benim kedim. O çok tatlı."
+      },
+      {
+        "en": "This is my cat. It is very cute."
+      }
+    ],
+    "category": "pronoun",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 1,
+      "speakingScore": 0.95,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.2,
+      "multiMeaningScore": 0.2
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Pronouns",
+      "priority": "critical"
+    },
+    "tags": [
+      "pronoun",
+      "subject"
+    ],
+    "ai": {
+      "confidence": 0.98,
+      "reason": "Used for animals, objects and situations.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Reçel",
+    "en": "Jam",
+    "examples": [
+      {
+        "tr": "Çilek reçeli istiyorum."
+      },
+      {
+        "en": "I'd like strawberry jam."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Ocak",
+    "en": "January",
+    "examples": [
+      {
+        "tr": "Ocak ayında doğdum."
+      },
+      {
+        "en": "I was born in January."
+      }
+    ],
+    "category": "month",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "month",
+      "calendar",
+      "time",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core calendar month used in dates.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Meyve suyu",
+    "en": "Juice",
+    "examples": [
+      {
+        "tr": "Portakal suyu istiyorum."
+      },
+      {
+        "en": "I'd like orange juice."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Temmuz",
+    "en": "July",
+    "examples": [
+      {
+        "tr": "Temmuz ayında tatile gideriz."
+      },
+      {
+        "en": "We go on vacation in July."
+      }
+    ],
+    "category": "month",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "month",
+      "calendar",
+      "time"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core calendar month used in dates.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Haziran",
+    "en": "June",
+    "examples": [
+      {
+        "tr": "Okul Haziran ayında biter."
+      },
+      {
+        "en": "School ends in June."
+      }
+    ],
+    "category": "month",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "month",
+      "calendar",
+      "time"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core calendar month used in dates.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Anahtar",
+    "en": "Key",
+    "examples": [
+      {
+        "tr": "Anahtarımı bulamıyorum."
+      },
+      {
+        "en": "I can't find my key."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Mutfak",
+    "en": "Kitchen",
+    "examples": [
+      {
+        "tr": "Annem mutfakta."
+      },
+      {
+        "en": "My mother is in the kitchen."
+      }
+    ],
+    "category": "home",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Home",
+      "priority": "high"
+    },
+    "tags": [
+      "home",
+      "kitchen"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common room in a house.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Göl",
+    "en": "Lake",
+    "examples": [
+      {
+        "tr": "Göl çok sakin."
+      },
+      {
+        "en": "The lake is very calm."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "medium"
+    },
+    "tags": [
+      "place",
+      "nature",
+      "water"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Basic geography word.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Lamba",
+    "en": "Lamp",
+    "examples": [
+      {
+        "tr": "Lambayı aç."
+      },
+      {
+        "en": "Turn on the lamp."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Gece geç saatler",
+    "en": "Late night",
+    "examples": [
+      {
+        "tr": "Gece geç saatlere kadar çalıştım."
+      },
+      {
+        "en": "I worked late at night."
+      }
+    ],
+    "category": "time",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.85,
+      "speakingScore": 0.85,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "medium"
+    },
+    "tags": [
+      "time",
+      "night"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common expression for daily conversations.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Mercimek",
+    "en": "Lentils",
+    "examples": [
+      {
+        "tr": "Mercimek çorbasını seviyorum."
+      },
+      {
+        "en": "I like lentil soup."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Marul",
+    "en": "Lettuce",
+    "examples": [
+      {
+        "tr": "Marul taze."
+      },
+      {
+        "en": "The lettuce is fresh."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.12,
+      "frequencyScore": 0.88,
+      "speakingScore": 0.88,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "medium"
+    },
+    "tags": [
+      "food",
+      "vegetable"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common salad ingredient.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Kütüphane",
+    "en": "Library",
+    "examples": [
+      {
+        "tr": "Kütüphanede ders çalışıyorum."
+      },
+      {
+        "en": "I study at the library."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.94,
+      "speakingScore": 0.94,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "high"
+    },
+    "tags": [
+      "place",
+      "education",
+      "books"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common public place.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Işık",
+    "en": "Light",
+    "examples": [
+      {
+        "tr": "Işığı kapat."
+      },
+      {
+        "en": "Turn off the light."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Açık mavi",
+    "en": "Light blue",
+    "examples": [
+      {
+        "tr": "Açık mavi gömleğini giydi."
+      },
+      {
+        "en": "He wore his light blue shirt."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.85,
+      "speakingScore": 0.85,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "medium"
+    },
+    "tags": [
+      "color",
+      "shade"
+    ],
+    "ai": {
+      "confidence": 0.98,
+      "reason": "Common color shade.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Küçük",
+    "en": "Little",
+    "examples": [
+      {
+        "tr": "Küçük bir çocuk gördüm."
+      },
+      {
+        "en": "I saw a little child."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.97,
+      "speakingScore": 0.9,
+      "complexityScore": 0.25,
+      "abstractnessScore": 0.2,
+      "multiMeaningScore": 0.55
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life",
+      "quantifier"
+    ],
+    "ai": {
+      "confidence": 0.95,
+      "reason": "Top-frequency basic adjective, correctly early; level 1 kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Canlı",
+    "en": "Live",
+    "examples": [
+      {
+        "tr": "Canlı yayını izledik."
+      },
+      {
+        "en": "We watched the live broadcast."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.4,
+      "frequencyScore": 0.55,
+      "speakingScore": 0.45,
+      "complexityScore": 0.25,
+      "abstractnessScore": 0.3,
+      "multiMeaningScore": 0.75
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "media",
+      "homograph",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.82,
+      "reason": "Adjective sense of 'live' (broadcast), homograph of the verb; non-tree category, level 1 kept as plausible.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Oturma odası",
+    "en": "Living room",
+    "examples": [
+      {
+        "tr": "Televizyon oturma odasında."
+      },
+      {
+        "en": "The TV is in the living room."
+      }
+    ],
+    "category": "home",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.96,
+      "speakingScore": 0.96,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Home",
+      "priority": "high"
+    },
+    "tags": [
+      "home",
+      "living-room"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Frequently used room name.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Yerel",
+    "en": "Local",
+    "examples": [
+      {
+        "tr": "Yerel pazarı ziyaret ettik."
+      },
+      {
+        "en": "We visited the local market."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.25,
+      "frequencyScore": 0.7,
+      "speakingScore": 0.6,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.35,
+      "multiMeaningScore": 0.25
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "daily-life",
+      "travel"
+    ],
+    "ai": {
+      "confidence": 0.9,
+      "reason": "Common adjective in a non-tree category; level 1 plausible, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Uzun",
+    "en": "Long",
+    "examples": [
+      {
+        "tr": "Uzun bir yolculuktu."
+      },
+      {
+        "en": "It was a long journey."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.97,
+      "speakingScore": 0.9,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.2,
+      "multiMeaningScore": 0.5
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life",
+      "description"
+    ],
+    "ai": {
+      "confidence": 0.96,
+      "reason": "Top-frequency basic adjective, correctly early; level 1 kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Yüksek sesli",
+    "en": "Loud",
+    "examples": [
+      {
+        "tr": "Müzik çok yüksekti."
+      },
+      {
+        "en": "The music was too loud."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.65,
+      "speakingScore": 0.65,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.1,
+      "multiMeaningScore": 0.15
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "daily-life",
+      "description",
+      "sound"
+    ],
+    "ai": {
+      "confidence": 0.94,
+      "reason": "Common concrete adjective; non-tree category, level 1 plausible, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Düşük",
+    "en": "Low",
+    "examples": [
+      {
+        "tr": "Pil seviyesi düşük."
+      },
+      {
+        "en": "The battery level is low."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.85,
+      "speakingScore": 0.7,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.25,
+      "multiMeaningScore": 0.45
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "description",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.95,
+      "reason": "High-frequency basic adjective, correctly early; level 1 kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Şanslı",
+    "en": "Lucky",
+    "examples": [
+      {
+        "tr": "Çok şanslı birisin."
+      },
+      {
+        "en": "You are very lucky."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.7,
+      "speakingScore": 0.75,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.45,
+      "multiMeaningScore": 0.1
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "daily-life",
+      "conversation"
+    ],
+    "ai": {
+      "confidence": 0.94,
+      "reason": "Common conversational adjective; non-tree category, level 1 plausible, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Mart",
+    "en": "March",
+    "examples": [
+      {
+        "tr": "İlkbahar Mart ayında başlar."
+      },
+      {
+        "en": "Spring starts in March."
+      }
+    ],
+    "category": "month",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 0.98,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "month",
+      "calendar",
+      "time"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core calendar month used in dates.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Mayıs",
+    "en": "May",
+    "examples": [
+      {
+        "tr": "Çiçekler Mayıs ayında açar."
+      },
+      {
+        "en": "Flowers bloom in May."
+      }
+    ],
+    "category": "month",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "month",
+      "calendar",
+      "time"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core calendar month used in dates.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Et",
+    "en": "Meat",
+    "examples": [
+      {
+        "tr": "Et yemiyorum."
+      },
+      {
+        "en": "I don't eat meat."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "meat"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential food vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Mikrodalga",
+    "en": "Microwave",
+    "examples": [
+      {
+        "tr": "Yemeği mikrodalgada ısıt."
+      },
+      {
+        "en": "Heat the food in the microwave."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Gece yarısı",
+    "en": "Midnight",
+    "examples": [
+      {
+        "tr": "Gece yarısında uyuyordum."
+      },
+      {
+        "en": "I was sleeping at midnight."
+      }
+    ],
+    "category": "time",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.85,
+      "speakingScore": 0.8,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "medium"
+    },
+    "tags": [
+      "time",
+      "day-part",
+      "clock"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common expression for 12:00 a.m.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Süt",
+    "en": "Milk",
+    "examples": [
+      {
+        "tr": "Sabah süt içerim."
+      },
+      {
+        "en": "I drink milk in the morning."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "drink",
+      "dairy"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common dairy product.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Ayna",
+    "en": "Mirror",
+    "examples": [
+      {
+        "tr": "Aynaya bakıyorum."
+      },
+      {
+        "en": "I am looking in the mirror."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Pazartesi",
+    "en": "Monday",
+    "examples": [
+      {
+        "tr": "Pazartesi çalışıyorum."
+      },
+      {
+        "en": "I work on Monday."
+      }
+    ],
+    "category": "day",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "day",
+      "calendar",
+      "time"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core day of the week.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Ruh hali",
+    "en": "Mood",
+    "examples": [
+      {
+        "tr": "Bugün ruh hali çok iyi."
+      },
+      {
+        "en": "She is in a good mood today."
+      }
+    ],
+    "category": "emotion",
+    "difficulty": {
+      "difficultyScore": 0.3,
+      "frequencyScore": 0.6,
+      "speakingScore": 0.6,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.7,
+      "multiMeaningScore": 0.25
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "noun",
+      "emotion",
+      "daily-life",
+      "conversation"
+    ],
+    "ai": {
+      "confidence": 0.78,
+      "reason": "Feeling-related noun so emotion category; unmapped by the skill tree and level 1 is early but not a clear violation, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Sabah",
+    "en": "Morning",
+    "examples": [
+      {
+        "tr": "Her sabah kahve içerim."
+      },
+      {
+        "en": "I drink coffee every morning."
+      }
+    ],
+    "category": "time",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "critical"
+    },
+    "tags": [
+      "time",
+      "morning",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core daily vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Dağ",
+    "en": "Mountain",
+    "examples": [
+      {
+        "tr": "Dağ çok yüksek."
+      },
+      {
+        "en": "The mountain is very high."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.92,
+      "speakingScore": 0.92,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "medium"
+    },
+    "tags": [
+      "place",
+      "nature",
+      "travel"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Important geography vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Müze",
+    "en": "Museum",
+    "examples": [
+      {
+        "tr": "Müzeyi ziyaret ettik."
+      },
+      {
+        "en": "We visited the museum."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.12,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "medium"
+    },
+    "tags": [
+      "place",
+      "culture",
+      "travel"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Useful for travel conversations.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Mantar",
+    "en": "Mushroom",
+    "examples": [
+      {
+        "tr": "Mantar taze."
+      },
+      {
+        "en": "The mushrooms are fresh."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Benim",
+    "en": "My",
+    "examples": [
+      {
+        "tr": "Benim arabam yeni."
+      },
+      {
+        "en": "My car is new."
+      }
+    ],
+    "category": "possessive-adjective",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Possessives",
+      "priority": "critical"
+    },
+    "tags": [
+      "possessive",
+      "adjective",
+      "grammar"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core possessive adjective.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Lacivert",
+    "en": "Navy blue",
+    "examples": [
+      {
+        "tr": "Lacivert ceketini seviyorum."
+      },
+      {
+        "en": "I like your navy blue jacket."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.85,
+      "speakingScore": 0.85,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "medium"
+    },
+    "tags": [
+      "color",
+      "shade"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common clothing color.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Yakın",
+    "en": "Near",
+    "examples": [
+      {
+        "tr": "Ev okula yakın."
+      },
+      {
+        "en": "The house is near the school."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.2,
+      "frequencyScore": 0.85,
+      "speakingScore": 0.8,
+      "complexityScore": 0.25,
+      "abstractnessScore": 0.3,
+      "multiMeaningScore": 0.4
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "preposition",
+      "location",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 0.8,
+      "reason": "Location word used as adjective/preposition; unmapped category and high-frequency, so early level 1 kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Gece",
+    "en": "Night",
+    "examples": [
+      {
+        "tr": "Gece erken yatarım."
+      },
+      {
+        "en": "I go to bed early at night."
+      }
+    ],
+    "category": "time",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "critical"
+    },
+    "tags": [
+      "time",
+      "night"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential daily vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Öğle",
+    "en": "Noon",
+    "examples": [
+      {
+        "tr": "Öğlen buluşalım."
+      },
+      {
+        "en": "Let's meet at noon."
+      }
+    ],
+    "category": "time",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "time",
+      "noon"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Frequently used time reference.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Kasım",
+    "en": "November",
+    "examples": [
+      {
+        "tr": "Kasım ayında hava soğumaya başlar."
+      },
+      {
+        "en": "The weather starts to get colder in November."
+      }
+    ],
+    "category": "month",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "month",
+      "calendar",
+      "time"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core calendar month used in dates.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Ekim",
+    "en": "October",
+    "examples": [
+      {
+        "tr": "Yapraklar Ekim ayında dökülür."
+      },
+      {
+        "en": "Leaves fall in October."
+      }
+    ],
+    "category": "month",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "month",
+      "calendar",
+      "time"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core calendar month used in dates.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Bir",
+    "en": "One",
+    "examples": [
+      {
+        "tr": "Kitaplarımdan biri"
+      },
+      {
+        "en": "One of my books"
+      },
+      {
+        "tr": "Bir tane daha alır mısınız?"
+      },
+      {
+        "en": "Would you like another one?"
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.35,
+      "frequencyScore": 1,
+      "speakingScore": 0.95,
+      "complexityScore": 0.5,
+      "abstractnessScore": 0.6,
+      "multiMeaningScore": 0.3
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "article",
+      "determiner",
+      "high-frequency",
+      "grammar-pattern"
+    ],
+    "ai": {
+      "confidence": 0.6,
+      "reason": "Indefinite article with no determiner category available, filed as adjective-like determiner; level 1 kept as it is fundamental (hard for Turkish speakers, who lack articles).",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Soğan",
+    "en": "Onion",
+    "examples": [
+      {
+        "tr": "Soğan doğruyorum."
+      },
+      {
+        "en": "I am chopping an onion."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.94,
+      "speakingScore": 0.94,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "medium"
+    },
+    "tags": [
+      "food",
+      "vegetable"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common cooking ingredient.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Portakal",
+    "en": "Orange",
+    "examples": [
+      {
+        "tr": "Portakal suyu içiyorum."
+      },
+      {
+        "en": "I am drinking orange juice."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common fruit.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Turuncu",
+    "en": "Orange",
+    "examples": [
+      {
+        "tr": "Turuncu bir tişört giyiyor."
+      },
+      {
+        "en": "He is wearing an orange T-shirt."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "high"
+    },
+    "tags": [
+      "color"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common everyday color.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Sipariş",
+    "en": "Order",
+    "examples": [
+      {
+        "tr": "Sipariş vermek istiyorum"
+      },
+      {
+        "en": "I would like to order"
+      }
+    ],
+    "category": "travel",
+    "difficulty": {
+      "difficultyScore": 0.5,
+      "frequencyScore": 0.5,
+      "speakingScore": 0.5,
+      "complexityScore": 0.5,
+      "abstractnessScore": 0.5,
+      "multiMeaningScore": 0.5
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Travel and Culture",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "grammar-pattern",
+      "ability"
+    ]
+  },
+  {
+    "level": "1",
+    "tr": "Fırın",
+    "en": "Oven",
+    "examples": [
+      {
+        "tr": "Fırın sıcak."
+      },
+      {
+        "en": "The oven is hot."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Park",
+    "en": "Park",
+    "examples": [
+      {
+        "tr": "Parkta yürüyoruz."
+      },
+      {
+        "en": "We are walking in the park."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "high"
+    },
+    "tags": [
+      "place",
+      "outdoor"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common everyday location.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Otopark",
+    "en": "Parking lot",
+    "examples": [
+      {
+        "tr": "Araba otoparkta."
+      },
+      {
+        "en": "The car is in the parking lot."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.12,
+      "frequencyScore": 0.92,
+      "speakingScore": 0.92,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "medium"
+    },
+    "tags": [
+      "place",
+      "car",
+      "parking"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common location for drivers.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Makarna",
+    "en": "Pasta",
+    "examples": [
+      {
+        "tr": "Makarna yapıyorum."
+      },
+      {
+        "en": "I am making pasta."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.96,
+      "speakingScore": 0.96,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "meal"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common everyday meal.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Bezelye",
+    "en": "Peas",
+    "examples": [
+      {
+        "tr": "Bezelye sever misin?"
+      },
+      {
+        "en": "Do you like peas?"
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Mükemmel",
+    "en": "Perfect",
+    "examples": [
+      {
+        "tr": "Planın mükemmel görünüyor."
+      },
+      {
+        "en": "Your plan looks perfect."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.85,
+      "speakingScore": 0.9,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.4,
+      "multiMeaningScore": 0.25
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "conversation",
+      "positive"
+    ],
+    "ai": {
+      "confidence": 0.9,
+      "reason": "High-frequency conversational response adjective; outside the skill tree and appropriate early, level 1 kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Eczane",
+    "en": "Pharmacy",
+    "examples": [
+      {
+        "tr": "Eczane açık mı?"
+      },
+      {
+        "en": "Is the pharmacy open?"
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "high"
+    },
+    "tags": [
+      "place",
+      "health",
+      "medicine"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential travel vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Pilav",
+    "en": "Pilaf",
+    "examples": [
+      {
+        "tr": "Pilav çok lezzetli."
+      },
+      {
+        "en": "The pilaf is very delicious."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Pembe",
+    "en": "Pink",
+    "examples": [
+      {
+        "tr": "Pembe çiçekleri seviyorum."
+      },
+      {
+        "en": "I like pink flowers."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "high"
+    },
+    "tags": [
+      "color"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common everyday color.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Pembe",
+    "en": "Pink",
+    "examples": [
+      {
+        "tr": "Pembe elbiseyi seçti."
+      },
+      {
+        "en": "She chose the pink dress."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.5,
+      "speakingScore": 0.5,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0.1,
+      "multiMeaningScore": 0.15
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "color",
+      "concrete",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.92,
+      "reason": "Basic colour adjective; adjectives are outside the skill tree and early placement fits, level 1 kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Pizza",
+    "en": "Pizza",
+    "examples": [
+      {
+        "tr": "Pizza sipariş edelim."
+      },
+      {
+        "en": "Let's order pizza."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Patates",
+    "en": "Potato",
+    "examples": [
+      {
+        "tr": "Patates kızartmasını seviyorum."
+      },
+      {
+        "en": "I like French fries."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "vegetable"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common food item.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Mor",
+    "en": "Purple",
+    "examples": [
+      {
+        "tr": "Elbisesi mor."
+      },
+      {
+        "en": "Her dress is purple."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "high"
+    },
+    "tags": [
+      "color"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common color adjective.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Kırmızı",
+    "en": "Red",
+    "examples": [
+      {
+        "tr": "Arabası kırmızı."
+      },
+      {
+        "en": "His car is red."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "critical"
+    },
+    "tags": [
+      "color",
+      "basic",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "One of the primary colors.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Buzdolabı",
+    "en": "Refrigerator",
+    "examples": [
+      {
+        "tr": "Süt buzdolabında."
+      },
+      {
+        "en": "The milk is in the refrigerator."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Uzaktan kumanda",
+    "en": "Remote control",
+    "examples": [
+      {
+        "tr": "Kumanda nerede?"
+      },
+      {
+        "en": "Where is the remote control?"
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Restoran",
+    "en": "Restaurant",
+    "examples": [
+      {
+        "tr": "Bu restoran güzel."
+      },
+      {
+        "en": "This restaurant is nice."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.99,
+      "speakingScore": 0.99,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "critical"
+    },
+    "tags": [
+      "place",
+      "food"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common travel vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Pirinç",
+    "en": "Rice",
+    "examples": [
+      {
+        "tr": "Pirinç pişiriyorum."
+      },
+      {
+        "en": "I am cooking rice."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "grain"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common staple food.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Zengin",
+    "en": "Rich",
+    "examples": [
+      {
+        "tr": "O çok zengin bir adam."
+      },
+      {
+        "en": "He is a very rich man."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.75,
+      "speakingScore": 0.7,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.35,
+      "multiMeaningScore": 0.35
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "description",
+      "daily-life",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 0.9,
+      "reason": "Common descriptive adjective; unmapped category and early level appropriate for high-frequency word, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Doğru",
+    "en": "Right",
+    "examples": [
+      {
+        "tr": "Doğru cevabı buldun."
+      },
+      {
+        "en": "You found the right answer."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.3,
+      "frequencyScore": 1,
+      "speakingScore": 0.95,
+      "complexityScore": 0.25,
+      "abstractnessScore": 0.4,
+      "multiMeaningScore": 0.9
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "conversation",
+      "multi-meaning"
+    ],
+    "ai": {
+      "confidence": 0.85,
+      "reason": "Top-frequency adjective meaning 'correct' per the Turkish gloss; early level appropriate, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Oda",
+    "en": "Room",
+    "examples": [
+      {
+        "tr": "Odam temiz."
+      },
+      {
+        "en": "My room is clean."
+      }
+    ],
+    "category": "home",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.99,
+      "speakingScore": 0.99,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Home",
+      "priority": "critical"
+    },
+    "tags": [
+      "home",
+      "room"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core home vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Yuvarlak",
+    "en": "Round",
+    "examples": [
+      {
+        "tr": "Masa yuvarlaktı."
+      },
+      {
+        "en": "The table was round."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.25,
+      "frequencyScore": 0.7,
+      "speakingScore": 0.55,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.15,
+      "multiMeaningScore": 0.7
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "shape",
+      "description",
+      "multi-meaning"
+    ],
+    "ai": {
+      "confidence": 0.85,
+      "reason": "Common shape adjective per the Turkish gloss; unmapped category, early level plausible, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Üzgün",
+    "en": "Sad",
+    "examples": [
+      {
+        "tr": "Bugün biraz üzgün görünüyor."
+      },
+      {
+        "en": "She looks sad today."
+      }
+    ],
+    "category": "emotion",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.8,
+      "speakingScore": 0.85,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0.5,
+      "multiMeaningScore": 0.1
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "emotion",
+      "high-frequency",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.93,
+      "reason": "Basic feeling adjective classified as emotion; unmapped category, early level appropriate, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Güvenli",
+    "en": "Safe",
+    "examples": [
+      {
+        "tr": "Bu mahalle güvenli."
+      },
+      {
+        "en": "This neighborhood is safe."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.75,
+      "speakingScore": 0.8,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.4,
+      "multiMeaningScore": 0.3
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life",
+      "travel"
+    ],
+    "ai": {
+      "confidence": 0.9,
+      "reason": "Common practical adjective; unmapped category, early level appropriate, kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Salata",
+    "en": "Salad",
+    "examples": [
+      {
+        "tr": "Bir salata istiyorum."
+      },
+      {
+        "en": "I'd like a salad."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.96,
+      "speakingScore": 0.96,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "meal"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common restaurant vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Tuz",
+    "en": "Salt",
+    "examples": [
+      {
+        "tr": "Biraz tuz ekler misin?"
+      },
+      {
+        "en": "Can you add some salt?"
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Sandviç",
+    "en": "Sandwich",
+    "examples": [
+      {
+        "tr": "Sandviç hazır."
+      },
+      {
+        "en": "The sandwich is ready."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Cumartesi",
+    "en": "Saturday",
+    "examples": [
+      {
+        "tr": "Cumartesi dinleniyorum."
+      },
+      {
+        "en": "I relax on Saturday."
+      }
+    ],
+    "category": "day",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "day",
+      "calendar"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core day of the week.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Okul",
+    "en": "School",
+    "examples": [
+      {
+        "tr": "Çocuklar okula gidiyor."
+      },
+      {
+        "en": "The children are going to school."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "critical"
+    },
+    "tags": [
+      "place",
+      "education",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "One of the most common places in daily conversations.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Eylül",
+    "en": "September",
+    "examples": [
+      {
+        "tr": "Okul Eylül ayında başlar."
+      },
+      {
+        "en": "School starts in September."
+      }
+    ],
+    "category": "month",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "month",
+      "calendar",
+      "time"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core calendar month used in dates.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "O (kadın)",
+    "en": "She",
+    "examples": [
+      {
+        "tr": "O öğretmen."
+      },
+      {
+        "en": "She is a teacher."
+      }
+    ],
+    "category": "pronoun",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.95,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Pronouns",
+      "priority": "critical"
+    },
+    "tags": [
+      "pronoun",
+      "subject"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Third-person feminine subject pronoun.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Alışveriş merkezi",
+    "en": "Shopping mall",
+    "examples": [
+      {
+        "tr": "Alışveriş merkezine gidiyoruz."
+      },
+      {
+        "en": "We are going to the shopping mall."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.14,
+      "frequencyScore": 0.94,
+      "speakingScore": 0.94,
+      "complexityScore": 0.12,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "high"
+    },
+    "tags": [
+      "place",
+      "shopping",
+      "mall"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common shopping destination.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Kısa",
+    "en": "Short",
+    "examples": [
+      {
+        "tr": "Toplantı oldukça kısa sürdü."
+      },
+      {
+        "en": "The meeting was very short."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.85,
+      "speakingScore": 0.8,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.2,
+      "multiMeaningScore": 0.45
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.96,
+      "reason": "High-frequency basic adjective; adjective is unmapped and early level 1 is correct.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Utangaç",
+    "en": "Shy",
+    "examples": [
+      {
+        "tr": "Yeni insanlarla konuşurken utangaçtır."
+      },
+      {
+        "en": "She is shy when meeting new people."
+      }
+    ],
+    "category": "emotion",
+    "difficulty": {
+      "difficultyScore": 0.2,
+      "frequencyScore": 0.5,
+      "speakingScore": 0.55,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.45,
+      "multiMeaningScore": 0.15
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "emotion",
+      "personality"
+    ],
+    "ai": {
+      "confidence": 0.85,
+      "reason": "Feeling/personality adjective classified as emotion; unmapped category and level 1 is plausible, so kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Hasta",
+    "en": "Sick",
+    "examples": [
+      {
+        "tr": "Bugün biraz hastayım."
+      },
+      {
+        "en": "I am a little sick today."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.8,
+      "speakingScore": 0.9,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.3,
+      "multiMeaningScore": 0.45
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "health",
+      "high-frequency",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.85,
+      "reason": "Everyday health-state adjective essential for basic communication; adjective is unmapped so level 1 kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Gümüş rengi",
+    "en": "Silver",
+    "examples": [
+      {
+        "tr": "Arabası gümüş renginde."
+      },
+      {
+        "en": "His car is silver."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.8,
+      "speakingScore": 0.8,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "medium"
+    },
+    "tags": [
+      "color",
+      "metallic"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common metallic color.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Tek",
+    "en": "Single",
+    "examples": [
+      {
+        "tr": "Tek bir hata yaptı."
+      },
+      {
+        "en": "He made a single mistake."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.3,
+      "frequencyScore": 0.7,
+      "speakingScore": 0.65,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.35,
+      "multiMeaningScore": 0.65
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "daily-life",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 0.88,
+      "reason": "Common adjective (one/unmarried); adjective is unmapped and level 1 is plausible, so kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Lavabo",
+    "en": "Sink",
+    "examples": [
+      {
+        "tr": "Tabaklar lavaboda."
+      },
+      {
+        "en": "The dishes are in the sink."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Altı",
+    "en": "Six",
+    "examples": [
+      {
+        "tr": "Masada altı kişi var."
+      },
+      {
+        "en": "There are six people at the table."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.95,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0.15,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "number",
+      "high-frequency",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.75,
+      "reason": "Cardinal numeral treated as adjective (determiner use); basic counting word correctly stays at level 1.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Yavaş",
+    "en": "Slow",
+    "examples": [
+      {
+        "tr": "Çok yavaş yürüyor."
+      },
+      {
+        "en": "He walks very slowly."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.75,
+      "speakingScore": 0.75,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.2,
+      "multiMeaningScore": 0.3
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.96,
+      "reason": "Basic high-frequency adjective; adjective is unmapped and level 1 is correct.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Küçük",
+    "en": "Small",
+    "examples": [
+      {
+        "tr": "Küçük bir ev satın aldılar."
+      },
+      {
+        "en": "They bought a small house."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0.15,
+      "multiMeaningScore": 0.25
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.98,
+      "reason": "Top-frequency basic adjective; adjective is unmapped and early level 1 is correct.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Sabun",
+    "en": "Soap",
+    "examples": [
+      {
+        "tr": "Sabun nerede?"
+      },
+      {
+        "en": "Where is the soap?"
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Koltuk",
+    "en": "Sofa",
+    "examples": [
+      {
+        "tr": "Koltukta oturuyorum."
+      },
+      {
+        "en": "I am sitting on the sofa."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Çorba",
+    "en": "Soup",
+    "examples": [
+      {
+        "tr": "Çorba sıcak."
+      },
+      {
+        "en": "The soup is hot."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "meal"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common meal.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Ekşi",
+    "en": "Sour",
+    "examples": [
+      {
+        "tr": "Limon çok ekşi."
+      },
+      {
+        "en": "The lemon is very sour."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.2,
+      "frequencyScore": 0.4,
+      "speakingScore": 0.45,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.1,
+      "multiMeaningScore": 0.3
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "food",
+      "taste",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.9,
+      "reason": "Concrete taste adjective; unmapped category and plausible early, level 1 kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Güneyli",
+    "en": "Southern",
+    "examples": [
+      {
+        "tr": "Güney bölgelerini ziyaret ettik."
+      },
+      {
+        "en": "We visited the southern regions."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.3,
+      "frequencyScore": 0.35,
+      "speakingScore": 0.35,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.25,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "low"
+    },
+    "tags": [
+      "adjective",
+      "geography",
+      "travel"
+    ],
+    "ai": {
+      "confidence": 0.7,
+      "reason": "Derived geographic adjective; unmapped category, level 1 early but not a clear violation so kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Yedek",
+    "en": "Spare",
+    "examples": [
+      {
+        "tr": "Yanımda yedek bir anahtar var."
+      },
+      {
+        "en": "I have a spare key with me."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.35,
+      "frequencyScore": 0.4,
+      "speakingScore": 0.45,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.2,
+      "multiMeaningScore": 0.55
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "daily-life",
+      "travel"
+    ],
+    "ai": {
+      "confidence": 0.7,
+      "reason": "Useful everyday adjective (spare key/time); unmapped category, level 1 early but plausible so kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Özel",
+    "en": "Special",
+    "examples": [
+      {
+        "tr": "Bugün özel bir gün."
+      },
+      {
+        "en": "Today is a special day."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.2,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.85,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0.4,
+      "multiMeaningScore": 0.4
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.95,
+      "reason": "High-frequency everyday adjective; adjective is not band-mapped so early level 1 is appropriate.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Özellikle",
+    "en": "Specially",
+    "examples": [
+      {
+        "tr": "Bu senin için özel olarak hazırlandı."
+      },
+      {
+        "en": "This was prepared specially for you."
+      }
+    ],
+    "category": "adverb",
+    "difficulty": {
+      "difficultyScore": 0.35,
+      "frequencyScore": 0.4,
+      "speakingScore": 0.4,
+      "complexityScore": 0.25,
+      "abstractnessScore": 0.45,
+      "multiMeaningScore": 0.2
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adverb",
+      "daily-life",
+      "manner"
+    ],
+    "ai": {
+      "confidence": 0.78,
+      "reason": "Derived manner adverb; adverb is unmapped and level 1 is plausible next to its base word, so kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Belirli",
+    "en": "Specific",
+    "examples": [
+      {
+        "tr": "Belirli bir neden yok."
+      },
+      {
+        "en": "There is no specific reason."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.35,
+      "frequencyScore": 0.75,
+      "speakingScore": 0.65,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.55,
+      "multiMeaningScore": 0.25
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "conversation"
+    ],
+    "ai": {
+      "confidence": 0.9,
+      "reason": "Common spoken adjective; adjective is unmapped and level 1 is plausible, so kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Özellikle",
+    "en": "Specifically",
+    "examples": [
+      {
+        "tr": "Özellikle bu konuyu sordu."
+      },
+      {
+        "en": "He asked specifically about this topic."
+      }
+    ],
+    "category": "adverb",
+    "difficulty": {
+      "difficultyScore": 0.4,
+      "frequencyScore": 0.6,
+      "speakingScore": 0.55,
+      "complexityScore": 0.3,
+      "abstractnessScore": 0.55,
+      "multiMeaningScore": 0.2
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "adverb",
+      "conversation",
+      "emphasis"
+    ],
+    "ai": {
+      "confidence": 0.85,
+      "reason": "Fairly common focusing adverb; adverb is unmapped and level 1 is acceptable, so kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Hızlanmak",
+    "en": "Speed up",
+    "examples": [
+      {
+        "tr": "Biraz hızlanmalıyız."
+      },
+      {
+        "en": "We should speed up a little."
+      }
+    ],
+    "category": "phrase",
+    "difficulty": {
+      "difficultyScore": 0.4,
+      "frequencyScore": 0.55,
+      "speakingScore": 0.6,
+      "complexityScore": 0.45,
+      "abstractnessScore": 0.15,
+      "multiMeaningScore": 0.25
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "medium"
+    },
+    "tags": [
+      "phrasal-verb",
+      "verb",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.78,
+      "reason": "Common phrasal verb classified as phrase; unmapped category and level 1 not a clear ordering violation, so kept.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "İlkbahar",
+    "en": "Spring",
+    "examples": [
+      {
+        "tr": "İlkbaharı seviyorum."
+      },
+      {
+        "en": "I like spring."
+      }
+    ],
+    "category": "season",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "season",
+      "weather"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "One of the four seasons.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Merdiven",
+    "en": "Stairs",
+    "examples": [
+      {
+        "tr": "Merdivenlerden çık."
+      },
+      {
+        "en": "Go up the stairs."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Çilek",
+    "en": "Strawberry",
+    "examples": [
+      {
+        "tr": "Çilekler çok tatlı."
+      },
+      {
+        "en": "The strawberries are very sweet."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common fruit.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Sokak",
+    "en": "Street",
+    "examples": [
+      {
+        "tr": "Bu sokakta yaşıyorum."
+      },
+      {
+        "en": "I live on this street."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.99,
+      "speakingScore": 0.99,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "critical"
+    },
+    "tags": [
+      "place",
+      "navigation",
+      "address"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential word for asking and giving directions.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Şeker",
+    "en": "Sugar",
+    "examples": [
+      {
+        "tr": "Kahveme şeker koyarım."
+      },
+      {
+        "en": "I put sugar in my coffee."
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Yaz",
+    "en": "Summer",
+    "examples": [
+      {
+        "tr": "Yazın denize giderim."
+      },
+      {
+        "en": "I go to the beach in summer."
+      }
+    ],
+    "category": "season",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "season",
+      "weather"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "One of the four seasons.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Pazar",
+    "en": "Sunday",
+    "examples": [
+      {
+        "tr": "Pazar ailemle birlikteyim."
+      },
+      {
+        "en": "I am with my family on Sunday."
+      }
+    ],
+    "category": "day",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "day",
+      "calendar"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core day of the week.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Gün doğumu",
+    "en": "Sunrise",
+    "examples": [
+      {
+        "tr": "Gün doğumunu izledik."
+      },
+      {
+        "en": "We watched the sunrise."
+      }
+    ],
+    "category": "time",
+    "difficulty": {
+      "difficultyScore": 0.2,
+      "frequencyScore": 0.75,
+      "speakingScore": 0.7,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.05,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "medium"
+    },
+    "tags": [
+      "time",
+      "nature"
+    ],
+    "ai": {
+      "confidence": 0.99,
+      "reason": "Common daily-life vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Gün batımı",
+    "en": "Sunset",
+    "examples": [
+      {
+        "tr": "Gün batımı çok güzeldi."
+      },
+      {
+        "en": "The sunset was beautiful."
+      }
+    ],
+    "category": "time",
+    "difficulty": {
+      "difficultyScore": 0.2,
+      "frequencyScore": 0.75,
+      "speakingScore": 0.7,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.05,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "medium"
+    },
+    "tags": [
+      "time",
+      "nature"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common descriptive vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Market",
+    "en": "Supermarket",
+    "examples": [
+      {
+        "tr": "Market çok yakın."
+      },
+      {
+        "en": "The supermarket is very close."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.99,
+      "speakingScore": 0.99,
+      "complexityScore": 0.08,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "critical"
+    },
+    "tags": [
+      "place",
+      "shopping"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common shopping location.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Masa",
+    "en": "Table",
+    "examples": [
+      {
+        "tr": "Kitap masanın üstünde."
+      },
+      {
+        "en": "The book is on the table."
+      }
+    ],
+    "category": "home",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.99,
+      "speakingScore": 0.99,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Home",
+      "priority": "critical"
+    },
+    "tags": [
+      "home",
+      "furniture"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Basic furniture vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Masa",
+    "en": "Table",
+    "examples": [
+      {
+        "tr": "Masanız hazır değil"
+      },
+      {
+        "en": "Your table is not ready"
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.5,
+      "frequencyScore": 0.5,
+      "speakingScore": 0.5,
+      "complexityScore": 0.5,
+      "abstractnessScore": 0.5,
+      "multiMeaningScore": 0.5
+    },
+    "learning": {
+      "stage": "elementary",
+      "group": "Travel and Culture",
+      "priority": "medium"
+    },
+    "tags": [
+      "adjective",
+      "high-frequency",
+      "grammar-pattern",
+      "ability"
+    ]
+  },
+  {
+    "level": "1",
+    "tr": "Çay",
+    "en": "Tea",
+    "examples": [
+      {
+        "tr": "Bir fincan çay alabilir miyim?"
+      },
+      {
+        "en": "Can I have a cup of tea?"
+      }
+    ],
+    "category": "food"
+  },
+  {
+    "level": "1",
+    "tr": "Televizyon",
+    "en": "Television",
+    "examples": [
+      {
+        "tr": "Televizyon izliyorum."
+      },
+      {
+        "en": "I am watching television."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Şu",
+    "en": "That",
+    "examples": [
+      {
+        "tr": "Şu bina çok eski."
+      },
+      {
+        "en": "That building is very old."
+      }
+    ],
+    "category": "demonstrative",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0.2
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Demonstratives",
+      "priority": "high"
+    },
+    "tags": [
+      "demonstrative",
+      "grammar"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Used for distant objects.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Tiyatro",
+    "en": "Theater",
+    "examples": [
+      {
+        "tr": "Bu akşam tiyatroya gidiyoruz."
+      },
+      {
+        "en": "We are going to the theater tonight."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.12,
+      "frequencyScore": 0.91,
+      "speakingScore": 0.91,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "medium"
+    },
+    "tags": [
+      "place",
+      "entertainment",
+      "culture"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common entertainment venue.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Bunlar",
+    "en": "These",
+    "examples": [
+      {
+        "tr": "Bunlar benim anahtarlarım."
+      },
+      {
+        "en": "These are my keys."
+      }
+    ],
+    "category": "demonstrative",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Demonstratives",
+      "priority": "high"
+    },
+    "tags": [
+      "demonstrative",
+      "plural"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Plural demonstrative.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Onlar",
+    "en": "They",
+    "examples": [
+      {
+        "tr": "Onlar evde."
+      },
+      {
+        "en": "They are at home."
+      }
+    ],
+    "category": "pronoun",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.95,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Pronouns",
+      "priority": "critical"
+    },
+    "tags": [
+      "pronoun",
+      "subject"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Third-person plural pronoun.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Bu",
+    "en": "This",
+    "examples": [
+      {
+        "tr": "Bu benim kitabım."
+      },
+      {
+        "en": "This is my book."
+      }
+    ],
+    "category": "demonstrative",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0.2
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Demonstratives",
+      "priority": "high"
+    },
+    "tags": [
+      "demonstrative",
+      "grammar"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common demonstrative pronoun.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Bu",
+    "en": "This",
+    "examples": [
+      {
+        "tr": "Bu kitabı beğendim."
+      },
+      {
+        "en": "I liked this book."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.3,
+      "multiMeaningScore": 0.4
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "determiner",
+      "high-frequency",
+      "daily-life",
+      "grammar-pattern"
+    ],
+    "ai": {
+      "confidence": 0.85,
+      "reason": "Demonstrative determiner and top-20 spoken word that must appear early; moved from level 5 to 1.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Şunlar",
+    "en": "Those",
+    "examples": [
+      {
+        "tr": "Şunlar çok pahalı."
+      },
+      {
+        "en": "Those are very expensive."
+      }
+    ],
+    "category": "demonstrative",
+    "difficulty": {
+      "difficultyScore": 0.15,
+      "frequencyScore": 0.9,
+      "speakingScore": 0.9,
+      "complexityScore": 0.15,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Demonstratives",
+      "priority": "high"
+    },
+    "tags": [
+      "demonstrative",
+      "plural"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Plural demonstrative.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Üç",
+    "en": "Three",
+    "examples": [
+      {
+        "tr": "Masada üç kişi vardı."
+      },
+      {
+        "en": "There were three people at the table."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.95,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.2,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "number",
+      "high-frequency",
+      "daily-life"
+    ],
+    "ai": {
+      "confidence": 0.92,
+      "reason": "Top-100 basic number that must appear early; moved from level 5 to 1.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Perşembe",
+    "en": "Thursday",
+    "examples": [
+      {
+        "tr": "Perşembe boşum."
+      },
+      {
+        "en": "I am free on Thursday."
+      }
+    ],
+    "category": "day",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "day",
+      "calendar"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core day of the week.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Domates",
+    "en": "Tomato",
+    "examples": [
+      {
+        "tr": "Domates salatada var."
+      },
+      {
+        "en": "There is tomato in the salad."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.08,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.98,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "high"
+    },
+    "tags": [
+      "food",
+      "vegetable"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Very common food item.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Havlu",
+    "en": "Towel",
+    "examples": [
+      {
+        "tr": "Temiz bir havlu istiyorum."
+      },
+      {
+        "en": "I need a clean towel."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Tren istasyonu",
+    "en": "Train station",
+    "examples": [
+      {
+        "tr": "Tren istasyonu uzakta."
+      },
+      {
+        "en": "The train station is far away."
+      }
+    ],
+    "category": "place",
+    "difficulty": {
+      "difficultyScore": 0.12,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Places",
+      "priority": "high"
+    },
+    "tags": [
+      "place",
+      "transport"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Common travel location.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Çöp kutusu",
+    "en": "Trash can",
+    "examples": [
+      {
+        "tr": "Çöpü çöp kutusuna at."
+      },
+      {
+        "en": "Put the trash in the trash can."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Salı",
+    "en": "Tuesday",
+    "examples": [
+      {
+        "tr": "Salı günü okula gidiyorum."
+      },
+      {
+        "en": "I go to school on Tuesday."
+      }
+    ],
+    "category": "day",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "day",
+      "calendar",
+      "time"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core day of the week.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Duvar",
+    "en": "Wall",
+    "examples": [
+      {
+        "tr": "Duvar beyaz."
+      },
+      {
+        "en": "The wall is white."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Gardırop",
+    "en": "Wardrobe",
+    "examples": [
+      {
+        "tr": "Kıyafetler gardıropta."
+      },
+      {
+        "en": "The clothes are in the wardrobe."
+      }
+    ],
+    "category": "home"
+  },
+  {
+    "level": "1",
+    "tr": "Su",
+    "en": "Water",
+    "examples": [
+      {
+        "tr": "Her gün su içerim."
+      },
+      {
+        "en": "I drink water every day."
+      }
+    ],
+    "category": "food",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Food",
+      "priority": "critical"
+    },
+    "tags": [
+      "food",
+      "drink",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential everyday drink.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Biz",
+    "en": "We",
+    "examples": [
+      {
+        "tr": "Biz arkadaşız."
+      },
+      {
+        "en": "We are friends."
+      }
+    ],
+    "category": "pronoun",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.98,
+      "speakingScore": 0.95,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Pronouns",
+      "priority": "critical"
+    },
+    "tags": [
+      "pronoun",
+      "subject"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "First-person plural pronoun.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Çarşamba",
+    "en": "Wednesday",
+    "examples": [
+      {
+        "tr": "Çarşamba toplantımız var."
+      },
+      {
+        "en": "We have a meeting on Wednesday."
+      }
+    ],
+    "category": "day",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.95,
+      "speakingScore": 0.95,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "day",
+      "calendar"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core day of the week.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "İsminiz nedir?",
+    "en": "What is your name?",
+    "examples": [
+      {
+        "tr": "Adınız nedir?"
+      },
+      {
+        "en": "What is your name?"
+      },
+      {
+        "tr": "Annenizin adı nedir?"
+      },
+      {
+        "en": "What is your mother's name?"
+      }
+    ],
+    "category": "question_pattern",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.85,
+      "speakingScore": 0.9,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.1,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "question",
+      "conversation-starter",
+      "travel",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 0.92,
+      "reason": "Basic question template; invalid level 0 fixed to 1 as high-frequency speaking vocabulary belongs early.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Nerelisiniz?",
+    "en": "Where are you from?",
+    "examples": [
+      {
+        "tr": "Nerelisiniz?"
+      },
+      {
+        "en": "Where are you from?"
+      }
+    ],
+    "category": "question_pattern",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.85,
+      "speakingScore": 0.9,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.1,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "question",
+      "conversation-starter",
+      "travel",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 0.92,
+      "reason": "Basic question template; invalid level 0 fixed to 1 as high-frequency speaking vocabulary belongs early.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Tuvalet nerede?",
+    "en": "Where is the restroom?",
+    "examples": [
+      {
+        "tr": "Affedersiniz, tuvalet nerede?"
+      },
+      {
+        "en": "Excuse me, where is the restroom?"
+      }
+    ],
+    "category": "question_pattern",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.75,
+      "speakingScore": 0.9,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.05,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "question",
+      "travel",
+      "daily-life",
+      "high-frequency"
+    ],
+    "ai": {
+      "confidence": 0.93,
+      "reason": "Essential location question template (Where is...); invalid level 0 fixed to 1 for survival speaking.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Burası neresi?",
+    "en": "Where is this place?",
+    "examples": [
+      {
+        "tr": "Affedersiniz, burası neresi?"
+      },
+      {
+        "en": "Excuse me, where is this place?"
+      }
+    ],
+    "category": "question_pattern",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 0.6,
+      "speakingScore": 0.85,
+      "complexityScore": 0.2,
+      "abstractnessScore": 0.1,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "question",
+      "travel",
+      "location"
+    ],
+    "ai": {
+      "confidence": 0.9,
+      "reason": "Basic location question template; invalid level 0 fixed to 1 for early survival speaking.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Beyaz",
+    "en": "White",
+    "examples": [
+      {
+        "tr": "Kedi beyaz."
+      },
+      {
+        "en": "The cat is white."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "critical"
+    },
+    "tags": [
+      "color",
+      "basic"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential basic color.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Kim",
+    "en": "Who",
+    "examples": [
+      {
+        "tr": "O kim?"
+      },
+      {
+        "en": "Who is that?"
+      }
+    ],
+    "category": "question-pronoun",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0.1
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Question Words",
+      "priority": "critical"
+    },
+    "tags": [
+      "question",
+      "wh-word"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential WH-question word.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Pencere",
+    "en": "Window",
+    "examples": [
+      {
+        "tr": "Pencereyi aç."
+      },
+      {
+        "en": "Open the window."
+      }
+    ],
+    "category": "home",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 0.99,
+      "speakingScore": 0.99,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Home",
+      "priority": "critical"
+    },
+    "tags": [
+      "home",
+      "object"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Essential household vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Kış",
+    "en": "Winter",
+    "examples": [
+      {
+        "tr": "Kışın kar yağar."
+      },
+      {
+        "en": "It snows in winter."
+      }
+    ],
+    "category": "season",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Time",
+      "priority": "high"
+    },
+    "tags": [
+      "season",
+      "weather"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "One of the four seasons.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "İle",
+    "en": "With",
+    "examples": [
+      {
+        "tr": "Arkadaşlarıyla geldi."
+      },
+      {
+        "en": "She came with her friends."
+      }
+    ],
+    "category": "connector",
+    "difficulty": {
+      "difficultyScore": 0.2,
+      "frequencyScore": 1,
+      "speakingScore": 0.98,
+      "complexityScore": 0.3,
+      "abstractnessScore": 0.3,
+      "multiMeaningScore": 0.5
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "preposition",
+      "high-frequency",
+      "essential",
+      "grammar-pattern"
+    ],
+    "ai": {
+      "confidence": 0.72,
+      "reason": "Top-frequency preposition (classified as connector, no preposition category); moved from 6 to 1 as essential early vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Sarı",
+    "en": "Yellow",
+    "examples": [
+      {
+        "tr": "Muz sarıdır."
+      },
+      {
+        "en": "A banana is yellow."
+      }
+    ],
+    "category": "color",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Colors",
+      "priority": "critical"
+    },
+    "tags": [
+      "color",
+      "basic"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "High-frequency basic color.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Evet",
+    "en": "Yes",
+    "examples": [
+      {
+        "tr": "Evet, toplantıya katılacağım."
+      },
+      {
+        "en": "Yes, I will attend the meeting."
+      }
+    ],
+    "category": "adverb",
+    "difficulty": {
+      "difficultyScore": 0.02,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.02,
+      "abstractnessScore": 0.05,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "high-frequency",
+      "conversation",
+      "response",
+      "essential"
+    ],
+    "ai": {
+      "confidence": 0.85,
+      "reason": "Fundamental single-word affirmative response (classified as adverb); moved from 6 to 1 as absolute first-lesson vocabulary.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Sen",
+    "en": "You",
+    "examples": [
+      {
+        "tr": "Sen çok arkadaş canlısısın."
+      },
+      {
+        "en": "You are very friendly."
+      }
+    ],
+    "category": "pronoun",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0.2
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Pronouns",
+      "priority": "critical"
+    },
+    "tags": [
+      "pronoun",
+      "subject",
+      "grammar"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Second-person subject pronoun.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Siz",
+    "en": "You",
+    "examples": [
+      {
+        "tr": "Siz çok naziksiniz."
+      },
+      {
+        "en": "You are very kind."
+      }
+    ],
+    "category": "pronoun",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0.2
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Pronouns",
+      "priority": "critical"
+    },
+    "tags": [
+      "pronoun",
+      "subject"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Plural or formal second-person pronoun.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Sen",
+    "en": "You",
+    "examples": [
+      {
+        "tr": "Sen bu işi başarabilirsin."
+      },
+      {
+        "en": "You can do this job."
+      }
+    ],
+    "category": "noun",
+    "difficulty": {
+      "difficultyScore": 0.02,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.05,
+      "abstractnessScore": 0.1,
+      "multiMeaningScore": 0.1
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "pronoun",
+      "high-frequency",
+      "essential",
+      "conversation"
+    ],
+    "ai": {
+      "confidence": 0.75,
+      "reason": "Personal pronoun (classified under noun, no pronoun category); top-frequency word moved from 6 to 1.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Senin",
+    "en": "Your",
+    "examples": [
+      {
+        "tr": "Senin telefonun nerede?"
+      },
+      {
+        "en": "Where is your phone?"
+      }
+    ],
+    "category": "possessive-adjective",
+    "difficulty": {
+      "difficultyScore": 0.1,
+      "frequencyScore": 1,
+      "speakingScore": 1,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0,
+      "multiMeaningScore": 0
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Possessives",
+      "priority": "critical"
+    },
+    "tags": [
+      "possessive",
+      "adjective"
+    ],
+    "ai": {
+      "confidence": 1,
+      "reason": "Core possessive adjective.",
+      "version": "1.0"
+    }
+  },
+  {
+    "level": "1",
+    "tr": "Senin",
+    "en": "Your",
+    "examples": [
+      {
+        "tr": "Bu senin fikrindi."
+      },
+      {
+        "en": "This was your idea."
+      }
+    ],
+    "category": "adjective",
+    "difficulty": {
+      "difficultyScore": 0.05,
+      "frequencyScore": 1,
+      "speakingScore": 0.98,
+      "complexityScore": 0.1,
+      "abstractnessScore": 0.1,
+      "multiMeaningScore": 0.05
+    },
+    "learning": {
+      "stage": "beginner",
+      "group": "Foundations",
+      "priority": "high"
+    },
+    "tags": [
+      "possessive",
+      "high-frequency",
+      "essential",
+      "grammar-pattern"
+    ],
+    "ai": {
+      "confidence": 0.8,
+      "reason": "Possessive determiner (classified as adjective); top-frequency essential word moved from 6 to 1.",
+      "version": "1.0"
+    }
+  }
+]

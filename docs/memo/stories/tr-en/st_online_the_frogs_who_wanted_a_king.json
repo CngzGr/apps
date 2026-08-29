@@ -1,0 +1,235 @@
+{
+  "id": "st_online_the_frogs_who_wanted_a_king",
+  "level": 1,
+  "category": "classic-stories",
+  "cefr": "A1",
+  "title": {
+    "en": "The Frogs Who Wanted a King",
+    "tr": "Kurbağalar Kral İstiyor"
+  },
+  "summary": {
+    "tr": "Kurbağalar kendilerine bir kral verilmesini ister. Gelen ilk kralı beğenmezler ve daha güçlü bir kral isterler, ancak yeni kralları başlarına büyük bir sorun açar.",
+    "en": "The frogs ask for a king. They do not like their first king and ask for a stronger one, but their new king causes them a big problem."
+  },
+  "tags": [
+    "classic-stories",
+    "animals",
+    "fables"
+  ],
+  "estimatedSeconds": 70,
+  "targetWordIds": [
+    "frog",
+    "king",
+    "pond",
+    "quiet",
+    "afraid",
+    "strong",
+    "ask",
+    "happy"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "Many frogs lived together in a quiet pond.",
+      "tr": "Birçok kurbağa sessiz bir gölette birlikte yaşıyordu."
+    },
+    {
+      "id": "s2",
+      "en": "They had no king, and they were not happy about it.",
+      "tr": "Kralları yoktu ve bundan memnun değillerdi."
+    },
+    {
+      "id": "s3",
+      "en": "One frog said, \"We need a king!\"",
+      "tr": "Bir kurbağa, \"Bir krala ihtiyacımız var!\" dedi."
+    },
+    {
+      "id": "s4",
+      "en": "The other frogs agreed and asked the god Jupiter for a king.",
+      "tr": "Diğer kurbağalar kabul etti ve tanrı Jüpiter'den bir kral istediler."
+    },
+    {
+      "id": "s5",
+      "en": "Jupiter sent a large piece of wood to the pond.",
+      "tr": "Jüpiter gölete büyük bir tahta parçası gönderdi."
+    },
+    {
+      "id": "s6",
+      "en": "The wood fell into the water with a loud sound.",
+      "tr": "Tahta yüksek bir sesle suya düştü."
+    },
+    {
+      "id": "s7",
+      "en": "The frogs were afraid and hid under the water.",
+      "tr": "Kurbağalar korktu ve suyun altına saklandı."
+    },
+    {
+      "id": "s8",
+      "en": "After a while, one frog looked at the wood and said, \"Our king is very quiet!\"",
+      "tr": "Bir süre sonra bir kurbağa tahtaya baktı ve, \"Kralımız çok sessiz!\" dedi."
+    },
+    {
+      "id": "s9",
+      "en": "Soon, all the frogs jumped onto the wood.",
+      "tr": "Kısa süre sonra bütün kurbağalar tahtanın üzerine atladı."
+    },
+    {
+      "id": "s10",
+      "en": "They laughed and said, \"This is not a real king!\"",
+      "tr": "Güldüler ve, \"Bu gerçek bir kral değil!\" dediler."
+    },
+    {
+      "id": "s11",
+      "en": "The frogs went back to Jupiter and said, \"Please give us a strong king.\"",
+      "tr": "Kurbağalar Jüpiter'e geri gittiler ve, \"Lütfen bize güçlü bir kral ver,\" dediler."
+    },
+    {
+      "id": "s12",
+      "en": "This time, Jupiter sent a big stork to the pond.",
+      "tr": "Bu sefer Jüpiter gölete büyük bir leylek gönderdi."
+    },
+    {
+      "id": "s13",
+      "en": "The stork walked around the pond and started to eat the frogs.",
+      "tr": "Leylek göletin etrafında dolaştı ve kurbağaları yemeye başladı."
+    },
+    {
+      "id": "s14",
+      "en": "The frogs became very afraid and shouted, \"Please help us!\"",
+      "tr": "Kurbağalar çok korktu ve, \"Lütfen bize yardım edin!\" diye bağırdı."
+    },
+    {
+      "id": "s15",
+      "en": "But it was too late. The frogs wished they had kept their quiet king.",
+      "tr": "Ama artık çok geçti. Kurbağalar sessiz krallarını korumuş olmayı diledi."
+    },
+    {
+      "id": "s16",
+      "en": "They learned that sometimes a quiet life is better than a dangerous one.",
+      "tr": "Bazen sakin bir hayatın tehlikeli bir hayattan daha iyi olduğunu öğrendiler."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Where did the frogs live?",
+        "tr": "Kurbağalar nerede yaşıyordu?"
+      },
+      "options": [
+        {
+          "en": "In a pond",
+          "tr": "Bir gölette"
+        },
+        {
+          "en": "In a forest",
+          "tr": "Bir ormanda"
+        },
+        {
+          "en": "In a river",
+          "tr": "Bir nehirde"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s1",
+      "explanation": {
+        "tr": "Kurbağalar sessiz bir gölette birlikte yaşıyordu."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "The frogs were happy without a king.",
+        "tr": "Kurbağalar kralsız olmaktan mutluydu."
+      },
+      "answerBool": false,
+      "sentenceRef": "s2",
+      "explanation": {
+        "tr": "Kurbağalar kralları olmadığı için mutlu değildi."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What was the first king?",
+        "tr": "İlk kral neydi?"
+      },
+      "options": [
+        {
+          "en": "A piece of wood",
+          "tr": "Bir tahta parçası"
+        },
+        {
+          "en": "A big frog",
+          "tr": "Büyük bir kurbağa"
+        },
+        {
+          "en": "A stork",
+          "tr": "Bir leylek"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s5",
+      "explanation": {
+        "tr": "Jüpiter ilk kral olarak gölete büyük bir tahta parçası gönderdi."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What happened when the stork came?",
+        "tr": "Leylek geldiğinde ne oldu?"
+      },
+      "options": [
+        {
+          "en": "It started to eat the frogs",
+          "tr": "Kurbağaları yemeye başladı"
+        },
+        {
+          "en": "It became their friend",
+          "tr": "Onların arkadaşı oldu"
+        },
+        {
+          "en": "It left the pond",
+          "tr": "Göleti terk etti"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s13",
+      "explanation": {
+        "tr": "Leylek gölete geldi ve kurbağaları yemeye başladı."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did the frogs learn?",
+        "tr": "Kurbağalar ne öğrendi?"
+      },
+      "options": [
+        {
+          "en": "A quiet life can be better than a dangerous one",
+          "tr": "Sakin bir hayat tehlikeli bir hayattan daha iyi olabilir"
+        },
+        {
+          "en": "Strong kings are always good",
+          "tr": "Güçlü krallar her zaman iyidir"
+        },
+        {
+          "en": "Ponds are dangerous places",
+          "tr": "Göletler tehlikeli yerlerdir"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s16",
+      "explanation": {
+        "tr": "Kurbağalar bazen sakin bir hayatın daha iyi olduğunu öğrendi."
+      }
+    }
+  ]
+}

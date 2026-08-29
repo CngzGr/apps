@@ -1,0 +1,255 @@
+{
+  "id": "st_online_the_hunchback_of_notre_dame",
+  "level": 3,
+  "category": "classic-stories",
+  "cefr": "A2",
+  "title": {
+    "en": "The Hunchback of Notre-Dame",
+    "tr": "Notre Dame'ın Kamburu"
+  },
+  "summary": {
+    "tr": "Paris'teki Notre Dame Katedrali'nde yaşayan Quasimodo, görünüşü nedeniyle insanların korktuğu ve dışladığı genç bir adamdır. Bir gün güzel ve iyi kalpli Esmeralda ile tanışır. Esmeralda, Quasimodo'ya diğer insanlardan farklı davranır ve ona yardım eder. Ancak güçlü ve acımasız Claude Frollo, Esmeralda'ya karşı takıntılıdır. Quasimodo, Esmeralda'yı korumaya çalışırken sevginin, iyiliğin ve cesaretin gerçek değerini öğrenir.",
+    "en": "Quasimodo is a young man who lives in Notre-Dame Cathedral in Paris. People are afraid of him and treat him badly because of his appearance. One day, he meets Esmeralda, a beautiful and kind young woman. She treats Quasimodo with kindness and helps him when others do not. However, the powerful and cruel Claude Frollo becomes obsessed with Esmeralda. Quasimodo tries to protect her and learns the true value of kindness, courage, and love."
+  },
+  "tags": [
+    "classic-stories",
+    "love",
+    "courage"
+  ],
+  "estimatedSeconds": 110,
+  "targetWordIds": [
+    "cathedral",
+    "kind",
+    "ugly",
+    "beautiful",
+    "protect",
+    "love",
+    "fear",
+    "courage"
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "en": "Quasimodo lived alone in the famous Notre-Dame Cathedral in Paris.",
+      "tr": "Quasimodo Paris'teki ünlü Notre Dame Katedrali'nde yalnız yaşıyordu."
+    },
+    {
+      "id": "s2",
+      "en": "He was born with a different face and body, so many people were afraid of him.",
+      "tr": "Farklı bir yüz ve vücutla doğmuştu, bu yüzden birçok insan ondan korkuyordu."
+    },
+    {
+      "id": "s3",
+      "en": "Quasimodo spent most of his time inside the cathedral and watched the city from above.",
+      "tr": "Quasimodo zamanının çoğunu katedralin içinde geçiriyor ve şehri yukarıdan izliyordu."
+    },
+    {
+      "id": "s4",
+      "en": "Claude Frollo, a powerful man in the cathedral, had raised Quasimodo and controlled his life.",
+      "tr": "Katedralde güçlü bir adam olan Claude Frollo, Quasimodo'yu büyütmüş ve onun hayatını kontrol etmişti."
+    },
+    {
+      "id": "s5",
+      "en": "One day, Quasimodo saw Esmeralda, a young woman who was dancing in the city.",
+      "tr": "Bir gün Quasimodo şehirde dans eden genç bir kadın olan Esmeralda'yı gördü."
+    },
+    {
+      "id": "s6",
+      "en": "Esmeralda was beautiful, but more importantly, she was kind to people who needed help.",
+      "tr": "Esmeralda güzeldi ama daha önemlisi, yardıma ihtiyacı olan insanlara karşı nazikti."
+    },
+    {
+      "id": "s7",
+      "en": "One evening, Quasimodo was treated badly by a crowd in the street.",
+      "tr": "Bir akşam Quasimodo sokakta bir kalabalık tarafından kötü muamele gördü."
+    },
+    {
+      "id": "s8",
+      "en": "He was thirsty and asked for water, but nobody wanted to help him.",
+      "tr": "Susamıştı ve su istedi ama kimse ona yardım etmek istemedi."
+    },
+    {
+      "id": "s9",
+      "en": "Esmeralda came forward, gave him water, and said, \"Here, you need this.\"",
+      "tr": "Esmeralda öne çıktı, ona su verdi ve, \"Al, buna ihtiyacın var,\" dedi."
+    },
+    {
+      "id": "s10",
+      "en": "Quasimodo looked at her with surprise and said, \"Thank you. You are very kind.\"",
+      "tr": "Quasimodo şaşkınlıkla ona baktı ve, \"Teşekkür ederim. Çok naziksin,\" dedi."
+    },
+    {
+      "id": "s11",
+      "en": "It was the first time that someone had shown him real kindness in front of everyone.",
+      "tr": "Birinin herkesin önünde ona gerçek bir iyilik göstermesi ilk kez oluyordu."
+    },
+    {
+      "id": "s12",
+      "en": "Frollo wanted Esmeralda to leave the city, but she refused to obey him.",
+      "tr": "Frollo Esmeralda'nın şehirden ayrılmasını istiyordu ama Esmeralda ona itaat etmeyi reddetti."
+    },
+    {
+      "id": "s13",
+      "en": "When Esmeralda was in danger, Quasimodo decided to protect her.",
+      "tr": "Esmeralda tehlikede olduğunda Quasimodo onu korumaya karar verdi."
+    },
+    {
+      "id": "s14",
+      "en": "He took her to the cathedral and said, \"You are safe here.\"",
+      "tr": "Onu katedrale götürdü ve, \"Burada güvendesin,\" dedi."
+    },
+    {
+      "id": "s15",
+      "en": "Esmeralda looked at him and replied, \"Thank you, Quasimodo. You have a good heart.\"",
+      "tr": "Esmeralda ona baktı ve, \"Teşekkür ederim Quasimodo. İyi bir kalbin var,\" diye cevap verdi."
+    },
+    {
+      "id": "s16",
+      "en": "Quasimodo knew that many people saw him as ugly, but Esmeralda saw the good person inside him.",
+      "tr": "Quasimodo birçok insanın onu çirkin gördüğünü biliyordu ama Esmeralda onun içindeki iyi insanı görüyordu."
+    },
+    {
+      "id": "s17",
+      "en": "He became very brave and tried to help Esmeralda when she was in danger.",
+      "tr": "Çok cesur oldu ve Esmeralda tehlikedeyken ona yardım etmeye çalıştı."
+    },
+    {
+      "id": "s18",
+      "en": "Quasimodo could not change his appearance, but he showed that a person's heart is more important than his face.",
+      "tr": "Quasimodo görünüşünü değiştiremedi ama bir insanın kalbinin yüzünden daha önemli olduğunu gösterdi."
+    },
+    {
+      "id": "s19",
+      "en": "Esmeralda's kindness changed Quasimodo's life and gave him hope.",
+      "tr": "Esmeralda'nın iyiliği Quasimodo'nun hayatını değiştirdi ve ona umut verdi."
+    },
+    {
+      "id": "s20",
+      "en": "The story reminds us that true beauty comes from kindness, courage, and love.",
+      "tr": "Hikâye bize gerçek güzelliğin iyilikten, cesaretten ve sevgiden geldiğini hatırlatır."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Where did Quasimodo live?",
+        "tr": "Quasimodo nerede yaşıyordu?"
+      },
+      "options": [
+        {
+          "en": "In Notre-Dame Cathedral",
+          "tr": "Notre Dame Katedrali'nde"
+        },
+        {
+          "en": "In a small village",
+          "tr": "Küçük bir köyde"
+        },
+        {
+          "en": "In a castle",
+          "tr": "Bir kalede"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s1",
+      "explanation": {
+        "tr": "Quasimodo Paris'teki Notre Dame Katedrali'nde yaşıyordu."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "trueFalse",
+      "prompt": {
+        "en": "People always treated Quasimodo with kindness.",
+        "tr": "İnsanlar Quasimodo'ya her zaman iyilikle davrandı."
+      },
+      "answerBool": false,
+      "sentenceRef": "s7",
+      "explanation": {
+        "tr": "İnsanlar görünüşü nedeniyle Quasimodo'dan korkuyor ve ona kötü davranıyordu."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What did Esmeralda give Quasimodo?",
+        "tr": "Esmeralda Quasimodo'ya ne verdi?"
+      },
+      "options": [
+        {
+          "en": "Water",
+          "tr": "Su"
+        },
+        {
+          "en": "Food",
+          "tr": "Yiyecek"
+        },
+        {
+          "en": "Money",
+          "tr": "Para"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s9",
+      "explanation": {
+        "tr": "Quasimodo susadığında Esmeralda ona su verdi."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "Why did Quasimodo protect Esmeralda?",
+        "tr": "Quasimodo neden Esmeralda'yı korudu?"
+      },
+      "options": [
+        {
+          "en": "Because she had been kind to him",
+          "tr": "Çünkü Esmeralda ona iyilik yapmıştı"
+        },
+        {
+          "en": "Because she gave him money",
+          "tr": "Çünkü ona para vermişti"
+        },
+        {
+          "en": "Because Frollo asked him to",
+          "tr": "Çünkü Frollo ondan bunu istemişti"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s9",
+      "explanation": {
+        "tr": "Esmeralda, herkes ona kötü davranırken Quasimodo'ya su vererek ona iyilik gösterdi."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": {
+        "en": "What is the main message of the story?",
+        "tr": "Hikâyenin ana mesajı nedir?"
+      },
+      "options": [
+        {
+          "en": "A person's heart is more important than appearance",
+          "tr": "Bir insanın kalbi görünüşünden daha önemlidir"
+        },
+        {
+          "en": "Beautiful people are always happy",
+          "tr": "Güzel insanlar her zaman mutludur"
+        },
+        {
+          "en": "People should never live in a city",
+          "tr": "İnsanlar asla şehirde yaşamamalıdır"
+        }
+      ],
+      "answerIndex": 0,
+      "sentenceRef": "s18",
+      "explanation": {
+        "tr": "Quasimodo'nun hikâyesi, dış görünüşten çok insanın kalbinin ve davranışlarının önemli olduğunu gösterir."
+      }
+    }
+  ]
+}
